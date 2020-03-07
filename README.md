@@ -12,6 +12,8 @@ Fansubs for the anime "Tenkuu Danzai Skelter+Heaven".
 | 1 (Pri) |     |    |     |    |    |    |    |
 | 1 (Alt) |     |    |     |    |    |    |    |
 
+✓ = Completed
+
 ## Credits
 
 This release is joint with the following groups: (TBA)
