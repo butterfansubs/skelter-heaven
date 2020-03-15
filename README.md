@@ -9,7 +9,7 @@ Fansubs for the anime "Tenkuu Danzai Skelter+Heaven".
 
 |      Ep | ENC | TL | TLC | ED | TM | TS | QC |
 |--------:|:---:|:--:|:---:|:--:|:--:|:--:|:--:|
-| 1 (Pri) |     |    |     |    |    |    |    |
+| 1 (Pri) |     |  ✓ |     |    |    |    |    |
 | 1 (Alt) |     |    |     |    |    |    |    |
 
 ✓ = Completed
