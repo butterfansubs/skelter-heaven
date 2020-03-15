@@ -28,62 +28,7 @@ Dialogue: 0,0:01:20.94,0:01:23.34,Default,,0,0,0,,For the first time since the w
 Dialogue: 0,0:01:23.77,0:01:25.13,Default,,0,0,0,,How this will affect—
 Dialogue: 0,0:01:25.60,0:01:28.01,Default,,0,0,0,,...will affect international relations is uncertain.{it is believed that this will affect relations with neighbouring countries}
 Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{OP}OP
-Dialogue: 0,0:01:47.19,0:01:49.73,Default,,0,0,0,,
-Dialogue: 0,0:01:49.79,0:01:53.17,Default,,0,0,0,,
-Dialogue: 0,0:01:54.43,0:01:59.35,Default,,0,0,0,,
-Dialogue: 0,0:02:01.73,0:02:04.25,Default,,0,0,0,,
-Dialogue: 0,0:02:04.43,0:02:07.99,Default,,0,0,0,,
-Dialogue: 0,0:02:08.95,0:02:14.65,Default,,0,0,0,,
-Dialogue: 0,0:02:15.07,0:02:18.72,Default,,0,0,0,,
-Dialogue: 0,0:02:18.95,0:02:22.33,Default,,0,0,0,,
-Dialogue: 0,0:02:22.60,0:02:26.10,Default,,0,0,0,,
-Dialogue: 0,0:02:26.41,0:02:30.99,Default,,0,0,0,,
-Dialogue: 0,0:02:31.43,0:02:32.99,Default,,0,0,0,,
-Dialogue: 0,0:02:33.03,0:02:35.15,Default,,0,0,0,,
-Dialogue: 0,0:02:35.51,0:02:39.10,Default,,0,0,0,,
-Dialogue: 0,0:02:39.37,0:02:42.88,Default,,0,0,0,,
-Dialogue: 0,0:02:43.19,0:02:45.57,Default,,0,0,0,,
-Dialogue: 0,0:02:45.95,0:02:47.29,Default,,0,0,0,,
-Dialogue: 0,0:02:47.52,0:02:49.83,Default,,0,0,0,,
-Dialogue: 0,0:02:50.05,0:02:53.64,Default,,0,0,0,,
-Dialogue: 0,0:02:53.89,0:02:57.61,Default,,0,0,0,,
-Dialogue: 0,0:02:57.78,0:03:00.08,Default,,0,0,0,,
-Dialogue: 0,0:03:00.53,0:03:04.55,Default,,0,0,0,,
-Dialogue: 0,0:03:05.48,0:03:09.14,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Part A}Part A
-Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{ED}ED
-Dialogue: 0,0:17:33.31,0:17:35.06,Default,,0,0,0,,
-Dialogue: 0,0:17:35.68,0:17:36.90,Default,,0,0,0,,
-Dialogue: 0,0:17:37.17,0:17:40.74,Default,,0,0,0,,
-Dialogue: 0,0:17:41.01,0:17:42.62,Default,,0,0,0,,
-Dialogue: 0,0:17:42.98,0:17:44.48,Default,,0,0,0,,
-Dialogue: 0,0:17:44.91,0:17:48.29,Default,,0,0,0,,
-Dialogue: 0,0:17:48.54,0:17:49.33,Default,,0,0,0,,
-Dialogue: 0,0:17:49.72,0:17:53.20,Default,,0,0,0,,
-Dialogue: 0,0:17:53.65,0:17:55.40,Default,,0,0,0,,
-Dialogue: 0,0:17:55.79,0:17:57.23,Default,,0,0,0,,
-Dialogue: 0,0:17:57.50,0:17:59.82,Default,,0,0,0,,
-Dialogue: 0,0:18:00.15,0:18:03.73,Default,,0,0,0,,
-Dialogue: 0,0:18:03.99,0:18:07.60,Default,,0,0,0,,
-Dialogue: 0,0:18:07.83,0:18:11.44,Default,,0,0,0,,
-Dialogue: 0,0:18:11.74,0:18:15.18,Default,,0,0,0,,
-Dialogue: 0,0:18:15.60,0:18:19.02,Default,,0,0,0,,
-Dialogue: 0,0:18:19.45,0:18:23.03,Default,,0,0,0,,
-Dialogue: 0,0:18:23.30,0:18:26.92,Default,,0,0,0,,
-Dialogue: 0,0:18:26.94,0:18:30.74,Default,,0,0,0,,
-Dialogue: 0,0:18:31.07,0:18:35.62,Default,,0,0,0,,
-Dialogue: 0,0:18:36.15,0:18:39.50,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Signs ===============================
-Dialogue: 0,0:01:32.82,0:01:35.91,Default,,0,0,0,,{\pos(320.571,164)}Heavenly Arbiter
-Dialogue: 0,0:01:37.87,0:01:37.91,Default,,0,0,0,,{\pos(226.857,266.286)}You hold the power to save her soul from her mechanical body's pre-programmed fate
-Dialogue: 0,0:03:10.38,0:03:10.42,Default,,0,0,0,,{\pos(318.286,146.857)}Heavenly Arbiter
-Dialogue: 0,0:03:21.39,0:03:30.90,Default,,0,0,0,,{\pos(311.429,397.714)}Mysterious Airborne Entity Begins Moving Over Tokyo Airspace
-Dialogue: 0,0:03:30.94,0:03:35.90,Default,,0,0,0,,{\pos(64,178.286)}Mysterious Airborne Entity Begins Moving Over Tokyo Airspace
-Dialogue: 0,0:03:30.94,0:03:35.90,Default,,0,0,0,,{\pos(449.143,183.429)}Mysterious Airborne Entity Begins Moving Over Tokyo Airspace
-Dialogue: 0,0:16:52.70,0:16:57.37,Default,,0,0,0,,{\pos(325.143,254.286)}One Year Later
-Dialogue: 0,0:16:59.96,0:17:09.42,Default,,0,0,0,,{\pos(283.429,408.571)}Mysterious Airborne Entity Appears over Tokyo Again
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ==================================
-Comment: 0,0:00:18.26,0:00:21.22,Default,,0,0,0,,== ED ==================================
 Dialogue: 0,0:03:18.13,0:03:20.69,Default,,0,0,0,,Just now, we've received an update.{this is repeated later without たった今 at the start and it's still a complete sentence, hence why "Just now," is at the start}
 Dialogue: 0,0:03:21.53,0:03:24.29,Default,,0,0,0,,It appears the object has begun to move.
 Dialogue: 0,0:03:25.01,0:03:26.43,Default,,0,0,0,,Allow me to repeat:
@@ -280,3 +225,15 @@ Dialogue: 0,0:16:58.69,0:16:59.46,Default,,0,0,0,,Breaking news.
 Dialogue: 0,0:17:00.10,0:17:04.06,Default,,0,0,0,,Multiple mysterious entities have appeared in Tokyo's airspace.
 Dialogue: 0,0:17:05.22,0:17:07.18,Default,,0,0,0,,A similar entity was destroyed
 Dialogue: 0,0:17:07.54,0:17:09.86,Default,,0,0,0,,by the JSDF one year ago.
+Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{ED}ED
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Signs ===============================
+Dialogue: 0,0:01:32.82,0:01:35.91,Default,,0,0,0,,{\pos(320.571,164)}Heavenly Arbiter
+Dialogue: 0,0:01:37.87,0:01:37.91,Default,,0,0,0,,{\pos(226.857,266.286)}You hold the power to save her soul from her mechanical body's pre-programmed fate
+Dialogue: 0,0:03:10.38,0:03:10.42,Default,,0,0,0,,{\pos(318.286,146.857)}Heavenly Arbiter
+Dialogue: 0,0:03:21.39,0:03:30.90,Default,,0,0,0,,{\pos(311.429,397.714)}Mysterious Airborne Entity Begins Moving Over Tokyo Airspace
+Dialogue: 0,0:03:30.94,0:03:35.90,Default,,0,0,0,,{\pos(64,178.286)}Mysterious Airborne Entity Begins Moving Over Tokyo Airspace
+Dialogue: 0,0:03:30.94,0:03:35.90,Default,,0,0,0,,{\pos(449.143,183.429)}Mysterious Airborne Entity Begins Moving Over Tokyo Airspace
+Dialogue: 0,0:16:52.70,0:16:57.37,Default,,0,0,0,,{\pos(325.143,254.286)}One Year Later
+Dialogue: 0,0:16:59.96,0:17:09.42,Default,,0,0,0,,{\pos(283.429,408.571)}Mysterious Airborne Entity Appears over Tokyo Again
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ==================================
+Comment: 0,0:00:18.26,0:00:21.22,Default,,0,0,0,,== ED ==================================
