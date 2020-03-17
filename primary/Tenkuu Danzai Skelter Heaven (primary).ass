@@ -26,8 +26,8 @@ Dialogue: 0,0:01:19.02,0:01:20.43,Default,,0,0,0,,For the—
 Dialogue: 0,0:01:20.84,0:01:23.66,Default,,0,0,0,,For the first time since the war, the JSDF has been mobilized as part of a public security operation.
 Dialogue: 0,0:01:23.66,0:01:25.49,Default,,0,0,0,,How this will affect—
 Dialogue: 0,0:01:25.49,0:01:28.06,Default,,0,0,0,,...will affect international relations is uncertain.{it is believed that this will affect relations with neighbouring countries}
-Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{OP}OP
-Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Part A}Part A
+Comment: 0,0:01:28.73,0:01:28.73,Default,chptr,0,0,0,,{OP}OP
+Comment: 0,0:03:16.92,0:03:16.92,Default,chptr,0,0,0,,{Part A}Part A
 Dialogue: 0,0:03:18.03,0:03:21.26,Default,,0,0,0,,Just now, we've received an update.{this is repeated later without たった今 at the start and it's still a complete sentence, hence why "Just now," is at the start}
 Dialogue: 0,0:03:21.26,0:03:24.87,Default,,0,0,0,,It appears the object has begun to move.
 Dialogue: 0,0:03:24.87,0:03:26.96,Default,,0,0,0,,Allow me to repeat:
@@ -128,6 +128,7 @@ Dialogue: 0,0:09:28.12,0:09:31.45,Default,,0,0,0,,{\i1}But I want to live up to 
 Dialogue: 0,0:09:31.45,0:09:33.80,Default,,0,0,0,,{\i1}No one's going to listen to excuses.
 Dialogue: 0,0:09:33.80,0:09:36.38,Default,,0,0,0,,{\i1}I won't give in to the enemy or my own weakness.
 Dialogue: 0,0:09:36.38,0:09:38.89,Default,,0,0,0,,{\i1}Then I'll tell him how I feel!{literally just "convey to him", but this seems an obvious enough inference}
+Comment: 0,0:09:56.49,0:09:56.49,Default,chptr,0,0,0,,{Part B}Part B
 Dialogue: 0,0:09:57.46,0:09:59.31,Default,,0,0,0,,Energy readings increasing.
 Dialogue: 0,0:09:59.31,0:10:00.92,Default,,0,0,0,,All units, prepare to engage.
 Dialogue: 0,0:10:00.92,0:10:02.54,Default,,0,0,0,,01 in pursuit.
@@ -224,7 +225,7 @@ Dialogue: 0,0:16:58.59,0:16:59.85,Default,,0,0,0,,Breaking news.
 Dialogue: 0,0:16:59.85,0:17:04.36,Default,,0,0,0,,Multiple mysterious entities have appeared in Tokyo's airspace.
 Dialogue: 0,0:17:05.12,0:17:07.44,Default,,0,0,0,,A similar entity was destroyed
 Dialogue: 0,0:17:07.44,0:17:10.16,Default,,0,0,0,,by the JSDF one year ago.
-Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{ED}ED
+Comment: 0,0:17:23.60,0:17:23.60,Default,chptr,0,0,0,,{ED}ED
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Signs ===============================
 Dialogue: 0,0:01:32.72,0:01:36.21,Default,,0,0,0,,{\pos(320.571,164)}Heavenly Arbiter
 Dialogue: 0,0:01:37.77,0:01:38.21,Default,,0,0,0,,{\pos(226.857,266.286)}You hold the power to save her soul from her mechanical body's pre-programmed fate
