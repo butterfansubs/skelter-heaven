@@ -41,8 +41,8 @@ Dialogue: 0,0:01:38.49,0:01:40.40,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H25
 Dialogue: 0,0:01:40.40,0:01:40.50,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\pos(56.667,191.222)}SkelterSubs presents...
 Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(-460,10,10,10,0,200)\clip(6.763,6,492.866,38.786)}In Collaboration with:
 Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(28,-100,28,36,200,400)\clip(23.704,30.646,550.504,120.769)}ButterFS    0x539     Kaleido      LCE\NSMC-Subs   Obelix      Kantai       HRI\NChyuu       TSCamp    PAS         Sodra
-Dialogue: 1,0:01:59.24,0:02:02.24,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}Translation: Melancholy; TLC: jymmy; ED: Lann, 0x539
-Dialogue: 1,0:02:01.79,0:02:04.79,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}SED: Nazaki, 0x539; TM: Kuzu, Luceo; KTM: Shinon
+Dialogue: 1,0:01:59.24,0:02:02.24,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}Translation: Melancholy; TLC: jymmy; ED: Lann, The0x539
+Dialogue: 1,0:02:01.79,0:02:04.79,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}SED: Nazaki, The0x539; TM: Kuzu, Luceo; KTM: Shinon
 Dialogue: 1,0:02:03.90,0:02:06.92,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}TS: Sodra, Shinon; KFX: Shinon
 Dialogue: 0,0:01:59.24,0:02:07.04,FanSubBlock,,0,0,0,,{\c&H5F5F5F&\be1\clip(183.429,3.333,640,185.867)\frz353.8\pos(421.625,56.389)\1a&H28&}AAAAAAAAAAAAA
 Dialogue: 0,0:02:07.04,0:02:07.08,FanSubBlock,,0,0,0,,{\c&H5F5F5F&\be1\frz353.8\pos(421.625,56.389)\1a&H28&\clip(183.429,3.333,541.424,216.867)}AAAAAAAAAAAAA
