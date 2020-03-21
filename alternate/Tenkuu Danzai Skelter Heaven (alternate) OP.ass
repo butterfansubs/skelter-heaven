@@ -16,8 +16,8 @@ Video File: E:/Downloads/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
-Active Line: 2
-Video Position: 2966
+Active Line: 4
+Video Position: 3009
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,9 +38,7 @@ Comment: 0,0:00:02.17,0:00:02.24,OPRomaji,,0,0,0,template line,{\fade(200,200)\b
 Comment: 1,0:00:02.17,0:00:02.24,OPTL,,0,0,0,template pre-line,{\fade(200,200)\blur1}
 Dialogue: 0,0:01:38.23,0:01:38.49,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\move(-219,213,56.667,213,1,102)}SkelterSubs presents... 
 Dialogue: 0,0:01:38.49,0:01:40.40,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\move(56.667,213,56.667,191.222,0,175)}SkelterSubs presents... 
-Dialogue: 0,0:01:40.40,0:01:40.43,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\pos(56.667,191.222)}SkelterSubs presents...
-Dialogue: 0,0:01:40.43,0:01:40.46,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\pos(56.667,191.222)\clip(48,152.889,264,328)}SkelterSubs presents... 
-Dialogue: 0,0:01:40.46,0:01:40.50,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\pos(56.667,191.222)\clip(48,152.889,105.778,328.889)}SkelterSubs presents...
+Dialogue: 0,0:01:40.40,0:01:40.50,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\pos(56.667,191.222)}SkelterSubs presents...
 Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(-460,10,10,10,0,200)\clip(6.763,6,492.866,38.786)}In Collaboration with:
 Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(28,-100,28,36,200,400)\clip(23.704,30.646,550.504,120.769)}ButterFS    0x539     Kaleido      LCE\NSMC-Subs   Obelix      Kantai       HRI\NChyuu       TSCamp    PAS         Sodra
 Dialogue: 1,0:01:59.24,0:02:02.24,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}Translation: Melancholy; TLC: jymmy; ED: Lann, 0x539
