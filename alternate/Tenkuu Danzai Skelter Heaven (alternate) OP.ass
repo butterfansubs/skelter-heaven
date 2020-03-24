@@ -15,9 +15,10 @@ Audio File: E:/Downloads/skelterheaven.mkv
 Video File: E:/Downloads/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.125000
-Active Line: 4
-Video Position: 3009
+Video Zoom Percent: 1.000000
+Scroll Position: 66
+Active Line: 6
+Video Position: 5779
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,21 +27,21 @@ Style: OPTL-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,
 Style: Credit-furigana,Volter (Goldfish),10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,25,1
 Style: FanSubBlock-furigana,Fansub Block,10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,200,200,0,0,1,0,0,5,10,10,25,1
 Style: OPRomaji-furigana,Volter (Goldfish),11,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,0.75,0,2,10,10,20,1
-Style: OPRomaji,Volter (Goldfish),24,&H00FFFFFF,&H00A3494A,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,20,1
+Style: OPRomaji,Monotype Corsiva,28,&H00FFFFFF,&H00A3494A,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,20,1
 Style: FanSubBlock,Fansub Block,20,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,200,200,0,0,1,0,0,5,10,10,25,1
 Style: Credit,Volter (Goldfish),20,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
-Style: OPTL,Volter (Goldfish),20,&H00F8F091,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,48,1
+Style: OPTL,Monotype Corsiva,22,&H00F8F091,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,48,1
 Style: Core,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:02.17,0:00:02.24,OPRomaji,,0,0,0,template line,{\fade(200,200)\blur1\k$kdur}
 Comment: 1,0:00:02.17,0:00:02.24,OPTL,,0,0,0,template pre-line,{\fade(200,200)\blur1}
-Dialogue: 0,0:01:38.23,0:01:38.49,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\move(-219,213,56.667,213,1,102)}SkelterSubs presents... 
-Dialogue: 0,0:01:38.49,0:01:40.40,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\move(56.667,213,56.667,191.222,0,175)}SkelterSubs presents... 
+Dialogue: 0,0:01:38.23,0:01:38.49,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\move(-219,213,56.667,213,1,102)}SkelterSubs presents...
+Dialogue: 0,0:01:38.49,0:01:40.40,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\move(56.667,213,56.667,191.222,0,175)}SkelterSubs presents...
 Dialogue: 0,0:01:40.40,0:01:40.50,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\pos(56.667,191.222)}SkelterSubs presents...
 Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(-460,10,10,10,0,200)\clip(6.763,6,492.866,38.786)}In Collaboration with:
-Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(28,-100,28,36,200,400)\clip(23.704,30.646,550.504,120.769)}ButterFS    0x539     Kaleido      LCE\NSMC-Subs   Obelix      Kantai       HRI\NChyuu       TSCamp    PAS         Sodra
+Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(28,-100,28,36,200,400)\clip(22,31,599,120)\fs18}ButterFS    0x539     Kaleido      LCE\NSMC-Subs   Obelix      Kantai       HRI    \NChyuu       TSCamp    PAS         Sodra\NNotSoHorribleSubs      Nice-Boat!
 Dialogue: 1,0:01:59.24,0:02:02.24,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}Translation: Melancholy; TLC: jymmy; ED: Lann, 0x539
 Dialogue: 1,0:02:01.79,0:02:04.79,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}SED: Nazaki, 0x539; TM: Kuzu, Luceo; KTM: Shinon
 Dialogue: 1,0:02:03.90,0:02:06.92,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}TS: Sodra, Shinon; KFX: Shinon
@@ -54,11 +55,11 @@ Comment: 0,0:01:56.62,0:02:01.07,OPTL,,0,0,0,karaoke,For the sake of finding the
 Comment: 0,0:02:03.90,0:02:06.45,OPTL,,0,0,0,karaoke,A power you can't see
 Comment: 0,0:02:06.59,0:02:10.09,OPTL,,0,0,0,karaoke,is guiding us
 Comment: 0,0:02:11.10,0:02:16.79,OPTL,,0,0,0,karaoke,and we aim for a far away goal
-Comment: 0,0:02:17.46,0:02:24.51,OPTL,,0,0,0,karaoke,Where should we go in this town we have not seen? 
-Comment: 0,0:02:24.75,0:02:33.11,OPTL,,0,0,0,karaoke,Our beating chest won't be lost, it'll keep running! 
+Comment: 0,0:02:17.46,0:02:24.51,OPTL,,0,0,0,karaoke,Where should we go in this town we have not seen?
+Comment: 0,0:02:24.75,0:02:33.11,OPTL,,0,0,0,karaoke,Our beating chest won't be lost, it'll keep running!
 Comment: 0,0:02:33.58,0:02:37.31,OPTL,,0,0,0,karaoke,We challange you with our lives on the line. I CAN FLY
 Comment: 0,0:02:37.66,0:02:41.29,OPTL,,0,0,0,karaoke,There are no scary things at all.
-Comment: 0,0:02:41.52,0:02:47.98,OPTL,,0,0,0,karaoke,The heart of nakedness and heart are trying to connect! 
+Comment: 0,0:02:41.52,0:02:47.98,OPTL,,0,0,0,karaoke,The heart of nakedness and heart are trying to connect!
 Comment: 0,0:02:48.19,0:02:51.87,OPTL,,0,0,0,karaoke,Light of hope! Kanji in the sky!
 Comment: 0,0:02:52.24,0:02:55.82,OPTL,,0,0,0,karaoke,Flying higher than anyone can get to.
 Comment: 0,0:02:56.05,0:03:02.24,OPTL,,0,0,0,karaoke,Before our eyes opens a fate
@@ -88,11 +89,11 @@ Dialogue: 1,0:01:56.62,0:02:01.07,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}For the s
 Dialogue: 1,0:02:03.90,0:02:06.45,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}A power you can't see
 Dialogue: 1,0:02:06.59,0:02:10.09,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}is guiding us
 Dialogue: 1,0:02:11.10,0:02:16.79,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}and we aim for a far away goal
-Dialogue: 1,0:02:17.46,0:02:24.51,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Where should we go in this town we have not seen? 
-Dialogue: 1,0:02:24.75,0:02:33.11,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Our beating chest won't be lost, it'll keep running! 
+Dialogue: 1,0:02:17.46,0:02:24.51,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Where should we go in this town we have not seen?
+Dialogue: 1,0:02:24.75,0:02:33.11,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Our beating chest won't be lost, it'll keep running!
 Dialogue: 1,0:02:33.58,0:02:37.31,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}We challange you with our lives on the line. I CAN FLY
 Dialogue: 1,0:02:37.66,0:02:41.29,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}There are no scary things at all.
-Dialogue: 1,0:02:41.52,0:02:47.98,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}The heart of nakedness and heart are trying to connect! 
+Dialogue: 1,0:02:41.52,0:02:47.98,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}The heart of nakedness and heart are trying to connect!
 Dialogue: 1,0:02:48.19,0:02:51.87,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Light of hope! Kanji in the sky!
 Dialogue: 1,0:02:52.24,0:02:55.82,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Flying higher than anyone can get to.
 Dialogue: 1,0:02:56.05,0:03:02.24,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Before our eyes opens a fate
