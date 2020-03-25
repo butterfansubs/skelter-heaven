@@ -16,9 +16,9 @@ Video File: E:/Downloads/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 66
-Active Line: 6
-Video Position: 5779
+Scroll Position: 18
+Active Line: 30
+Video Position: 5042
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,21 +49,21 @@ Dialogue: 0,0:01:59.24,0:02:07.04,FanSubBlock,,0,0,0,,{\c&H5F5F5F&\be1\clip(183.
 Dialogue: 0,0:02:07.04,0:02:07.08,FanSubBlock,,0,0,0,,{\c&H5F5F5F&\be1\frz353.8\pos(421.625,56.389)\1a&H28&\clip(183.429,3.333,541.424,216.867)}AAAAAAAAAAAAA
 Dialogue: 0,0:02:07.08,0:02:07.12,FanSubBlock,,0,0,0,,{\c&H5F5F5F&\be1\frz353.8\pos(421.625,56.389)\1a&H28&\clip(183.429,3.333,401.815,249.367)}AAAAAAAAAAAAA
 Dialogue: 0,0:02:07.12,0:02:07.17,FanSubBlock,,0,0,0,,{\c&H5F5F5F&\be1\frz353.8\pos(421.625,56.389)\1a&H28&\clip(183.429,3.333,265.927,246.043)}AAAAAAAAAAAAA
-Comment: 0,0:01:49.34,0:01:51.92,OPTL,,0,0,0,karaoke,We are on a trip,
-Comment: 0,0:01:51.92,0:01:55.33,OPTL,,0,0,0,karaoke,searching for the covered sun
-Comment: 0,0:01:56.62,0:02:01.07,OPTL,,0,0,0,karaoke,For the sake of finding the dream that is gone
-Comment: 0,0:02:03.90,0:02:06.45,OPTL,,0,0,0,karaoke,A power you can't see
-Comment: 0,0:02:06.59,0:02:10.09,OPTL,,0,0,0,karaoke,is guiding us
-Comment: 0,0:02:11.10,0:02:16.79,OPTL,,0,0,0,karaoke,and we aim for a far away goal
-Comment: 0,0:02:17.46,0:02:24.51,OPTL,,0,0,0,karaoke,Where should we go in this town we have not seen?
-Comment: 0,0:02:24.75,0:02:33.11,OPTL,,0,0,0,karaoke,Our beating chest won't be lost, it'll keep running!
-Comment: 0,0:02:33.58,0:02:37.31,OPTL,,0,0,0,karaoke,We challange you with our lives on the line. I CAN FLY
-Comment: 0,0:02:37.66,0:02:41.29,OPTL,,0,0,0,karaoke,There are no scary things at all.
-Comment: 0,0:02:41.52,0:02:47.98,OPTL,,0,0,0,karaoke,The heart of nakedness and heart are trying to connect!
+Comment: 0,0:01:49.34,0:01:51.92,OPTL,,0,0,0,karaoke,We are on a journey
+Comment: 0,0:01:51.92,0:01:55.33,OPTL,,0,0,0,karaoke,to find a sun that went dark
+Comment: 0,0:01:56.62,0:02:01.07,OPTL,,0,0,0,karaoke,For the sake of finding the lost dreams
+Comment: 0,0:02:03.90,0:02:06.45,OPTL,,0,0,0,karaoke,An in-visible power
+Comment: 0,0:02:06.59,0:02:10.09,OPTL,,0,0,0,karaoke,guides us
+Comment: 0,0:02:11.10,0:02:16.79,OPTL,,0,0,0,karaoke,and we aim for a faraway goal
+Comment: 0,0:02:17.46,0:02:24.51,OPTL,,0,0,0,karaoke,Where should we go in this town that's unfamiliar?
+Comment: 0,0:02:24.75,0:02:33.11,OPTL,,0,0,0,karaoke,Our pounding chest won't lose, it'll keep running!
+Comment: 0,0:02:33.58,0:02:37.31,OPTL,,0,0,0,karaoke,We risk our lives to challenge you I CAN FLY
+Comment: 0,0:02:37.66,0:02:41.29,OPTL,,0,0,0,karaoke,There is nothing that scares me.
+Comment: 0,0:02:41.52,0:02:47.98,OPTL,,0,0,0,karaoke,The naked heart-to-heart is trying to connect!
 Comment: 0,0:02:48.19,0:02:51.87,OPTL,,0,0,0,karaoke,Light of hope! Kanji in the sky!
-Comment: 0,0:02:52.24,0:02:55.82,OPTL,,0,0,0,karaoke,Flying higher than anyone can get to.
-Comment: 0,0:02:56.05,0:03:02.24,OPTL,,0,0,0,karaoke,Before our eyes opens a fate
-Comment: 0,0:03:02.69,0:03:06.80,OPTL,,0,0,0,karaoke,to a future without an ending.
+Comment: 0,0:02:52.24,0:02:55.82,OPTL,,0,0,0,karaoke,Flying to where no-one has ever flown before.
+Comment: 0,0:02:56.05,0:03:02.24,OPTL,,0,0,0,karaoke,Our eyes behold a fate that opens
+Comment: 0,0:03:02.69,0:03:06.80,OPTL,,0,0,0,karaoke,to a truly endless future.
 Comment: 0,0:01:49.34,0:01:51.92,OPRomaji,,0,0,0,karaoke,{\k19}To{\k20}za{\k27}sa{\k20}re{\k22}te{\k25}ku {\k25}ta{\k41}i{\k28}yo{\k31}u
 Comment: 0,0:01:51.92,0:01:55.33,OPRomaji,,0,0,0,karaoke,{\k34}sa{\k16}ga{\k79}shi {\k40}ni {\k31}ta{\k20}bi{\k20}da{\k101}tou
 Comment: 0,0:01:56.62,0:02:01.07,OPRomaji,,0,0,0,karaoke,{\k19}Na{\k15}ku{\k25}shi{\k24}ta {\k20}yu{\k29}me {\k16}wo {\k52}to{\k44}ri{\k48}mo{\k11}do{\k57}su {\k22}ta{\k63}me
@@ -83,21 +83,21 @@ Comment: 0,0:02:52.24,0:02:55.82,OPRomaji,,0,0,0,karaoke,{\k34}da{\k77}re {\k18}
 Comment: 0,0:02:56.05,0:03:02.24,OPRomaji,,0,0,0,karaoke,{\k16}Me {\k12}no {\k17}ma{\k49}e {\k21}no {\k36}u{\k36}n{\k19}me{\k33}i {\k36}ki{\k26}ri{\k30}hi{\k29}ra{\k32}ke {\k32}o{\k33}wa{\k20}ru {\k35}ko{\k33}to {\k26}na{\k48}i
 Comment: 0,0:03:02.69,0:03:06.80,OPRomaji,,0,0,0,karaoke,{\k29}mi{\k33}ra{\k36}i {\k313}he
 Comment: 0,0:03:07.66,0:03:11.12,OPRomaji,,0,0,0,karaoke,{\k52}Up {\k37}to {\k26}the {\k231}sky
-Dialogue: 1,0:01:49.34,0:01:51.92,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}We are on a trip,
-Dialogue: 1,0:01:51.92,0:01:55.33,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}searching for the covered sun
-Dialogue: 1,0:01:56.62,0:02:01.07,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}For the sake of finding the dream that is gone
-Dialogue: 1,0:02:03.90,0:02:06.45,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}A power you can't see
-Dialogue: 1,0:02:06.59,0:02:10.09,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}is guiding us
-Dialogue: 1,0:02:11.10,0:02:16.79,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}and we aim for a far away goal
-Dialogue: 1,0:02:17.46,0:02:24.51,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Where should we go in this town we have not seen?
-Dialogue: 1,0:02:24.75,0:02:33.11,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Our beating chest won't be lost, it'll keep running!
-Dialogue: 1,0:02:33.58,0:02:37.31,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}We challange you with our lives on the line. I CAN FLY
-Dialogue: 1,0:02:37.66,0:02:41.29,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}There are no scary things at all.
-Dialogue: 1,0:02:41.52,0:02:47.98,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}The heart of nakedness and heart are trying to connect!
+Dialogue: 1,0:01:49.34,0:01:51.92,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}We are on a journey
+Dialogue: 1,0:01:51.92,0:01:55.33,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}to find a sun that went dark
+Dialogue: 1,0:01:56.62,0:02:01.07,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}For the sake of finding the lost dreams
+Dialogue: 1,0:02:03.90,0:02:06.45,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}An in-visible power
+Dialogue: 1,0:02:06.59,0:02:10.09,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}guides us
+Dialogue: 1,0:02:11.10,0:02:16.79,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}and we aim for a faraway goal
+Dialogue: 1,0:02:17.46,0:02:24.51,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Where should we go in this town that's unfamiliar?
+Dialogue: 1,0:02:24.75,0:02:33.11,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Our pounding chest won't lose, it'll keep running!
+Dialogue: 1,0:02:33.58,0:02:37.31,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}We risk our lives to challenge you I CAN FLY
+Dialogue: 1,0:02:37.66,0:02:41.29,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}There is nothing that scares me.
+Dialogue: 1,0:02:41.52,0:02:47.98,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}The naked heart-to-heart is trying to connect!
 Dialogue: 1,0:02:48.19,0:02:51.87,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Light of hope! Kanji in the sky!
-Dialogue: 1,0:02:52.24,0:02:55.82,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Flying higher than anyone can get to.
-Dialogue: 1,0:02:56.05,0:03:02.24,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Before our eyes opens a fate
-Dialogue: 1,0:03:02.69,0:03:06.80,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}to a future without an ending.
+Dialogue: 1,0:02:52.24,0:02:55.82,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Flying to where no-one has ever flown before.
+Dialogue: 1,0:02:56.05,0:03:02.24,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}Our eyes behold a fate that opens
+Dialogue: 1,0:03:02.69,0:03:06.80,OPTL,,0,0,0,fx,{\fade(200,200)\blur1}to a truly endless future.
 Dialogue: 0,0:01:49.34,0:01:51.92,OPRomaji,,0,0,0,fx,{\fade(200,200)\blur1\k19}To{\fade(200,200)\blur1\k20}za{\fade(200,200)\blur1\k27}sa{\fade(200,200)\blur1\k20}re{\fade(200,200)\blur1\k22}te{\fade(200,200)\blur1\k25}ku {\fade(200,200)\blur1\k25}ta{\fade(200,200)\blur1\k41}i{\fade(200,200)\blur1\k28}yo{\fade(200,200)\blur1\k31}u
 Dialogue: 0,0:01:51.92,0:01:55.33,OPRomaji,,0,0,0,fx,{\fade(200,200)\blur1\k34}sa{\fade(200,200)\blur1\k16}ga{\fade(200,200)\blur1\k79}shi {\fade(200,200)\blur1\k40}ni {\fade(200,200)\blur1\k31}ta{\fade(200,200)\blur1\k20}bi{\fade(200,200)\blur1\k20}da{\fade(200,200)\blur1\k101}tou
 Dialogue: 0,0:01:56.62,0:02:01.07,OPRomaji,,0,0,0,fx,{\fade(200,200)\blur1\k19}Na{\fade(200,200)\blur1\k15}ku{\fade(200,200)\blur1\k25}shi{\fade(200,200)\blur1\k24}ta {\fade(200,200)\blur1\k20}yu{\fade(200,200)\blur1\k29}me {\fade(200,200)\blur1\k16}wo {\fade(200,200)\blur1\k52}to{\fade(200,200)\blur1\k44}ri{\fade(200,200)\blur1\k48}mo{\fade(200,200)\blur1\k11}do{\fade(200,200)\blur1\k57}su {\fade(200,200)\blur1\k22}ta{\fade(200,200)\blur1\k63}me
