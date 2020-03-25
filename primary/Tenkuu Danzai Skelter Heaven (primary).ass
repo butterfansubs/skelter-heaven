@@ -238,19 +238,33 @@ Dialogue: 0,0:17:07.31,0:17:09.56,Default,,0,0,0,,A similar entity was destroyed
 Dialogue: 0,0:17:09.56,0:17:12.58,Default,,0,0,0,,by the JSDF one year ago.
 Comment: 0,0:17:25.99,0:17:25.99,Default,chptr,0,0,0,,{ED}ED
 Comment: 0,0:00:02.25,0:00:02.25,Default,,0,0,0,,== Signs ===============================
+Comment: 0,0:01:34.97,0:01:38.48,Signs,,0,0,0,,# Heavenly Arbiter OP start
 Dialogue: 0,0:01:34.97,0:01:38.48,Signs,,0,0,0,,{\pos(320.571,164)}Heavenly Arbiter
+Comment: 0,0:01:40.05,0:01:40.48,Signs,,0,0,0,,# Subtitle
 Dialogue: 0,0:01:40.05,0:01:40.48,Signs,,0,0,0,,{\pos(226.857,266.286)}You hold the power to save her soul from her body's pre-programmed fate.
+Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,# SDPC AA
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,{\pos(342.545,73.636)}Specially Designated Public Corporation Altamira Agency{There's a typo in "Designated" in the original (there's no 'a'), but it might not be noticeable enough to be worth rewriting.}
+Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,# Engineered humans
 Dialogue: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,{\pos(581.212,290.969)}Work was being done to engineer humans to follow all orders as soon as they are born.
+Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,# First generation
 Dialogue: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,{\pos(322.545,320.302)}AA, after many years of development, had succeeded in producing the first generation of such beings.
+Comment: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,# To prepare
 Dialogue: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,{\pos(498.4,420)}To prepare for when that day comes...
+Comment: 0,0:01:53.03,0:02:07.57,Signs,,0,0,0,,# Identical programming
 Dialogue: 0,0:01:53.03,0:02:07.57,Signs,,0,0,0,,{\pos(69.212,197.635)}They were given the name "Weattprhopet." All of them were programmed identically, but their abilities had differentiated from each other over time.
+Comment: 0,0:02:07.87,0:02:29.13,Signs,,0,0,0,,# Training
 Dialogue: 0,0:02:07.87,0:02:29.13,Signs,,0,0,0,,{\pos(572,219.333)}Each Weattprhopet became one with a Skelter and trained with it constantly in preparation for that day.
+Comment: 0,0:03:12.20,0:03:14.57,Signs,,0,0,0,,# Heavenly Arbiter OP end
 Dialogue: 0,0:03:12.20,0:03:14.57,Signs,,0,0,0,,{\pos(318.286,146.857)}Heavenly Arbiter
+Comment: 0,0:03:23.52,0:03:33.16,Signs,,0,0,0,,# News headline
 Dialogue: 0,0:03:23.52,0:03:33.16,Signs,,0,0,0,,{\pos(311.429,397.714)}Mysterious airborne entity begins moving over Tokyo airspace
+Comment: 0,0:03:33.16,0:03:38.16,Signs,,0,0,0,,# News headline top left
 Dialogue: 0,0:03:33.16,0:03:38.16,Signs,,0,0,0,,{\pos(64,178.286)}Mysterious airborne entity begins moving over Tokyo airspace
+Comment: 0,0:03:33.16,0:03:38.16,Signs,,0,0,0,,# News headline top right
 Dialogue: 0,0:03:33.16,0:03:38.16,Signs,,0,0,0,,{\pos(449.143,183.429)}Mysterious airborne entity begins moving over Tokyo airspace
+Comment: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,# One year later
 Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One year later...
+Comment: 0,0:17:02.10,0:17:11.98,Signs,,0,0,0,,# News headline reprise
 Dialogue: 0,0:17:02.10,0:17:11.98,Signs,,0,0,0,,{\pos(283.429,408.571)}Mysterious airborne entity appears over Tokyo once more
 Comment: 0,0:00:02.25,0:00:02.25,Default,,0,0,0,,== OP ==================================
 Comment: 0,0:00:20.53,0:00:23.47,Default,,0,0,0,,== ED ==================================
