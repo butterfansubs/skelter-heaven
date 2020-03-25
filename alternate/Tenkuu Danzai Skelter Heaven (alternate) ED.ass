@@ -16,9 +16,9 @@ Video File: ../skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 24
-Active Line: 34
-Video Position: 33019
+Scroll Position: 18
+Active Line: 23
+Video Position: 34069
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,7 +59,7 @@ Comment: 0,0:00:00.00,0:00:00.00,ED_TL,,0,0,0,template char,{\alpha&HFF&\fade(0,
 Comment: 0,0:00:00.00,0:00:00.00,ED_TL,,0,0,0,template char,{\alpha(&H00&)\blur2)\pos($sx,$sy)!counterinc2()!\t(!cntstarttime2()!,!cntendtime2()!,\alpha(&HFF&))}!retime("postline",0,2000)!
 Comment: 0,0:00:00.00,0:00:00.00,ED_TL,,0,0,0,code line,counterrs()
 Comment: 0,0:00:00.00,0:00:00.00,ED_TL,,0,0,0,code line,counterrs2()
-Dialogue: 0,0:18:48.72,0:18:53.93,EDThanks,,0,0,0,,{\an7\fs22\clip(60.267,64,634.86,417.067)\move(85,500,85,-1000,0,18000)}In loving memory of torn\N\N{\fs16}Greetings to:     Good Job! Media, herkz, Kaleido-Subs,\N\h                         Areki, Swiftarm, vil, Fyurie,\N\h                         Asenshi, Govna, Flower, KoolKidsK, luvsick,\N\h                         EinsamerWanderer, flameboi, torn,\N\h                         LightArrowsEXE, Olynn, shikawa,\N\h                         Fomalhaut, escro, CL4PTP, Pikminiman\N\h                         \N\h{\c&H0000FF&\3c&H000051&}Not intended for distribution on eMule,\NIf you paid for this you got ripped off.
+Dialogue: 0,0:18:48.72,0:18:53.93,EDThanks,,0,0,0,,{\an7\fs22\clip(60.267,64,634.86,417.067)\move(85,500,85,-1050,0,18000)}In loving memory of torn\N\N{\fs16}Greetings to:     Good Job! Media, herkz, Kaleido-Subs,\N\h                         Areki, Swiftarm, vil, Fyurie,\N\h                         Asenshi, Govna, Flower, KoolKidsK, luvsick,\N\h                         EinsamerWanderer, flameboi, torn,\N\h                         LightArrowsEXE, Olynn, shikawa,\N\h                         Fomalhaut, escro, CL4PTP, Pikminiman\N\h                         \N\h{\c&H0000FF&\3c&H000051&}Not intended for distribution on eMule,\NIf you paid for this you got ripped off.
 Dialogue: 0,0:18:53.93,0:18:57.28,EDThanks,,0,0,0,,{\an7\fs22\clip(60.267,64,634.86,417.067)\pos(85,65)}In loving memory of torn\N\N{\fs16}Greetings to:     Good Job! Media, herkz, Kaleido-Subs,\N\h                         Areki, Swiftarm, vil, Fyurie,\N\h                         Asenshi, Govna, Flower, KoolKidsK, luvsick,\N\h                         EinsamerWanderer, flameboi, torn,\N\h                         LightArrowsEXE, Olynn, shikawa,\N\h                         Fomalhaut, escro, CL4PTP, Pikminiman\N\h                         \N\h{\c&H0000FF&\3c&H000051&}Not intended for distribution on eMule,\NIf you paid for this you got ripped off.
 Comment: 0,0:17:35.55,0:17:39.36,ED_TL,,0,0,0,karaoke,The fate that is controlled
 Comment: 0,0:17:39.36,0:17:43.01,ED_TL,,0,0,0,karaoke,does not care about the sadness at the bottom.
