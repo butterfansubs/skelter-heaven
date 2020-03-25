@@ -16,7 +16,7 @@ Video File: E:/Downloads/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 6
+Active Line: 7
 Video Position: 3651
 
 [V4+ Styles]
@@ -40,7 +40,7 @@ Dialogue: 0,0:01:38.23,0:01:38.49,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H25
 Dialogue: 0,0:01:38.49,0:01:40.40,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\move(56.667,213,56.667,191.222,0,175)}SkelterSubs presents...
 Dialogue: 0,0:01:40.40,0:01:40.50,Credit,,0,0,0,,{\an4\bord0.3\c&H2532AD&\3c&H2532AD&\i1\pos(56.667,191.222)}SkelterSubs presents...
 Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(-460,10,10,10,0,200)\clip(6.763,6,492.866,38.786)}In Collaboration with:
-Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(28,-100,28,36,200,400)\clip(22,31,599,120)\fs18}ButterFS    0x539     Kaleido      LCE\NSMC-Subs   Obelix      Kantai       HRI    \NChyuu       TSCamp    PAS         Sodra\NNotSoHorribleSubs      Nice-Boat!
+Dialogue: 0,0:01:40.81,0:01:43.31,Credit,,0,0,0,,{\an7\move(28,-100,28,36,200,400)\clip(22,31,599,120)\fs18}ButterFS    0x539     Kaleido      LCE\NSMC-Subs   Obelix      Kantai       HRI    \NChyuu       TSCamp    PAS         Sodra\NNotSoHorribleSubs      Nice-Boat
 Dialogue: 1,0:01:59.24,0:02:02.24,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}Translation: jymmy; TLC: jymmy; ED: Lann, The0x539
 Dialogue: 1,0:02:01.79,0:02:04.79,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}SED: The0x539; TM: Kuzu, Luceo; KTM: Shinon
 Dialogue: 1,0:02:03.90,0:02:06.92,Credit,,0,0,0,,{\bord1\an5\shad0\frx-10\frz353.7\clip(m 184 10 l 634 61 632 96 184 49)\move(411.751,87.841,411.751,21.547,0,3000)\fs16}TS: Sodra, Shinon; KFX: Shinon
