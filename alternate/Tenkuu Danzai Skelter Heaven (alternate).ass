@@ -70,7 +70,7 @@ Dialogue: 0,0:05:29.36,0:05:30.45,Default,,0,0,0,,You too!
 Dialogue: 0,0:05:31.11,0:05:33.19,Default,,0,0,0,,How about this?!
 Dialogue: 0,0:05:38.71,0:05:40.64,Default,,0,0,0,,Jeeze, now there all covered in mud!
 Dialogue: 0,0:05:41.45,0:05:42.46,Default,,0,0,0,,What, Rin?
-Dialogue: 0,0:05:43.65,0:05:45.16,Default,,0,0,0,,Right, their's a summon.
+Dialogue: 0,0:05:43.65,0:05:45.16,Default,,0,0,0,,Right, there's a summon.
 Dialogue: 0,0:05:45.23,0:05:47.09,Default,,0,0,0,,Really? Time to show up, is it?
 Dialogue: 0,0:05:47.16,0:05:49.16,Default,,0,0,0,,Misaki, look.
 Dialogue: 0,0:05:54.10,0:05:56.22,Default,,0,0,0,,How long are you staying in the shower?
@@ -83,27 +83,27 @@ Dialogue: 0,0:06:21.42,0:06:24.07,Default,,0,0,0,,Your mission is to destroy the
 Dialogue: 0,0:06:25.04,0:06:27.52,Default,TLC,0,0,0,,Take it out whatever the cost.{Blanking here on what to make worse... - Lann}
 Dialogue: 0,0:06:28.52,0:06:29.52,Default,,0,0,0,,That's the enemy.
 Dialogue: 0,0:06:30.59,0:06:33.28,Default,,0,0,0,,The JSDF will be our bait.
-Dialogue: 0,0:06:34.48,0:06:35.85,Default,TLC,0,0,0,,With its massive power,
-Dialogue: 0,0:06:36.57,0:06:36.76,Default,,0,0,0,,it can't fire again straight away\Nafter releasing energy.
-Dialogue: 0,0:06:41.03,0:06:42.92,Default,,0,0,0,,It needs time to recharge.
-Dialogue: 0,0:06:44.78,0:06:46.56,Default,,0,0,0,,That's the enemy?
-Dialogue: 0,0:06:46.92,0:06:47.94,Default,,0,0,0,,Listen up.
-Dialogue: 0,0:06:47.86,0:06:49.05,Default,,0,0,0,,Failure is not an option.
-Dialogue: 0,0:06:49.12,0:06:50.55,Default,,0,0,0,,It's in your hands now, Funagai.
-Dialogue: 0,0:06:52.68,0:06:56.37,Default,,0,0,0,,There are two steps required to neutralize our opponent.
-Dialogue: 0,0:06:57.17,0:07:00.54,Default,,0,0,0,,We have to discover its weakness and then destroy it.
-Dialogue: 0,0:07:01.00,0:07:04.69,Default,,0,0,0,,We'll fire a probe at close range with a bazooka,
-Dialogue: 0,0:07:05.24,0:07:06.37,Default,edit,0,0,0,,analyze the controlling core{better-sounding term for this?}
-Dialogue: 0,0:07:06.94,0:07:09.30,Default,TLC,0,0,0,,and focus our fire to destroy it.{一点集中... what?}
-Dialogue: 0,0:07:10.30,0:07:12.22,Default,,0,0,0,,W-With a bazooka?
-Dialogue: 0,0:07:14.89,0:07:18.88,Default,,0,0,0,,Once its energy readings drop,\Nyou will move out and engage.
-Dialogue: 0,0:07:19.00,0:07:20.65,Default,,0,0,0,,Strike swiftly and retreat.
-Dialogue: 0,0:07:20.71,0:07:23.32,Default,,0,0,0,,Consider this the only chance we've got.{think that if this does not succeed, there will be no next time}
-Dialogue: 0,0:07:24.25,0:07:25.02,Default,,0,0,0,,Rin Ichikawa.
+Dialogue: 0,0:06:34.48,0:06:35.85,Default,TLC,0,0,0,,With just it's power,{Join below? - Lann}
+Dialogue: 0,0:06:36.57,0:06:36.76,Default,,0,0,0,,after using lots of energy, it can't fire again soon.
+Dialogue: 0,0:06:41.03,0:06:42.92,Default,TLC,0,0,0,,It needs time to recharge.{Am I hearing some Engrish in there that we have to keep literal? - Lann}
+Dialogue: 0,0:06:44.78,0:06:46.56,Default,,0,0,0,,Thats an enemy?
+Dialogue: 0,0:06:46.92,0:06:47.94,Default,,0,0,0,,Is that okay?
+Dialogue: 0,0:06:47.86,0:06:49.05,Default,,0,0,0,,Failure won't be forgiven.
+Dialogue: 0,0:06:49.12,0:06:50.55,Default,,0,0,0,,Funagai, I'll leave the rest to you.
+Dialogue: 0,0:06:52.68,0:06:56.37,Default,,0,0,0,,To stop the target, there are two steps.
+Dialogue: 0,0:06:57.17,0:07:00.54,Default,,0,0,0,,We have to destroy its weakness and then destroy it.
+Dialogue: 0,0:07:01.00,0:07:04.69,Default,,0,0,0,,Using a bazooka, we'll fire a probe at the target from close,
+Dialogue: 0,0:07:05.24,0:07:06.37,Default,edit,0,0,0,,scan the controlling core{better-sounding term for this?}
+Dialogue: 0,0:07:06.94,0:07:09.30,Default,TLC,0,0,0,,then focus our attack.{一点集中... what?}
+Dialogue: 0,0:07:10.30,0:07:12.22,Default,,0,0,0,,W-with a bazooka?{alt: With a ba-bazooka? - But I dunno if that was ever something a group would do. - Lann}
+Dialogue: 0,0:07:14.89,0:07:18.88,Default,,0,0,0,,Once the targets energy readings go down, you will charge.
+Dialogue: 0,0:07:19.00,0:07:20.65,Default,TLC,0,0,0,,Strike swiftly and retreat.{Another complicated one... any mishears? - Lann}
+Dialogue: 0,0:07:20.71,0:07:23.32,Default,,0,0,0,,Think that if this does not succeed, there will be no next time.
+Dialogue: 0,0:07:24.25,0:07:25.02,Default,,0,0,0,,Ichikawa Rin.
 Dialogue: 0,0:07:25.09,0:07:25.72,Default,,0,0,0,,Y-Yes?
-Dialogue: 0,0:07:25.82,0:07:26.79,Default,,0,0,0,,You'll take point.
-Dialogue: 0,0:07:26.91,0:07:28.25,Default,,0,0,0,,Strike the core.
-Dialogue: 0,0:07:29.60,0:07:30.60,Default,,0,0,0,,Understood.
+Dialogue: 0,0:07:25.82,0:07:26.79,Default,,0,0,0,,You're fast.
+Dialogue: 0,0:07:26.91,0:07:28.25,Default,,0,0,0,,Attack the core.
+Dialogue: 0,0:07:29.60,0:07:30.60,Default,,0,0,0,,Yes.
 Dialogue: 0,0:07:30.66,0:07:31.43,Default,,0,0,0,,Captain!
 Dialogue: 0,0:07:31.51,0:07:34.33,Default,,0,0,0,,The JSDF has engaged the target.
 Dialogue: 0,0:07:42.50,0:07:46.16,Default,TLC,0,0,0,,The target's energy readings have passed the threshold.
