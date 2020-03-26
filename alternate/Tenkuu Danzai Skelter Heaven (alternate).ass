@@ -14,10 +14,10 @@ Audio File: ../skelterheaven.mkv
 Video File: ../skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
+Video Zoom Percent: 0.875000
 Scroll Position: 218
-Active Line: 221
-Video Position: 6103
+Active Line: 223
+Video Position: 6393
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -252,8 +252,8 @@ Comment: 0,0:02:07.87,0:02:29.13,Signs,,0,0,0,,{\pos(572,219.333)}She "Weattprho
 Dialogue: 0,0:03:12.20,0:03:14.57,Signs,,0,0,0,,{\bord1\b1\c&H000000&\3c&H20DDDF&\3a&H33&\pos(320,134.286)}Heavenly Arbiter
 Dialogue: 0,0:03:23.94,0:03:33.23,FanSubBlock,,0,0,0,,{\pos(320,389.714)\c&HFF0000&\3c&HFF0000&\bord1\be1}AAAAAAAAAAAAAAAAA
 Dialogue: 0,0:03:23.62,0:03:33.19,Signs,,0,0,0,,{\pos(320,389.714)\bord2}Mysterious thing in Air On Tokyo Airspace Is Moving
-Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(489,86.714)\pos(486,175.714)}AAAAAAAAAAAA
-Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(30,88.714)\pos(6,175.714)}AAAAAAAAAA
+Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(489,86.714)\pos(486,175.714)\frx-2\fry0}AAAAAAAAAAAA
+Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(30,88.714)\frx-2\pos(6,175.714)}AAAAAAAAAA
 Dialogue: 0,0:03:33.12,0:03:38.16,Signs,,0,0,0,,{\bord1\fs15\pos(6,175.714)}UFO in Air On Tokyo Airspace Is Moving
 Dialogue: 0,0:03:33.12,0:03:38.16,Signs,,0,0,0,,{\fs16\bord1\pos(486,175.714)}UFO in Air On Tokyo Airspace Is Moving
 Dialogue: 0,0:16:55.04,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One Year After
