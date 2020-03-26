@@ -10,8 +10,14 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Scroll Position: 200
-Active Line: 212
+Audio File: ../skelterheaven.mkv
+Video File: ../skelterheaven.mkv
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 218
+Active Line: 221
+Video Position: 6103
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -235,7 +241,7 @@ Dialogue: 0,0:17:05.12,0:17:07.44,Default,,0,0,0,,A similar entity was destroyed
 Dialogue: 0,0:17:07.44,0:17:10.16,Default,,0,0,0,,by the JSDF one year ago.
 Comment: 0,0:17:23.60,0:17:23.60,Default,chptr,0,0,0,,{ED}ED
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Signs ===============================
-Dialogue: 0,0:01:34.97,0:01:38.48,Signs,,0,0,0,,{\pos(320.571,164)}Heavenly Arbiter
+Dialogue: 0,0:01:34.97,0:01:38.09,Signs,,0,0,0,,{\pos(320,148)\bord1\b1\c&H000000&\3c&H20DDDF&\3a&H33&}Heavenly Arbiter
 Comment: 0,0:01:40.05,0:01:40.48,Signs,,0,0,0,,{\pos(226.857,266.286)}Her fate which does not get used to by-nature\Nmachines was left to your hand...
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,{\pos(342.545,73.636)}Specially Designated Public Corporation Altamira Agency{There's a typo in "Designated" (there's no 'a'), but otherwise this should be probably be left alone since SDPC is a real thing, otherwise known as a semigovernmental corporation. The initials SDPC appear later in the OP.}
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,{\pos(581.212,290.969)}The human body arms which had the program embedded\Nso that a command may be obeyed from from when born\N
@@ -243,11 +249,15 @@ Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,{\pos(322.545,320.302)}AA passed 
 Comment: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,{\pos(498.4,420)}To the sake when coming
 Comment: 0,0:01:53.03,0:02:07.57,Signs,,0,0,0,,{\pos(69.212,197.635)}Even if they were called "Weattprhopet"{sic, from ウェットプロープ} and gave the complete same\Nprograms, become altogetherdifferent capability balance
 Comment: 0,0:02:07.87,0:02:29.13,Signs,,0,0,0,,{\pos(572,219.333)}She "Weattprhopet" got into "Skelter" united with each individuality, and has\Nrepeted{"repeated"} the improvement constantly in preparation for the day which should come.
-Dialogue: 0,0:03:12.20,0:03:14.57,Signs,,0,0,0,,{\pos(318.286,146.857)}Heavenly Arbiter
-Dialogue: 0,0:03:23.52,0:03:33.16,Signs,,0,0,0,,{\pos(311.429,397.714)}Mysterious Entity in Air On Tokyo Airspace Is Moving
-Dialogue: 0,0:03:33.16,0:03:38.16,Signs,,0,0,0,,{\pos(64,178.286)}Mysterious Entity in Air On Tokyo Airspace Is Moving
-Dialogue: 0,0:03:33.16,0:03:38.16,Signs,,0,0,0,,{\pos(449.143,183.429)}Mysterious Entity in Air On Tokyo Airspace Is Moving
-Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One Year After
-Dialogue: 0,0:17:02.10,0:17:11.98,Signs,,0,0,0,,{\pos(283.429,408.571)}Mysterious Entity in Air On Tokyo Airspace Is Moving
+Dialogue: 0,0:03:12.20,0:03:14.57,Signs,,0,0,0,,{\bord1\b1\c&H000000&\3c&H20DDDF&\3a&H33&\pos(320,134.286)}Heavenly Arbiter
+Dialogue: 0,0:03:23.94,0:03:33.23,FanSubBlock,,0,0,0,,{\pos(320,389.714)\c&HFF0000&\3c&HFF0000&\bord1\be1}AAAAAAAAAAAAAAAAA
+Dialogue: 0,0:03:23.62,0:03:33.19,Signs,,0,0,0,,{\pos(320,389.714)\bord2}Mysterious thing in Air On Tokyo Airspace Is Moving
+Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(489,86.714)\pos(486,175.714)}AAAAAAAAAAAA
+Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(30,88.714)\pos(6,175.714)}AAAAAAAAAA
+Dialogue: 0,0:03:33.12,0:03:38.16,Signs,,0,0,0,,{\bord1\fs15\pos(6,175.714)}UFO in Air On Tokyo Airspace Is Moving
+Dialogue: 0,0:03:33.12,0:03:38.16,Signs,,0,0,0,,{\fs16\bord1\pos(486,175.714)}UFO in Air On Tokyo Airspace Is Moving
+Dialogue: 0,0:16:55.04,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One Year After
+Dialogue: 0,0:17:02.55,0:17:10.79,FanSubBlock,,0,0,0,,{\pos(320,389.714)\c&HFF0000&\3c&HFF0000&\bord1\be1}AAAAAAAAAAAAAAAAA
+Dialogue: 0,0:17:02.18,0:17:10.79,Signs,,0,0,0,,{\pos(320,389.714)\bord2}Mysterious Entity in Air On Tokyo Airspace Is Moving
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ==================================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== ED ==================================
