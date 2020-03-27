@@ -15,9 +15,9 @@ Video File: ../skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 210
-Active Line: 211
-Video Position: 3066
+Scroll Position: 218
+Active Line: 227
+Video Position: 30717
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -250,15 +250,15 @@ Comment: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,{\pos(498.4,420)}To the sake when
 Comment: 0,0:01:53.03,0:02:07.57,Signs,,0,0,0,,{\pos(69.212,197.635)}Even if they were called "Weattprhopet"{sic, from ウェットプロープ} and gave the complete same\Nprograms, become altogetherdifferent capability balance
 Comment: 0,0:02:07.87,0:02:29.13,Signs,,0,0,0,,{\pos(572,219.333)}She "Weattprhopet" got into "Skelter" united with each individuality, and has\Nrepeted{"repeated"} the improvement constantly in preparation for the day which should come.
 Dialogue: 0,0:03:12.20,0:03:14.57,Signs,,0,0,0,,{\bord1.5\b1\c&H000000&\3c&H83D6E5&\pos(320,134.286)\3a&H38&}Heavenly Arbiter
-Dialogue: 0,0:03:23.94,0:03:33.23,FanSubBlock,,0,0,0,,{\pos(320,389.714)\c&HFF0000&\3c&HFF0000&\bord1\be1}AAAAAAAAAAA
+Dialogue: 0,0:03:23.94,0:03:33.23,FanSubBlock,,0,0,0,,{\pos(320,388.)\c&HFF0000&\3c&HFF0000&\bord1\be1\fscx200\fscy162}AAAAAAAAAAAA
 Dialogue: 0,0:03:23.62,0:03:33.19,Signs,,0,0,0,,{\pos(320,389.714)\bord2}Mysterious object in Air On Tokyo Airspace Is Moving
-Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(489,86.714)\pos(486,175.714)\frx-2\fry0}AAAAAAA
-Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(30,88.714)\frx-2\pos(0,175.714)}AAAAAAA
+Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(489,86.714)\pos(486,175.714)\frx-2\fry0}AAAAAAAAAAAA
+Dialogue: 0,0:03:33.31,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\bord1\be1\org(30,88.714)\frx-2\pos(6,175.714)}AAAAAAAAAA
 Dialogue: 0,0:03:33.12,0:03:38.16,Signs,,0,0,0,,{\bord1\fs15\pos(6,175.714)}Mysterious object in Air On Tokyo Airspace Is Moving
 Dialogue: 0,0:03:33.12,0:03:38.16,Signs,,0,0,0,,{\fs16\bord1\pos(486,175.714)}Mysterious object in Air On Tokyo Airspace Is Moving
-Comment: 0,0:16:55.38,0:16:59.52,FanSubBlock,,0,0,0,,{\be1\pos(318.597,240.467)\c&H000000&}AAA
+Dialogue: 0,0:16:55.38,0:16:59.52,FanSubBlock,,0,0,0,,{\be1\pos(318.597,240.467)\c&H000000&}AAA
 Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\be1\pos(318.597,240.467)\fnComic Sans MS\fs36}ONE YEARS AFT{\fnOpen Sans Semibold}ER…
-Dialogue: 0,0:17:02.55,0:17:10.79,FanSubBlock,,0,0,0,,{\pos(320,389.714)\c&HFF0000&\3c&HFF0000&\bord1\be1}AAAAAAAAAAAA
+Dialogue: 0,0:17:02.55,0:17:10.79,FanSubBlock,,0,0,0,,{\pos(320,388.)\c&HFF0000&\3c&HFF0000&\bord1\be1\fscx200\fscy162}AAAAAAAAAAAA
 Dialogue: 0,0:17:02.18,0:17:10.79,Signs,,0,0,0,,{\pos(320,389.714)\bord2}Mysterious object in Air On Tokyo Airspace Is Moving
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ==================================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== ED ==================================
