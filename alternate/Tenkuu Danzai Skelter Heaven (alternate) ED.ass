@@ -10,27 +10,20 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: skelter
 Audio File: ../skelterheaven.mkv
 Video File: ../skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 21
-Active Line: 25
-Video Position: 34072
+Video Zoom Percent: 0.875000
+Active Line: 57
+Video Position: 32727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED_TL-furigana,Seagull,12.5,&H00FFFFFF,&H007284E1,&H00667981,&H007A8AFF,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,30,1
-Style: ED_Pre-furigana,Seagull,12.5,&H00FFFFFF,&H007284E1,&H00667981,&H007A8AFF,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,20,1
+Style: ED_TL-furigana,Seagull,12.5,&H00FFFFFF,&H007284E1,&H00905D2A,&H007A8AFF,0,0,0,0,100,100,0,0,1,1.5,0,8,10,10,15,1
+Style: ED_Pre-furigana,Seagull,12.5,&H00FFFFFF,&H008D0000,&H00905D2A,&H00FFCA7A,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,15,1
 Style: EDThanks-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H3F000000,&H00000000,0,0,0,0,100,100,0,0,1,0.75,0,2,10,10,10,1
-Style: EDRomaji-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Credit-furigana,Volter (Goldfish),10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,25,1
-Style: FanSubBlock-furigana,Fansub Block,10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,200,200,0,0,1,0,0,5,10,10,25,1
-Style: FanSubBlock,Fansub Block,20,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,200,200,0,0,1,0,0,5,10,10,25,1
-Style: Credit,Volter (Goldfish),20,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
-Style: EDRomaji,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: EDThanks,Arial,20,&H00FFFFFF,&H000000FF,&H3F000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
 Style: ED_Pre,Seagull,25,&H00FFFFFF,&H008D0000,&H00905D2A,&H00FFCA7A,0,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
 Style: ED_TL,Seagull,25,&H00FFFFFF,&H007284E1,&H00905D2A,&H007A8AFF,0,0,0,0,100,100,0,0,1,3,0,8,10,10,15,1
@@ -40,9 +33,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,count = 1
 Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,length = 200
 Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,step = 50
-Comment: 0,0:00:00.00,0:00:00.00,ED_Default,,0,0,0,code once,count2 = 1
-Comment: 0,0:00:00.00,0:00:00.00,ED_Default,,0,0,0,code once,length2 = 400
-Comment: 0,0:00:00.00,0:00:00.00,ED_Default,,0,0,0,code once,step2 = 25
+Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,count2 = 1
+Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,length2 = 400
+Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,step2 = 25
 Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,colors = {"&HD8845B&", "&H497164&", "&H3D5EC8&", "&H534678&", "&HA06644&"}
 Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,cyclecount = 1
 Comment: 0,0:00:00.00,0:00:00.00,ED_Pre,,0,0,0,code once,timemachine = 0

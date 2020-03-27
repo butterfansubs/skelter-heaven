@@ -21,16 +21,10 @@ Video Position: 3651
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Core-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: OPTL-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,1,0.5,2,10,10,25,1
-Style: Credit-furigana,Volter (Goldfish),10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,25,1
-Style: FanSubBlock-furigana,Fansub Block,10,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,200,200,0,0,1,0,0,5,10,10,25,1
-Style: OPRomaji-furigana,Volter (Goldfish),11,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,0.75,0,2,10,10,20,1
 Style: OPRomaji,Monotype Corsiva,28,&H00FFFFFF,&H00A3494A,&H00000000,&H7F000000,-1,0,0,0,100,100,2,0,1,1.5,0,2,10,10,20,1
 Style: FanSubBlock,Fansub Block,20,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,200,200,0,0,1,0,0,5,10,10,25,1
 Style: Credit,Volter (Goldfish),20,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
 Style: OPTL,Monotype Corsiva,22,&H00F8F091,&H000000FF,&H00000000,&H7F000000,-1,0,0,0,100,100,1,0,1,2,0,2,10,10,48,1
-Style: Core,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
