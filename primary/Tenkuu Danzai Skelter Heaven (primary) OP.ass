@@ -21,29 +21,43 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Tiresias Infofont,24,&H00FFFFFF,&H000000FF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,1.2,0.2,2,33,33,18,1
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: OP-R,Tiresias Infofont,24,&H00FFFFFF,&H000000FF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,15,1
-Style: OP-E,Tiresias Infofont,24,&H00FFFFFF,&H000000FF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,1,0,2,0,0,15,1
+Style: OP-E,Monotype Corsiva,24,&H00FFFFFF,&H000000FF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,24,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:49.46,0:01:56.10,OP-R,,0,0,0,,Tozasareteku taiyou sagashi ni tabidatou
-Dialogue: 0,0:01:56.53,0:02:01.57,OP-R,,0,0,0,,Nakushita yume wo torimodosu tame
-Dialogue: 0,0:02:03.87,0:02:10.41,OP-R,,0,0,0,,Mienai chikara ni ima michibikareru mama
-Dialogue: 0,0:02:11.08,0:02:16.98,OP-R,,0,0,0,,Haruka tooku no gooru mezashite
-Dialogue: 0,0:02:17.45,0:02:24.62,OP-R,,0,0,0,,Mishiranu machi bokura wa doko e yukeba ii n darou
-Dialogue: 0,0:02:24.72,0:02:33.33,OP-R,,0,0,0,,Takanaru mune mayowazu hashiri tsuzuketai (ah-i-a-i-a-i-a-i-a)
-Dialogue: 0,0:02:33.53,0:02:41.28,OP-R,,0,0,0,,Inochi wo kakete idomu I can fly kowai mono nante nai
-Dialogue: 0,0:02:41.49,0:02:48.11,OP-R,,0,0,0,,Hadaka no kokoro to kokoro de tsunagatteitai yo
-Dialogue: 0,0:02:48.11,0:02:55.81,OP-R,,0,0,0,,Kibou no hikari kanji in the sky dare yori mo takaku tobe
-Dialogue: 0,0:02:56.02,0:03:07.53,OP-R,,0,0,0,,Me no mae no unmei kirihirake owaru koto nai mirai e
-Dialogue: 0,0:03:07.62,0:03:11.17,OP-R,,0,0,0,,Up to the sky
-Dialogue: 0,0:01:49.46,0:01:56.10,OP-E,,0,0,0,,You'll always find us chasing in pursuit of a sun that's hiding away
-Dialogue: 0,0:01:56.53,0:02:01.57,OP-E,,0,0,0,,'Cause there's a dream that we have lost and want to find again
-Dialogue: 0,0:02:03.87,0:02:10.41,OP-E,,0,0,0,,There is a hidden power deep inside and it's always guiding our way
-Dialogue: 0,0:02:11.08,0:02:16.98,OP-E,,0,0,0,,Out in the distance, our goal is there to attain
-Dialogue: 0,0:02:17.45,0:02:24.62,OP-E,,0,0,0,,In a town that none of us really know, where there's no one to show us which way we should go,
-Dialogue: 0,0:02:24.72,0:02:33.33,OP-E,,0,0,0,,Know our hearts will never lead us astray from the path that we should ta-a-ake!
-Dialogue: 0,0:02:33.53,0:02:41.28,OP-E,,0,0,0,,Life on the line, I will spread my wings so I can fly! 'Cause why would I have anything to fear?
-Dialogue: 0,0:02:41.49,0:02:48.11,OP-E,,0,0,0,,With my soul bared to your soul and your soul to mine, I want to fly out there with you
-Dialogue: 0,0:02:48.11,0:02:55.81,OP-E,,0,0,0,,Enter the light! We can fly high up in the sky. With wings of hope, we're reaching new frontiers
-Dialogue: 0,0:02:56.02,0:03:07.53,OP-E,,0,0,0,,And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
-Dialogue: 0,0:03:07.62,0:03:11.17,OP-E,,0,0,0,,Take to the sky!
+Comment: 0,0:01:49.46,0:01:49.46,OP-E,,0,0,0,code once,ln = _G.require('ln.kara'); ln.init(tenv)
+Comment: 0,0:01:49.46,0:01:49.46,OP-E,,0,0,0,code once,function J(j, maxj) return j/maxj; end
+Comment: 0,0:01:49.46,0:01:49.46,OP-E,,0,0,0,code line,prev_line, next_line = subs[line.i-1], subs[line.i+1]
+Comment: 0,0:01:49.46,0:01:49.46,OP-E,,0,0,0,code line,fxgroup.leadout = (next_line.start_time ~= line.end_time); fxgroup.noleadout = (not fxgroup.leadout)
+Comment: 0,0:01:49.46,0:01:49.46,OP-E,,0,0,0,code line,fxgroup.leadin = (prev_line.end_time ~= line.start_time); fxgroup.noleadin = (not fxgroup.leadin);
+Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -300 * (1-J(j, maxj))) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,430)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
+Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 150)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,430,!meta.res_x * (1-J(j, maxj))!,530)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
+Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -300 * J(j, maxj) ) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,465)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
+Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 150)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,465,!meta.res_x * (1-J(j, maxj))!,565)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!ln.tag.move(meta.res_x, 0, 0, 0, 0, 250)!\q2}
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup leadout,!retime('postline', 0, 150)!{!ln.tag.move(0, 0, 0, 100)!\q2}
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup noleadout,!retime('postline', 0, 300)!{!ln.tag.move(0, 0, -meta.res_x, 0)!\q2}
+Comment: 0,0:01:49.46,0:01:56.10,OP-R,,0,0,0,karaoke,Tozasareteku taiyou sagashi ni tabidatou
+Comment: 0,0:01:56.53,0:02:01.57,OP-R,,0,0,0,karaoke,Nakushita yume wo torimodosu tame
+Comment: 0,0:02:03.87,0:02:10.41,OP-R,,0,0,0,karaoke,Mienai chikara ni ima michibikareru mama
+Comment: 0,0:02:11.08,0:02:16.98,OP-R,,0,0,0,karaoke,Haruka tooku no gooru mezashite
+Comment: 0,0:02:17.45,0:02:24.62,OP-R,,0,0,0,karaoke,Mishiranu machi bokura wa doko e yukeba ii n darou
+Comment: 0,0:02:24.72,0:02:33.33,OP-R,,0,0,0,karaoke,Takanaru mune mayowazu hashiri tsuzuketai (ah-i-a-i-a-i-a-i-a)
+Comment: 0,0:02:33.53,0:02:41.28,OP-R,,0,0,0,karaoke,Inochi wo kakete idomu I can fly kowai mono nante nai
+Comment: 0,0:02:41.49,0:02:48.11,OP-R,,0,0,0,karaoke,Hadaka no kokoro to kokoro de tsunagatteitai yo
+Comment: 0,0:02:48.11,0:02:55.81,OP-R,,0,0,0,karaoke,Kibou no hikari kanji in the sky dare yori mo takaku tobe
+Comment: 0,0:02:56.02,0:03:07.53,OP-R,,0,0,0,karaoke,Me no mae no unmei kirihirake owaru koto nai mirai e
+Comment: 0,0:03:07.62,0:03:11.17,OP-R,,0,0,0,karaoke,Up to the sky
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,,
+Comment: 0,0:01:49.46,0:01:56.10,OP-E,,0,0,0,karaoke,You'll always find us chasing in pursuit of a sun that's hiding away
+Comment: 0,0:01:56.53,0:02:01.57,OP-E,,0,0,0,karaoke,'Cause there's a dream that we have lost and want to find again
+Comment: 0,0:02:03.87,0:02:10.41,OP-E,,0,0,0,karaoke,There is a hidden power deep inside and it's always guiding our way
+Comment: 0,0:02:11.08,0:02:16.98,OP-E,,0,0,0,karaoke,Out in the distance, our goal is there to attain
+Comment: 0,0:02:17.45,0:02:24.62,OP-E,,0,0,0,karaoke,In a town that none of us really know, where there's no one to show us which way we should go,
+Comment: 0,0:02:24.72,0:02:33.33,OP-E,,0,0,0,karaoke,Know our hearts will never lead us astray from the path that we should ta-a-ake!
+Comment: 0,0:02:33.53,0:02:41.28,OP-E,,0,0,0,karaoke,Life on the line, I will spread my wings so I can fly! 'Cause why would I have anything to fear?
+Comment: 0,0:02:41.49,0:02:48.11,OP-E,,0,0,0,karaoke,With my soul bared to your soul and your soul to mine, I want to fly out there with you
+Comment: 0,0:02:48.11,0:02:55.81,OP-E,,0,0,0,karaoke,Enter the light! We can fly high up in the sky. With wings of hope, we're reaching new frontiers
+Comment: 0,0:02:56.02,0:03:07.53,OP-E,,0,0,0,karaoke,And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
+Comment: 0,0:03:07.62,0:03:11.17,OP-E,,0,0,0,karaoke,Take to the sky!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
