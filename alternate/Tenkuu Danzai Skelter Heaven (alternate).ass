@@ -40,10 +40,10 @@ Dialogue: 0,0:03:18.89,0:03:23.32,Default,,0,0,0,,We just got some news.{this is
 Dialogue: 0,0:03:23.62,0:03:26.89,Default,,0,0,0,,Apparently the object is beginning to move.
 Dialogue: 0,0:03:27.35,0:03:28.83,Default,,0,0,0,,Let me say that again.
 Dialogue: 0,0:03:29.42,0:03:32.29,Default,,0,0,0,,Apparently the object is beginning to move.
-Dialogue: 0,0:03:33.39,0:03:35.83,Default,,0,0,0,,{\i1\an8}Got some news.
-Dialogue: 0,0:03:35.89,0:03:39.23,Default,,0,0,0,,{\i1\an8}Apparently the object is beginning to move.
-Dialogue: 0,0:03:39.48,0:03:41.23,Default,,0,0,0,,{\i1\an8}Let me say that again.
-Dialogue: 0,0:03:41.57,0:03:44.20,Default,,0,0,0,,{\i1\an8}Apparently the object is beginning to move.
+Dialogue: 0,0:03:33.39,0:03:35.83,Default,,0,0,0,,{\an8}Got some news.
+Dialogue: 0,0:03:35.89,0:03:39.23,Default,,0,0,0,,{\an8}Apparently the object is beginning to move.
+Dialogue: 0,0:03:39.48,0:03:41.23,Default,,0,0,0,,{\an8}Let me say that again.
+Dialogue: 0,0:03:41.57,0:03:44.20,Default,,0,0,0,,{\an8}Apparently the object is beginning to move.
 Dialogue: 0,0:03:44.50,0:03:47.17,Default,TLC,0,0,0,,The target is going the same way.
 Dialogue: 0,0:03:47.23,0:03:49.82,Default,TLC,0,0,0,,[something] in response to contact
 Dialogue: 0,0:04:04.79,0:04:06.29,Default,,0,0,0,,We're on alert orders.
@@ -93,7 +93,7 @@ Dialogue: 0,0:06:49.12,0:06:50.55,Default,,0,0,0,,Funagai, I'll leave the rest t
 Dialogue: 0,0:06:52.68,0:06:56.37,Default,,0,0,0,,To stop the target, there are two steps.
 Dialogue: 0,0:06:57.17,0:07:00.54,Default,,0,0,0,,We have to destroy its weakness and then destroy it.
 Dialogue: 0,0:07:01.00,0:07:04.69,Default,,0,0,0,,Using a bazooka, we'll fire a probe at the target from close,
-Dialogue: 0,0:07:05.24,0:07:06.37,Default,edit,0,0,0,,scan the controlling core{better-sounding term for this?}
+Dialogue: 0,0:07:05.24,0:07:06.37,Default,,0,0,0,,scan the controlling core
 Dialogue: 0,0:07:06.94,0:07:09.30,Default,TLC,0,0,0,,then focus our attack.{一点集中... what?}
 Dialogue: 0,0:07:10.30,0:07:12.22,Default,,0,0,0,,W-with a bazooka?{alt: With a ba-bazooka? - But I dunno if that was ever something a group would do. - Lann}
 Dialogue: 0,0:07:14.89,0:07:18.88,Default,,0,0,0,,Once the targets energy readings go down, you will charge.
@@ -105,134 +105,136 @@ Dialogue: 0,0:07:25.82,0:07:26.79,Default,,0,0,0,,You're fast.
 Dialogue: 0,0:07:26.91,0:07:28.25,Default,,0,0,0,,Attack the core.
 Dialogue: 0,0:07:29.60,0:07:30.60,Default,,0,0,0,,Yes.
 Dialogue: 0,0:07:30.66,0:07:31.43,Default,,0,0,0,,Captain!
-Dialogue: 0,0:07:31.51,0:07:34.33,Default,,0,0,0,,The JSDF has engaged the target.
-Dialogue: 0,0:07:42.50,0:07:46.16,Default,TLC,0,0,0,,The target's energy readings have passed the threshold.
-Dialogue: 0,0:08:00.03,0:08:02.06,Default,,0,0,0,,I can't agree with this order, Captain.
-Dialogue: 0,0:08:02.13,0:08:03.80,Default,,0,0,0,,Why am I backup?
-Dialogue: 0,0:08:03.87,0:08:05.65,Default,,0,0,0,,You have a problem with my commands?
-Dialogue: 0,0:08:06.59,0:08:07.69,Default,,0,0,0,,I do.
-Dialogue: 0,0:08:08.03,0:08:10.05,Default,,0,0,0,,Rin, go on ahead.
-Dialogue: 0,0:08:16.96,0:08:19.33,Default,,0,0,0,,Are you fine letting her go?
-Dialogue: 0,0:08:19.39,0:08:20.58,Default,,0,0,0,,What's that supposed to mean?
-Dialogue: 0,0:08:20.64,0:08:22.98,Default,,0,0,0,,I don't let personal feelings interfere with work!
-Dialogue: 0,0:08:23.82,0:08:26.08,Default,,0,0,0,,Then make me take point!
-Dialogue: 0,0:08:26.15,0:08:28.28,Default,,0,0,0,,I'm superior to Rin in all areas.
-Dialogue: 0,0:08:28.37,0:08:29.35,Default,,0,0,0,,I can accomplish this task.
-Dialogue: 0,0:08:29.55,0:08:31.57,Default,,0,0,0,,You act on your own authority.
-Dialogue: 0,0:08:31.62,0:08:33.36,Default,,0,0,0,,You're a loose cannon.
+Dialogue: 0,0:07:31.51,0:07:34.33,Default,,0,0,0,,The JSDF is attacking the target.
+Dialogue: 0,0:07:42.50,0:07:46.16,Default,TLC,0,0,0,,The targets energy reading has gotten big enough.
+Dialogue: 0,0:07:57.68,0:07:58.42,Default,TM,0,0,0,,Oh...{Pls make timing badder - Lann}
+Dialogue: 0,0:08:00.03,0:08:02.06,Default,,0,0,0,,Captain, I can't agree.
+Dialogue: 0,0:08:02.13,0:08:03.80,Default,,0,0,0,,Why am I second?
+Dialogue: 0,0:08:03.87,0:08:05.65,Default,,0,0,0,,My commands cause you problems?
+Dialogue: 0,0:08:06.59,0:08:07.69,Default,,0,0,0,,Yes.
+Dialogue: 0,0:08:08.03,0:08:10.05,Default,,0,0,0,,Rin, please go ahead.
+Dialogue: 0,0:08:16.96,0:08:19.33,Default,,0,0,0,,Is it okay? To let Rin go?
+Dialogue: 0,0:08:19.39,0:08:20.58,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:08:20.64,0:08:22.98,Default,,0,0,0,,I don't let my feelings interfere with work!
+Dialogue: 0,0:08:23.82,0:08:26.08,Default,,0,0,0,,Then make me fast!
+Dialogue: 0,0:08:26.15,0:08:28.28,Default,TLC,0,0,0,,I smell better than Rin.{Too far? (全て匂い...) - Lann}
+Dialogue: 0,0:08:28.37,0:08:29.35,Default,,0,0,0,,I can do it.
+Dialogue: 0,0:08:29.55,0:08:31.57,Default,,0,0,0,,You are too much on your own authority.
+Dialogue: 0,0:08:31.62,0:08:33.36,Default,,0,0,0,,It will be a hassle.
 Dialogue: 0,0:08:37.20,0:08:38.70,Default,,0,0,0,,So that's it.
-Dialogue: 0,0:08:38.80,0:08:41.53,Default,,0,0,0,,I'm inferior to Rin, am I?
+Dialogue: 0,0:08:38.80,0:08:41.53,Default,,0,0,0,,I'm worse than Rin, am I?
 Dialogue: 0,0:08:42.68,0:08:44.04,Default,,0,0,0,,Misaki...
 Dialogue: 0,0:08:44.86,0:08:46.08,Default,,0,0,0,,I'll show him.
-Dialogue: 0,0:08:47.18,0:08:49.08,Default,,0,0,0,,I'll {\i1}prove{\i0} I'm superior to Rin.
-Dialogue: 0,0:08:53.69,0:08:58.45,Default,TLC,0,0,0,,Ensure you penetrate the target directly with the probe.
-Dialogue: 0,0:08:58.51,0:09:00.07,Default,,0,0,0,,With this improvised weapon?
-Dialogue: 0,0:09:00.96,0:09:03.49,Default,,0,0,0,,01 Skelter Wave, copy that.
-Dialogue: 0,0:09:21.44,0:09:23.94,Default,,0,0,0,,Skelter Wave, preparing for launch.
+Dialogue: 0,0:08:47.18,0:08:49.08,Default,,0,0,0,,I'll show I'm better then Rin.
+Dialogue: 0,0:08:53.69,0:08:58.45,Default,TLC,0,0,0,,Ensure you use the panzerfaust to penetrate the target.
+Dialogue: 0,0:08:58.51,0:09:00.07,Default,,0,0,0,,With this quickly made weapon?
+Dialogue: 0,0:09:00.96,0:09:03.49,Default,,0,0,0,,01 skelter wave, roger.
+Dialogue: 0,0:09:21.44,0:09:23.94,Default,,0,0,0,,Skelter wave, get ready for launch.
 Dialogue: 0,0:09:24.01,0:09:24.96,Default,,0,0,0,,Roger!
-Dialogue: 0,0:09:25.29,0:09:27.70,Default,,0,0,0,,{\i1}Misaki's completely right.
-Dialogue: 0,0:09:27.75,0:09:30.58,Default,,0,0,0,,{\i1}She'd do a better job for sure.
-Dialogue: 0,0:09:30.65,0:09:33.85,Default,,0,0,0,,{\i1}But I want to live up to Captain Funagai's expectations.
-Dialogue: 0,0:09:33.91,0:09:36.15,Default,,0,0,0,,{\i1}No one's going to listen to excuses.
-Dialogue: 0,0:09:36.26,0:09:38.76,Default,,0,0,0,,{\i1}I won't give in to the enemy or my own weakness.
-Dialogue: 0,0:09:38.84,0:09:41.70,Default,,0,0,0,,{\i1}Then I'll tell him how I feel!{literally just "convey to him", but this seems an obvious enough inference}
+Dialogue: 0,0:09:25.29,0:09:27.70,Default,,0,0,0,,What Misaki said is obvious.
+Dialogue: 0,0:09:27.75,0:09:30.58,Default,,0,0,0,,I'm sure Misaki would do better.
+Dialogue: 0,0:09:30.65,0:09:33.85,Default,,0,0,0,,But I want to meet Taichou's expectations.
+Dialogue: 0,0:09:33.91,0:09:36.15,Default,,0,0,0,,No ones listening to excuses.
+Dialogue: 0,0:09:36.26,0:09:38.76,Default,,0,0,0,,I don't want to loose... To me or the enemy.
+Dialogue: 0,0:09:38.84,0:09:41.70,Default,,0,0,0,,And I have to tell him!
 Comment: 0,0:09:56.49,0:09:56.49,Default,chptr,0,0,0,,{Part B}Part B
-Dialogue: 0,0:09:59.71,0:10:01.58,Default,,0,0,0,,Energy readings increasing.
-Dialogue: 0,0:10:01.58,0:10:03.18,Default,,0,0,0,,All units, prepare to engage.
-Dialogue: 0,0:10:03.18,0:10:04.82,Default,,0,0,0,,01 in pursuit.
-Dialogue: 0,0:10:05.08,0:10:06.35,Default,,0,0,0,,03, cover me.
-Dialogue: 0,0:10:06.35,0:10:07.75,Default,,0,0,0,,You got it.
-Dialogue: 0,0:10:15.89,0:10:18.43,Default,,0,0,0,,Nicely done, Misaki.
-Dialogue: 0,0:10:18.43,0:10:19.83,Default,,0,0,0,,We landed safely.
-Dialogue: 0,0:10:19.83,0:10:21.07,Default,,0,0,0,,We can do this!
-Dialogue: 0,0:10:21.07,0:10:22.43,Default,,0,0,0,,Readying probe!
-Dialogue: 0,0:10:22.43,0:10:25.10,Default,,0,0,0,,Retreat as soon as you've planted it.
-Dialogue: 0,0:10:25.10,0:10:27.64,Default,,0,0,0,,02, attack as soon as the scan's completed.
+Dialogue: 0,0:09:59.71,0:10:01.58,Default,,0,0,0,,Energy reading is getting bigger.
+Dialogue: 0,0:10:01.58,0:10:03.18,Default,,0,0,0,,Everyone, get ready to attack.
+Dialogue: 0,0:10:03.18,0:10:04.82,Default,,0,0,0,,01 moving in.
+Dialogue: 0,0:10:05.08,0:10:06.35,Default,,0,0,0,,03 support me.
+Dialogue: 0,0:10:06.35,0:10:07.75,Default,,0,0,0,,OK.
+Dialogue: 0,0:10:15.89,0:10:18.43,Default,,0,0,0,,Misaki, as expected.
+Dialogue: 0,0:10:18.43,0:10:19.83,Default,,0,0,0,,Landing successful.
+Dialogue: 0,0:10:19.83,0:10:21.07,Default,,0,0,0,,This much we can do.
+Dialogue: 0,0:10:21.07,0:10:22.43,Default,,0,0,0,,Falling in!
+Dialogue: 0,0:10:22.43,0:10:25.10,Default,TLC,0,0,0,,Once it's fallen in, get away.{I can't quite catch that last word... Is it Engrish? - Lann}
+Dialogue: 0,0:10:25.10,0:10:27.64,Default,,0,0,0,,02, when the scan's done, attack and shoot.
 Dialogue: 0,0:10:27.64,0:10:28.34,Default,,0,0,0,,Roger!
 Dialogue: 0,0:10:43.62,0:10:44.86,Default,,0,0,0,,Misaki!
-Dialogue: 0,0:10:44.86,0:10:46.06,Default,,0,0,0,,Behind you!
+Dialogue: 0,0:10:44.86,0:10:46.06,Default,,0,0,0,,Behind!
+Dialogue: 0,0:10:47.98,0:10:49.06,Default,TM,0,0,0,,Ah!{Badden it up - Lann}
 Dialogue: 0,0:10:49.16,0:10:50.33,Default,,0,0,0,,Midori!
-Dialogue: 0,0:10:50.33,0:10:52.43,Default,,0,0,0,,Ignore it! Focus on the target!
-Dialogue: 0,0:10:52.43,0:10:54.03,Default,,0,0,0,,But Misaki...
-Dialogue: 0,0:10:54.03,0:10:54.90,Default,,0,0,0,,And Midori!
+Dialogue: 0,0:10:50.33,0:10:52.43,Default,,0,0,0,,Don't stop! You aim for the target!
+Dialogue: 0,0:10:52.43,0:10:54.03,Default,,0,0,0,,But Misaki is...
+Dialogue: 0,0:10:54.03,0:10:54.90,Default,,0,0,0,,And Midori is...!
 Dialogue: 0,0:10:54.90,0:10:56.40,Default,,0,0,0,,Follow your orders!
-Dialogue: 0,0:10:57.60,0:10:59.84,Default,,0,0,0,,Analysing.
-Dialogue: 0,0:10:59.84,0:11:01.57,Default,,0,0,0,,Core detected in center of object.
-Dialogue: 0,0:11:01.57,0:11:05.24,Default,TLC,0,0,0,,The entity's exterior is heavily armored,\Nso enter from underneath.
-Dialogue: 0,0:11:08.81,0:11:09.78,Default,,0,0,0,,Are you listening, Rin?
-Dialogue: 0,0:11:09.78,0:11:11.32,Default,,0,0,0,,There's no time for emotions.
-Dialogue: 0,0:11:19.69,0:11:21.79,Default,,0,0,0,,02 will provide cover fire.
+Dialogue: 0,0:10:57.60,0:10:59.84,Default,,0,0,0,,Checking object analysis.
+Dialogue: 0,0:10:59.84,0:11:01.57,Default,,0,0,0,,A core is in the center.
+Dialogue: 0,0:11:01.57,0:11:05.24,Default,TLC,0,0,0,,The object's outside is hard, so go in from below.
+Dialogue: 0,0:11:08.81,0:11:09.78,Default,,0,0,0,,Did you hear that, Rin?
+Dialogue: 0,0:11:09.78,0:11:11.32,Default,,0,0,0,,No time for crying.
+Dialogue: 0,0:11:19.69,0:11:21.79,Default,,0,0,0,,02 will attack to cover.
 Dialogue: 0,0:11:32.14,0:11:33.34,Default,,0,0,0,,Rin!
-Dialogue: 0,0:11:38.34,0:11:40.28,Default,,0,0,0,,This is an artificial human.
-Dialogue: 0,0:11:41.01,0:11:46.45,Default,,0,0,0,,As it grows, its intelligence will surpass a human's,
-Dialogue: 0,0:11:46.45,0:11:48.39,Default,,0,0,0,,along with its physical abilities.
-Dialogue: 0,0:11:50.49,0:11:54.16,Default,,0,0,0,,However, its true capabilities are unknown.
-Dialogue: 0,0:11:54.83,0:11:58.46,Default,,0,0,0,,Strict supervision will be required.
-Dialogue: 0,0:11:58.46,0:11:59.90,Default,,0,0,0,,It is currently docile.
-Dialogue: 0,0:12:00.60,0:12:05.90,Default,,0,0,0,,But if one day it were to turn against us...{lit bare fangs, which is of course an idiom in English, but I dunno if it sounds right for this character}
-Dialogue: 0,0:12:12.88,0:12:17.02,Default,,0,0,0,,Captain, how long will I be able to live?
-Dialogue: 0,0:12:17.62,0:12:19.85,Default,,0,0,0,,Are you afraid of dying?
-Dialogue: 0,0:12:22.22,0:12:23.46,Default,,0,0,0,,Not at all.
-Dialogue: 0,0:12:23.46,0:12:27.06,Default,,0,0,0,,It's just... I'm an artificial being.
-Dialogue: 0,0:12:27.06,0:12:29.19,Default,,0,0,0,,My lifespan is different to yours.
-Dialogue: 0,0:12:29.19,0:12:30.40,Default,,0,0,0,,So I...
-Dialogue: 0,0:12:31.10,0:12:34.83,Default,,0,0,0,,I want to understand my own life.
-Dialogue: 0,0:12:35.30,0:12:39.07,Default,,0,0,0,,The organisation is responsible for all of your wellbeing.
-Dialogue: 0,0:12:39.07,0:12:40.54,Default,,0,0,0,,There's nothing to be worried about.
-Dialogue: 0,0:12:41.87,0:12:45.48,Default,,0,0,0,,We won't know your lifespan without more research.
-Dialogue: 0,0:12:46.78,0:12:50.52,Default,,0,0,0,,As the first generation,\Nyou are the research subjects.
-Dialogue: 0,0:12:51.52,0:12:53.25,Default,,0,0,0,,That's enough pointless chitchat.
-Dialogue: 0,0:12:53.25,0:12:55.45,Default,,0,0,0,,You just need to follow orders.
-Dialogue: 0,0:12:55.45,0:12:56.89,Default,,0,0,0,,All right?
-Dialogue: 0,0:12:56.89,0:12:58.66,Default,,0,0,0,,Understood.
+Dialogue: 0,0:11:38.34,0:11:40.28,Default,,0,0,0,,This is a created existance.
+Dialogue: 0,0:11:41.01,0:11:46.45,Default,TLC,0,0,0,,As it is growing, it will get smarter than a human,{More Engrish I'm hearing? - Lann}
+Dialogue: 0,0:11:46.45,0:11:48.39,Default,,0,0,0,,and stronger.
+Dialogue: 0,0:11:50.49,0:11:54.16,Default,,0,0,0,,However, her actual ability is unknown.
+Dialogue: 0,0:11:54.83,0:11:58.46,Default,,0,0,0,,And so, there will need to be lots of watching.
+Dialogue: 0,0:11:58.46,0:11:59.90,Default,,0,0,0,,It is sleeping.
+Dialogue: 0,0:12:00.60,0:12:05.90,Default,,0,0,0,,But if in the future it bared its fangs...{lit bare fangs, which is of course an idiom in English, but I dunno if it sounds right for this character}
+Dialogue: 0,0:12:12.88,0:12:17.02,Default,,0,0,0,,Taichou, how long can I live?
+Dialogue: 0,0:12:17.62,0:12:19.85,Default,,0,0,0,,Are you scared of dieing?
+Dialogue: 0,0:12:22.22,0:12:23.46,Default,,0,0,0,,No.
+Dialogue: 0,0:12:23.46,0:12:27.06,Default,,0,0,0,,Um... We're created existences.
+Dialogue: 0,0:12:27.06,0:12:29.19,Default,,0,0,0,,My life span and health is wrong.
+Dialogue: 0,0:12:29.19,0:12:30.40,Default,,0,0,0,,I...
+Dialogue: 0,0:12:31.10,0:12:34.83,Default,,0,0,0,,I want to know my life.
+Dialogue: 0,0:12:35.30,0:12:39.07,Default,,0,0,0,,The company is responsible for your bodies.
+Dialogue: 0,0:12:39.07,0:12:40.54,Default,,0,0,0,,There's nothing to worry about.
+Dialogue: 0,0:12:41.87,0:12:45.48,Default,,0,0,0,,Just, we still need to research your lifespan.
+Dialogue: 0,0:12:46.78,0:12:50.52,Default,TLC,0,0,0,,Since you're the first generation, there needs to be research data.{Is that some sort of term there? 第一セライ or something?}
+Dialogue: 0,0:12:51.52,0:12:53.25,Default,,0,0,0,,The pointless talking is finished.
+Dialogue: 0,0:12:53.25,0:12:55.45,Default,,0,0,0,,It's okay for you to follow orders.
+Dialogue: 0,0:12:55.45,0:12:56.89,Default,,0,0,0,,Good?
+Dialogue: 0,0:12:56.89,0:12:58.66,Default,,0,0,0,,I understand.
 Dialogue: 0,0:12:59.76,0:13:01.06,Default,,0,0,0,,That's good.
-Dialogue: 0,0:13:01.06,0:13:03.43,Default,,0,0,0,,Your orders are absolute.
-Dialogue: 0,0:13:03.43,0:13:06.43,Default,,0,0,0,,You're as honest as they come, aren't you?
-Dialogue: 0,0:13:07.03,0:13:07.70,Default,,0,0,0,,What's that?
-Dialogue: 0,0:13:19.41,0:13:21.75,Default,,0,0,0,,Rin, focus!
-Dialogue: 0,0:13:25.42,0:13:27.12,Default,,0,0,0,,I'm fine, I'm fine.
-Dialogue: 0,0:13:27.12,0:13:28.12,Default,,0,0,0,,I can still fight!
+Dialogue: 0,0:13:01.06,0:13:03.43,Default,,0,0,0,,Taichou's order is absolute.
+Dialogue: 0,0:13:03.43,0:13:06.43,Default,,0,0,0,,You really are always honest, huh?
+Dialogue: 0,0:13:07.03,0:13:07.70,Default,,0,0,0,,Eh?
+Dialogue: 0,0:13:19.41,0:13:21.75,Default,,0,0,0,,Rin, get a hold of yourself!
+Dialogue: 0,0:13:25.42,0:13:27.12,Default,,0,0,0,,I'm okay, I'm okay.
+Dialogue: 0,0:13:27.12,0:13:28.12,Default,,0,0,0,,I can still go!
 Dialogue: 0,0:13:28.45,0:13:30.49,Default,,0,0,0,,Rin... no.
 Dialogue: 0,0:13:30.49,0:13:31.76,Default,,0,0,0,,All units, retreat.
 Dialogue: 0,0:13:33.12,0:13:35.23,Default,TLC,0,0,0,,We'll fall back.
-Dialogue: 0,0:13:35.23,0:13:38.80,Default,,0,0,0,,When we figure out its weakness, we'll attack together and destroy it!
-Dialogue: 0,0:13:38.80,0:13:40.73,Default,,0,0,0,,Funagai! Have you gone insane?
-Dialogue: 0,0:13:42.23,0:13:43.90,Default,,0,0,0,,I told myself it was just work.
-Dialogue: 0,0:13:45.67,0:13:48.71,Default,,0,0,0,,I was able to convince myself it was professional.
-Dialogue: 0,0:13:49.47,0:13:50.28,Default,,0,0,0,,{Dunno if you wanna put the "but" here or leave it in the subsequent line}
-Dialogue: 0,0:13:51.54,0:13:52.68,Default,,0,0,0,,But those girls
-Dialogue: 0,0:13:53.31,0:13:54.41,Default,,0,0,0,,were smiling.
-Dialogue: 0,0:13:56.11,0:13:58.38,Default,,0,0,0,,That's why... That's why...
-Dialogue: 0,0:14:13.47,0:14:15.93,Default,,0,0,0,,Rin! What are you doing?
-Dialogue: 0,0:14:15.93,0:14:20.31,Default,,0,0,0,,I didn't follow your orders all this time because of how I was created!
-Dialogue: 0,0:14:20.81,0:14:23.94,Default,,0,0,0,,It was because I loved you!
-Dialogue: 0,0:14:26.85,0:14:27.88,Default,,0,0,0,,That's right.
-Dialogue: 0,0:14:29.01,0:14:30.95,Default,,0,0,0,,I'm going in first!
-Dialogue: 0,0:14:36.39,0:14:37.26,Default,,0,0,0,,Don't!
-Dialogue: 0,0:14:37.89,0:14:39.79,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:14:57.98,0:14:59.18,Default,,0,0,0,,I got through!
-Dialogue: 0,0:15:01.18,0:15:03.15,Default,,0,0,0,,Here we go, Rin!
-Dialogue: 0,0:15:06.18,0:15:10.02,Default,,0,0,0,,Skelter fighter unit Skelter Wave has penetrated the target.
-Dialogue: 0,0:15:11.66,0:15:12.96,Default,,0,0,0,,What on earth...
-Dialogue: 0,0:15:13.66,0:15:14.39,Default,,0,0,0,,What is this?
+Dialogue: 0,0:13:35.23,0:13:38.80,Default,,0,0,0,,When its weakness is known, we'll attack this guy and destroy it!
+Dialogue: 0,0:13:38.80,0:13:40.73,Default,,0,0,0,,Funagai! Are you crazy?
+Dialogue: 0,0:13:42.23,0:13:43.90,Default,,0,0,0,,This was just work.
+Dialogue: 0,0:13:45.67,0:13:48.71,Default,,0,0,0,,Thinking that, I somehow did it.
+Dialogue: 0,0:13:49.47,0:13:50.28,Default,,0,0,0,,But...
+Dialogue: 0,0:13:51.54,0:13:52.68,Default,,0,0,0,,They...
+Dialogue: 0,0:13:53.31,0:13:54.41,Default,,0,0,0,,were laughing.
+Dialogue: 0,0:13:56.11,0:13:58.38,Default,,0,0,0,,I am... I am...
+Dialogue: 0,0:14:08.29,0:14:09.26,Default,TM,0,0,0,,Ah!
+Dialogue: 0,0:14:13.47,0:14:15.93,Default,,0,0,0,,What are you doing, Rin?
+Dialogue: 0,0:14:15.93,0:14:20.31,Default,,0,0,0,,I didn't follow your orders because I was made like that!
+Dialogue: 0,0:14:20.81,0:14:23.94,Default,,0,0,0,,It's because I loved you!
+Dialogue: 0,0:14:26.85,0:14:27.88,Default,,0,0,0,,That's it.
+Dialogue: 0,0:14:29.01,0:14:30.95,Default,,0,0,0,,I'm going on ahead!
+Dialogue: 0,0:14:36.39,0:14:37.26,Default,,0,0,0,,Don't go!
+Dialogue: 0,0:14:37.89,0:14:39.79,Default,,0,0,0,,Stop!
+Dialogue: 0,0:14:57.98,0:14:59.18,Default,,0,0,0,,I got in!
+Dialogue: 0,0:15:01.18,0:15:03.15,Default,,0,0,0,,Rin-san, I'm going!
+Dialogue: 0,0:15:06.18,0:15:10.02,Default,,0,0,0,,Skelter fighter Skelter wave has penetrated the target.
+Dialogue: 0,0:15:11.66,0:15:14.39,Default,,0,0,0,,What is this?
 Dialogue: 0,0:15:22.10,0:15:24.20,Default,,0,0,0,,This is the controlling core.
-Dialogue: 0,0:15:24.90,0:15:28.67,Default,,0,0,0,,It's speaking directly into my mind
-Dialogue: 0,0:15:31.58,0:15:35.45,Default,,0,0,0,,Certainly, some humans are slaves to their emotions.
-Dialogue: 0,0:15:35.45,0:15:38.95,Default,,0,0,0,,And their history is one of destruction, no end in sight.
-Dialogue: 0,0:15:40.32,0:15:44.42,Default,,0,0,0,,But that's only one side of humanity.
-Dialogue: 0,0:15:45.62,0:15:47.56,Default,,0,0,0,,We have to defeat you.
-Dialogue: 0,0:15:50.86,0:15:52.93,Default,,0,0,0,,But it's not for humanity.
-Dialogue: 0,0:15:53.26,0:15:55.70,Default,,0,0,0,,It's for the one person I want to protect!
-Dialogue: 0,0:15:55.70,0:15:57.44,Default,,0,0,0,,That's why I'm fighting!
-Dialogue: 0,0:16:31.30,0:16:33.57,Default,,0,0,0,,Yes, that's exactly right.
+Dialogue: 0,0:15:24.90,0:15:28.67,Default,,0,0,0,,The voice is entering into my head.
+Dialogue: 0,0:15:31.58,0:15:35.45,Default,,0,0,0,,It's true, there are humans that can't control emotions.
+Dialogue: 0,0:15:35.45,0:15:38.95,Default,,0,0,0,,And for the repeating breaking love, the end can't be seen.
+Dialogue: 0,0:15:40.32,0:15:44.42,Default,,0,0,0,,But that's one side of humans.
+Dialogue: 0,0:15:45.62,0:15:47.56,Default,,0,0,0,,We need to beat you.
+Dialogue: 0,0:15:49.60,0:15:50.08,Default,TM,0,0,0,,No.
+Dialogue: 0,0:15:50.86,0:15:52.93,Default,,0,0,0,,It's not for humanity's sake.
+Dialogue: 0,0:15:53.26,0:15:55.70,Default,,0,0,0,,Its to protect one person!
+Dialogue: 0,0:15:55.70,0:15:57.44,Default,,0,0,0,,I'm fighting!
+Dialogue: 0,0:16:31.30,0:16:33.57,Default,,0,0,0,,Yes, that's true.
 Dialogue: 0,0:16:33.57,0:16:34.84,Default,,0,0,0,,Understood.
-Dialogue: 0,0:16:37.91,0:16:40.38,Default,,0,0,0,,They weren't defective themselves.
-Dialogue: 0,0:16:40.98,0:16:43.65,Default,,0,0,0,,The problem is how humans used them.{it's a PEBKAC issue}
-Dialogue: 0,0:16:44.38,0:16:46.22,Default,,0,0,0,,It always is.
+Dialogue: 0,0:16:37.91,0:16:40.38,Default,,0,0,0,,They weren't broken.
+Dialogue: 0,0:16:40.98,0:16:43.65,Default,,0,0,0,,It is how humans used them that is the problem.{it's a PEBKAC issue}
+Dialogue: 0,0:16:44.38,0:16:46.22,Default,,0,0,0,,That's always the problem.
 Dialogue: 0,0:17:00.87,0:17:02.10,Default,,0,0,0,,Breaking news.
-Dialogue: 0,0:17:02.10,0:17:06.64,Default,,0,0,0,,Multiple mysterious entities have appeared in Tokyo's airspace.
-Dialogue: 0,0:17:07.37,0:17:09.71,Default,,0,0,0,,A similar entity was destroyed
-Dialogue: 0,0:17:09.71,0:17:12.41,Default,,0,0,0,,by the JSDF one year ago.
+Dialogue: 0,0:17:02.10,0:17:06.64,Default,,0,0,0,,Some mysterious objects showed up in Tokyo airspace.
+Dialogue: 0,0:17:07.37,0:17:12.41,Default,,0,0,0,,One year before, a similar object was destroyed by the JSDF.
 Comment: 0,0:17:23.60,0:17:23.60,Default,chptr,0,0,0,,{ED}ED
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Signs ===============================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ==================================
