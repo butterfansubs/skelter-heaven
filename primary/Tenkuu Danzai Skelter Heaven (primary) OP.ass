@@ -42,7 +42,7 @@ Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxg
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 227)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,430,!meta.res_x * (1-J(j, maxj))!,530)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -227 * J(j, maxj) ) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,465)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 227)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,465,!meta.res_x * (1-J(j, maxj))!,565)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
-Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!ln.tag.move(meta.res_x, 0, 0, 0, 0, 228)!\q2}
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!ln.tag.move(meta.res_x, 0, 0, 0, 0, 227)!\q2}
 Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup leadout,!retime('postline', 0, 227)!{!ln.tag.move(0, 0, 0, 100)!\q2}
 Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup noleadout,!retime('postline', 0, 227)!{!ln.tag.move(0, 0, -meta.res_x, 0)!\q2}
 Comment: 0,0:01:49.32,0:01:55.78,OP-R,,0,0,0,karaoke,{\k22}to{\k22}za{\k23}sa{\k23}re{\k23}te{\k23}ku {\k22}ta{\k45}i{\k23}yo{\k22}u {\k23}{\k23}sa{\k23}ga{\k67}shi {\k45}ni {\k23}ta{\k23}bi{\k23}da{\k148}tou
