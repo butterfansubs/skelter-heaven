@@ -9,17 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 640
 PlayResY: 480
 
-[Aegisub Project Garbage]
-Last Style Storage: ButterFS
-Audio File: /home/johann/Videos/subs/skelter-heaven/primary/../skelterheaven.mkv
-Video File: /home/johann/Videos/subs/skelter-heaven/primary/../skelterheaven.mkv
-Video AR Mode: 4
-Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 18
-Active Line: 35
-Video Position: 33686
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tiresias Infofont,24,&H00FFFFFF,&H000000FF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,1.2,0.2,2,33,33,18,1
