@@ -39,39 +39,39 @@ Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgr
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -455 * J(j, maxj) ) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,465)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 228)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,465,!meta.res_x * (1-J(j, maxj))!,565)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
 Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!ln.tag.move(meta.res_x, 0, 0, 0, 0, 228)!\q2}
-Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup leadout,!retime('postline', 0, 228)!{!ln.tag.move(0, 0, 0, 100)!\q2}
-Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup noleadout,!retime('postline', 0, 228)!{!ln.tag.move(0, 0, -meta.res_x, 0)!\q2}
-Comment: 0,0:01:49.46,0:01:56.10,OP-R,,0,0,0,karaoke,tozasareteku taiyou sagashi ni tabidatou
-Comment: 0,0:01:56.53,0:02:01.57,OP-R,,0,0,0,karaoke,nakushita yume wo torimodosu tame
-Comment: 0,0:02:03.87,0:02:10.41,OP-R,,0,0,0,karaoke,mienai chikara ni ima michibikareru mama
-Comment: 0,0:02:11.08,0:02:16.98,OP-R,,0,0,0,karaoke,haruka tooku no gooru mezashite
-Comment: 0,0:02:17.45,0:02:21.09,OP-R,,0,0,0,karaoke,mishiranu machi bokura wa
-Comment: 0,0:02:21.09,0:02:24.62,OP-R,,0,0,0,karaoke,doko e yukeba ii n darou
-Comment: 0,0:02:24.72,0:02:28.56,OP-R,,0,0,0,karaoke,takanaru mune mayowazu
-Comment: 0,0:02:28.56,0:02:33.33,OP-R,,0,0,0,karaoke,hashiri tsuzuketai (ah-i-a-i-a-i-a-i-a)
-Comment: 0,0:02:33.53,0:02:37.40,OP-R,,0,0,0,karaoke,inochi wo kakete idomu i can fly
-Comment: 0,0:02:37.40,0:02:41.28,OP-R,,0,0,0,karaoke,kowai mono nante nai
-Comment: 0,0:02:41.49,0:02:45.24,OP-R,,0,0,0,karaoke,hadaka no kokoro to kokoro de
-Comment: 0,0:02:45.24,0:02:48.11,OP-R,,0,0,0,karaoke,tsunagatteitai yo
-Comment: 0,0:02:48.11,0:02:52.28,OP-R,,0,0,0,karaoke,kibou no hikari kanji in the sky
-Comment: 0,0:02:52.28,0:02:55.81,OP-R,,0,0,0,karaoke,dare yori mo takaku tobe
-Comment: 0,0:02:56.02,0:03:07.53,OP-R,,0,0,0,karaoke,me no mae no unmei kirihirake owaru koto nai mirai e
-Comment: 0,0:03:07.62,0:03:11.17,OP-R,,0,0,0,karaoke,up to the sky
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup leadout,!retime('postline', 0, 227)!{!ln.tag.move(0, 0, 0, 100)!\q2}
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup noleadout,!retime('postline', 0, 227)!{!ln.tag.move(0, 0, -meta.res_x, 0)!\q2}
+Comment: 0,0:01:49.32,0:01:55.78,OP-R,,0,0,0,karaoke,{\k22}To{\k22}za{\k23}sa{\k23}re{\k23}te{\k23}ku {\k22}ta{\k45}i{\k23}yo{\k22}u {\k23}{\k23}sa{\k23}ga{\k67}shi {\k45}ni {\k23}ta{\k23}bi{\k23}da{\k148}tou
+Comment: 0,0:01:56.29,0:02:01.76,OP-R,,0,0,0,karaoke,{\k25}{\k22}Na{\k23}ku{\k23}shi{\k23}ta {\k24}yu{\k22}me {\k23}wo {\k45}to{\k46}ri{\k45}mo{\k23}do{\k45}su {\k23}ta{\k135}me
+Comment: 0,0:02:03.46,0:02:10.34,OP-R,,0,0,0,karaoke,{\k31}{\k23}Mi{\k23}e{\k22}na{\k23}i {\k23}chi{\k23}ka{\k23}ra {\k45}ni {\k23}i{\k21}ma {\k24}{\k22}mi{\k23}chi{\k68}bi{\k45}ka{\k23}re{\k23}ru {\k23}ma{\k157}ma
+Comment: 0,0:02:10.76,0:02:16.53,OP-R,,0,0,0,karaoke,{\k24}{\k23}Ha{\k24}ru{\k23}ka {\k45}too{\k23}ku {\k23}no {\k45}goo{\k23}ru {\k45}me{\k23}za{\k22}shi{\k234}te
+Comment: 0,0:02:17.07,0:02:20.72,OP-R,,0,0,0,karaoke,{\k25}{\k23}Mi{\k23}shi{\k69}ra{\k45}nu {\k23}ma{\k23}chi {\k22}bo{\k68}ku{\k23}ra {\k21}wa
+Comment: 0,0:02:20.72,0:02:24.35,OP-R,,0,0,0,karaoke,{\k23}{\k23}do{\k24}ko {\k68}e {\k34}yu{\k12}ke{\k23}ba {\k22}i{\k23}i {\k45}n {\k23}da{\k22}ro{\k21}u
+Comment: 0,0:02:24.35,0:02:28.18,OP-R,,0,0,0,karaoke,{\k23}{\k23}Ta{\k23}ka{\k68}na{\k46}ru {\k22}mu{\k23}ne {\k23}ma{\k68}yo{\k22}wa{\k42}zu
+Comment: 0,0:02:28.18,0:02:32.74,OP-R,,0,0,0,karaoke,{\k25}{\k23}ha{\k22}shi{\k45}ri {\k46}tsu{\k22}zu{\k45}ke{\k46}tai (ah{\k22}-i{\k23}-a{\k23}-i{\k23}-a{\k23}-i{\k22}-a{\k23}-i{\k42}-a)
+Comment: 0,0:02:32.95,0:02:37.24,OP-R,,0,0,0,karaoke,{\k47}{\k35}I{\k34}no{\k23}chi {\k43}wo {\k25}{\k11}ka{\k12}ke{\k23}te {\k23}i{\k23}do{\k23}mu {\k34}I {\k34}can {\k42}fly
+Comment: 0,0:02:37.24,0:02:41.09,OP-R,,0,0,0,karaoke,{\k25}{\k46}ko{\k67}wa{\k22}i {\k23}mo{\k23}no {\k23}na{\k23}n{\k67}te {\k24}na{\k43}i
+Comment: 0,0:02:41.09,0:02:44.74,OP-R,,0,0,0,karaoke,{\k24}{\k12}Ha{\k12}da{\k34}ka {\k34}no {\k23}ko{\k34}ko{\k34}ro {\k23}to {\k34}ko{\k34}ko{\k23}ro {\k43}de
+Comment: 0,0:02:44.74,0:02:47.70,OP-R,,0,0,0,karaoke,{\k47}{\k34}tsu{\k34}na{\k23}ga{\k33}t{\k34}te{\k23}i{\k23}tai {\k42}yo
+Comment: 0,0:02:47.70,0:02:51.78,OP-R,,0,0,0,karaoke,{\k25}{\k34}Ki{\k34}bo{\k23}u {\k42}no {\k25}{\k12}hi{\k11}ka{\k23}ri {\k45}kan{\k23}ji {\k34}in {\k34}the {\k42}sky
+Comment: 0,0:02:51.78,0:02:55.62,OP-R,,0,0,0,karaoke,{\k24}{\k46}da{\k67}re {\k23}yo{\k24}ri {\k22}mo {\k22}ta{\k23}ka{\k68}ku {\k22}to{\k43}be
+Comment: 0,0:02:55.62,0:03:06.36,OP-R,,0,0,0,karaoke,{\k25}{\k11}Me {\k12}no {\k34}ma{\k34}e {\k24}no {\k34}u{\k35}n{\k23}me{\k35}i {\k34}ki{\k23}ri{\k34}hi{\k34}ra{\k22}ke {\k34}o{\k33}wa{\k24}ru {\k33}ko{\k35}to {\k23}na{\k43}i {\k48}{\k33}mi{\k34}ra{\k23}i {\k340}e
+Comment: 0,0:03:06.95,0:03:10.68,OP-R,,0,0,0,karaoke,{\k63}{\k68}Up {\k22}to {\k22}the {\k213}sky
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,,
-Comment: 0,0:01:49.46,0:01:56.10,OP-E,,0,0,0,karaoke,You'll always find us chasing in pursuit of a sun that's hiding away
-Comment: 0,0:01:56.53,0:02:01.57,OP-E,,0,0,0,karaoke,'Cause there's a dream that we have lost and want to find again
-Comment: 0,0:02:03.87,0:02:10.41,OP-E,,0,0,0,karaoke,There is a hidden power deep inside and it's always guiding our way
-Comment: 0,0:02:11.08,0:02:16.98,OP-E,,0,0,0,karaoke,Out in the distance, our goal is there to attain
-Comment: 0,0:02:17.45,0:02:21.09,OP-E,,0,0,0,karaoke,In a town that none of us really know,
-Comment: 0,0:02:21.09,0:02:24.62,OP-E,,0,0,0,karaoke,Where there's no one to show us which way we should go,
-Comment: 0,0:02:24.72,0:02:28.56,OP-E,,0,0,0,karaoke,Know our hearts will never lead us astray
-Comment: 0,0:02:28.56,0:02:33.33,OP-E,,0,0,0,karaoke,From the path that we should ta-a-ake!
-Comment: 0,0:02:33.53,0:02:37.40,OP-E,,0,0,0,karaoke,Life on the line, I will spread my wings so I can fly!
-Comment: 0,0:02:37.40,0:02:41.28,OP-E,,0,0,0,karaoke,'Cause why would I have anything to fear?
-Comment: 0,0:02:41.49,0:02:45.24,OP-E,,0,0,0,karaoke,With my soul bared to your soul and your soul to mine,
-Comment: 0,0:02:45.24,0:02:48.11,OP-E,,0,0,0,karaoke,I want to fly out there with you
-Comment: 0,0:02:48.11,0:02:52.28,OP-E,,0,0,0,karaoke,Enter the light! We can fly high up in the sky.
-Comment: 0,0:02:52.28,0:02:55.81,OP-E,,0,0,0,karaoke,With wings of hope, we're reaching new frontiers
-Comment: 0,0:02:56.02,0:03:07.53,OP-E,,0,0,0,karaoke,And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
-Comment: 0,0:03:07.62,0:03:11.17,OP-E,,0,0,0,karaoke,Take to the sky!
+Comment: 0,0:01:49.32,0:01:55.78,OP-E,,0,0,0,karaoke,You'll always find us chasing in pursuit of a sun that's hiding away
+Comment: 0,0:01:56.29,0:02:01.76,OP-E,,0,0,0,karaoke,'Cause there's a dream that we have lost and want to find again
+Comment: 0,0:02:03.46,0:02:10.34,OP-E,,0,0,0,karaoke,There is a hidden power deep inside and it's always guiding our way
+Comment: 0,0:02:10.76,0:02:16.53,OP-E,,0,0,0,karaoke,Out in the distance, our goal is there to attain
+Comment: 0,0:02:17.07,0:02:20.72,OP-E,,0,0,0,karaoke,In a town that none of us really know,
+Comment: 0,0:02:20.72,0:02:24.35,OP-E,,0,0,0,karaoke,Where there's no one to show us which way we should go,
+Comment: 0,0:02:24.35,0:02:28.18,OP-E,,0,0,0,karaoke,Know our hearts will never lead us astray
+Comment: 0,0:02:28.18,0:02:32.74,OP-E,,0,0,0,karaoke,From the path that we should ta-a-ake!
+Comment: 0,0:02:32.95,0:02:37.24,OP-E,,0,0,0,karaoke,Life on the line, I will spread my wings so I can fly!
+Comment: 0,0:02:37.24,0:02:41.09,OP-E,,0,0,0,karaoke,'Cause why would I have anything to fear?
+Comment: 0,0:02:41.09,0:02:44.74,OP-E,,0,0,0,karaoke,With my soul bared to your soul and your soul to mine,
+Comment: 0,0:02:44.74,0:02:47.70,OP-E,,0,0,0,karaoke,I want to fly out there with you
+Comment: 0,0:02:47.70,0:02:51.78,OP-E,,0,0,0,karaoke,Enter the light! We can fly high up in the sky
+Comment: 0,0:02:51.78,0:02:55.62,OP-E,,0,0,0,karaoke,With wings of hope, we're reaching new frontiers
+Comment: 0,0:02:55.62,0:03:06.36,OP-E,,0,0,0,karaoke,And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
+Comment: 0,0:03:06.95,0:03:10.68,OP-E,,0,0,0,karaoke,Take to the sky!
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
