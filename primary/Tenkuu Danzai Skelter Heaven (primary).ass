@@ -300,7 +300,43 @@ Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,# News headline top right
 Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\pos(449.143,183.429)}Mysterious airborne entity begins moving over Tokyo airspace
 Comment: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,# One year later
 Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One year later...
-Comment: 0,0:17:02.37,0:17:11.98,Signs,,0,0,0,,# News headline reprise
-Dialogue: 0,0:17:02.37,0:17:11.98,Signs,,0,0,0,,{\pos(283.429,408.571)}Mysterious airborne entity appears over Tokyo once more
+Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,# News headline reprise
+Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,## Background
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,344)\blur1\p1\c&HC34B00&\1a&H73&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,345)\blur1\p1\c&HC34B00&\1a&H69&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,346)\blur1\p1\c&HC34B00&\1a&H60&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,347)\blur1\p1\c&HC34B00&\1a&H56&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,348)\blur1\p1\c&HC34B00&\1a&H4C&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,349)\blur1\p1\c&HC34B00&\1a&H43&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,350)\blur1\p1\c&HC34B00&\1a&H38&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,351)\blur1\p1\c&HC34B00&\1a&H2E&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,352)\blur1\p1\c&HC34B00&\1a&H23&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,353)\blur1\p1\c&HC34B00&\1a&H18&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,354)\blur1\p1\c&HC34B00&\1a&H0D&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,355)\blur1\p1\c&HC34B00&\1a&H0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,356)\blur1\p1\c&HC34B00&\1a&H0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,357)\blur1\p1\c&HC34B00&\1a&H0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,358)\blur1\p1\c&HC34B00&\1a&H0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,359)\blur1\p1\c&HC34B00&\1a&H0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,360)\blur1\p1\c&HC34B00&\1a&H0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,361)\blur1\p1\c&HC34B00&\1a&H18&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,362)\blur1\p1\c&HC34B00&\1a&H27&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,363)\blur1\p1\c&HC34B00&\1a&H37&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,364)\blur1\p1\c&HC34B00&\1a&H46&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,365)\blur1\p1\c&HC34B00&\1a&H55&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,366)\blur1\p1\c&HC34B00&\1a&H65&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,367)\blur1\p1\c&HC34B00&\1a&H75&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,368)\blur1\p1\c&HC34B00&\1a&H86&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,369)\blur1\p1\c&HC34B00&\1a&H96&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,370)\blur1\p1\c&HC34B00&\1a&HA7&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,371)\blur1\p1\c&HC34B00&\1a&HB8&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,372)\blur1\p1\c&HC34B00&\1a&HC9&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,373)\blur1\p1\c&HC34B00&\1a&HDB&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,374)\blur1\p1\c&HC34B00&\1a&HED&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,375)\blur1\p1\c&HC34B00&\1a&HFF&}m -4 0 l 644 0 644 2 -4 2
+Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,## Text
+Comment: 2,0:17:02.37,0:17:11.88,Signs,*bord,0,0,0,,{\fnGentium Book Basic\bord1.5\blur0.5\pos(318,357.047)\3c&H080200&\c&HFFFFFF&}Mysterious airborne entity appears over Tokyo once more
+Dialogue: 2,0:17:02.37,0:17:11.88,Signs,bord,0,0,0,done,{\fad(0,3252)\fnGentium Basic\\bord1.5\blur0.8\3c&H080200&\c&H080200&\t(6525,6700,\1a&HFE&)\b1\pos(320,357.047)}Mysterious airborne entity appears over Tokyo once more
+Dialogue: 3,0:17:02.37,0:17:11.88,Signs,bord,0,0,0,done,{\fad(0,3252)\fnGentium Basic\b1\blur0.5\c&HFFFFFF&\pos(320,357.047)}Mysterious airborne entity appears over Tokyo once more
 Comment: 0,0:00:02.25,0:00:02.25,Default,,0,0,0,,== OP ==================================
 Comment: 0,0:00:20.53,0:00:23.47,Default,,0,0,0,,== ED ==================================
