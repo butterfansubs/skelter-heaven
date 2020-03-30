@@ -15,8 +15,8 @@ Video File: ../../../../Desktop/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 198
-Active Line: 176
+Scroll Position: 60
+Active Line: 73
 Video Position: 25059
 
 [V4+ Styles]
@@ -98,7 +98,7 @@ Dialogue: 0,0:07:05.12,0:07:06.80,Default,edit,0,0,0,,verify the location of its
 Dialogue: 0,0:07:06.80,0:07:10.28,Default,,0,0,0,,and focus our fire to destroy it.
 Dialogue: 0,0:07:10.28,0:07:12.35,Default,,0,0,0,,W-With a bazooka?
 Dialogue: 0,0:07:14.81,0:07:18.75,Default,,0,0,0,,Once its energy readings drop, \Nyou will move out and engage the target.
-Dialogue: 0,0:07:18.75,0:07:20.32,Default,,0,0,0,,It is critical we act with haste.
+Dialogue: 0,0:07:18.75,0:07:20.32,Default,,0,0,0,,It is critical that we act with haste.
 Dialogue: 0,0:07:20.32,0:07:23.89,Default,,0,0,0,,Consider this the only chance we've got.
 Dialogue: 0,0:07:24.20,0:07:24.72,Default,,0,0,0,,Rin Ichikawa.
 Dialogue: 0,0:07:24.72,0:07:25.72,Default,,0,0,0,,Y-Yes, sir!
