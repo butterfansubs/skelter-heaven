@@ -15,9 +15,9 @@ Video File: ../../../../Desktop/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 150
-Active Line: 154
-Video Position: 22831
+Scroll Position: 67
+Active Line: 70
+Video Position: 12896
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -94,7 +94,7 @@ Dialogue: 0,0:06:48.89,0:06:51.42,Default,,0,0,0,,Take it from here, Funagai.
 Dialogue: 0,0:06:52.63,0:06:56.80,Default,,0,0,0,,There are two steps required \Nto neutralize our opponent.
 Dialogue: 0,0:06:56.80,0:06:59.91,Default,,0,0,0,,We must locate its weak spot{discover its weakness} \Nand then destroy the target.
 Dialogue: 0,0:07:00.93,0:07:05.12,Default,,0,0,0,,We'll get into close range \Nand fire a probe into it with a bazooka,
-Dialogue: 0,0:07:05.12,0:07:06.80,Default,edit,0,0,0,,verify the location of its logic{master} core,{j - edit: better-sounding term for controling core?}{制御コアを確定}{m - I'm not super sure on how to interpret 確定 here (but I'm sure it *is* 確定, that's what it is in the vn), but I guess it's probably something like finding/determining where the core is (using the probe)?}
+Dialogue: 0,0:07:05.12,0:07:06.80,Default,edit,0,0,0,,verify the location of its neurocore core,
 Dialogue: 0,0:07:06.80,0:07:10.28,Default,,0,0,0,,and focus our fire to destroy it.
 Dialogue: 0,0:07:10.28,0:07:12.35,Default,,0,0,0,,W-With a bazooka?
 Dialogue: 0,0:07:14.81,0:07:18.75,Default,,0,0,0,,Once its energy readings drop, \Nyou will move out and engage the target.
@@ -164,7 +164,7 @@ Dialogue: 0,0:11:08.78,0:11:09.73,Default,,0,0,0,,Do you hear me, Rin?
 Dialogue: 0,0:11:09.73,0:11:11.35,Default,,0,0,0,,There's no time to get all emotional.
 Dialogue: 0,0:11:19.72,0:11:21.63,Default,,0,0,0,,All units will provide cover while 02 attacks.
 Dialogue: 0,0:11:32.17,0:11:33.37,Default,,0,0,0,,Rin!
-Dialogue: 0,0:11:38.38,0:11:40.69,Default,,0,0,0,,This is an artificial humanoid.
+Dialogue: 0,0:11:38.38,0:11:40.69,Default,,0,0,0,,This is a synthetic humanoid.
 Dialogue: 0,0:11:40.95,0:11:46.48,Default,,0,0,0,,As it develops, its intelligence \Nwill surpass that of a human.
 Dialogue: 0,0:11:46.48,0:11:48.38,Default,,0,0,0,,Its physical prowess will follow suit.
 Dialogue: 0,0:11:50.49,0:11:54.62,Default,,0,0,0,,However, its true latent capabilities are unknown.
@@ -178,10 +178,10 @@ Dialogue: 0,0:12:23.38,0:12:27.00,Default,,0,0,0,,It's just... I'm not a real hu
 Dialogue: 0,0:12:27.00,0:12:29.23,Default,,0,0,0,,My lifespan is different than yours.
 Dialogue: 0,0:12:29.23,0:12:30.36,Default,,0,0,0,,So I...
 Dialogue: 0,0:12:31.00,0:12:34.26,Default,,0,0,0,,I want to understand my own life.
-Dialogue: 0,0:12:35.24,0:12:39.01,Default,,0,0,0,,The organization is responsible \Nfor you girls' well-being.
+Dialogue: 0,0:12:35.24,0:12:39.01,Default,,0,0,0,,The organization is responsible \Nfor your collective well-being.
 Dialogue: 0,0:12:39.01,0:12:40.49,Default,,0,0,0,,Don't stress yourself about it.
 Dialogue: 0,0:12:41.77,0:12:45.46,Default,,0,0,0,,However, we won't know your lifespans \Nwithout more research.
-Dialogue: 0,0:12:46.75,0:12:50.50,Default,,0,0,0,,As first-generation artificial humanoids, \Nyou girls are the prototypes.
+Dialogue: 0,0:12:46.75,0:12:50.50,Default,,0,0,0,,As first-generation synthetic humanoids, \Nyou girls are the prototypes.
 Dialogue: 0,0:12:51.52,0:12:53.13,Default,,0,0,0,,Enough of the pointless chitchat.
 Dialogue: 0,0:12:53.13,0:12:55.49,Default,,0,0,0,,You just need to follow orders.
 Dialogue: 0,0:12:55.49,0:12:56.79,Default,,0,0,0,,All right?
@@ -214,7 +214,7 @@ Dialogue: 0,0:14:58.01,0:14:59.23,Default,,0,0,0,,I got through!
 Dialogue: 0,0:15:01.13,0:15:03.18,Default,,0,0,0,,Here we go, Rin!
 Dialogue: 0,0:15:06.22,0:15:09.96,Default,,0,0,0,,Skelter Titan and Skelter Heaven \Nhave penetrated the target.
 Dialogue: 0,0:15:11.72,0:15:14.34,Default,,0,0,0,,{\i1}What on earth...
-Dialogue: 0,0:15:21.98,0:15:24.14,Default,,0,0,0,,This is its logic{master} core.
+Dialogue: 0,0:15:21.98,0:15:24.14,Default,,0,0,0,,This is its neurocore.
 Dialogue: 0,0:15:24.95,0:15:28.03,Default,,0,0,0,,It's speaking directly into my mind.
 Dialogue: 0,0:15:31.44,0:15:35.38,Default,,0,0,0,,It's true that some humans are slaves \Nto their emotions.
 Dialogue: 0,0:15:35.38,0:15:39.04,Default,,0,0,0,,Yes, their history is an endless chain of destruction.
