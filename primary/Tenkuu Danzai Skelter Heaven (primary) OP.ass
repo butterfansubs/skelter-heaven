@@ -32,20 +32,22 @@ Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code once,ln = _G.require('ln.kara'
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code once,function J(j, maxj) return j/maxj; end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function ctime(dt, di) local text = syll.text_stripped:trim(); local ci = char.ci + di - syll.ci; local ct = (ci/#text) * syll.duration; if ci < #text then ct = math.min(114 * ci, ct); end; return syll.start_time + ct + dt; end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function clip(x1, y1, x2, y2) return ("\\clip(%f,%f,%f,%f)"):format(x1, y1, x2, y2); end
-Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function foo(text, tag1, tag2, tag3) if #text:trim() == 0 then return ''; end; local t = {'{',tag1, ln.tag.t(ctime(-2,0),ctime(-1,0),tag2),ln.tag.t(ctime(-2,1),ctime(-1,1),tag3),'}'}; if ctime(0, 0) == ctime(0, 1) then _G.table.remove(t, 3); elseif ctime(0,0) == 0 then _G.table.remove(t, 2); t[2] = tag2; end; return _G.table.concat(t); end;
-Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function bar() return _G.table.concat{"\\fscy0", ln.tag.t(0, 227, "\\fscy100"), ln.tag.t(line.duration - 227, line.duration, "\\fscy0")}; end
-Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function baz() local w, h = line.width+16, line.height+8; w, h = w - 2*(1.125 + .25), h - 2*(1.125 + .25); local x, y = line.center, line.middle; local x1, y1, x2, y2 = x-w/2, y-h/2, x+w/2, y+h/2; return clip(x1, y, x2, y) .. ln.tag.t(0, 227, clip(x1, y1, x2, y2)) .. ln.tag.t(line.duration - 227, line.duration, clip(x1, y, x2, y)); end
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function syl_fx(text, tag1, tag2, tag3) if #text:trim() == 0 then return ''; end; local t = {'{',tag1, ln.tag.t(ctime(-2,0),ctime(-1,0),tag2),ln.tag.t(ctime(-2,1),ctime(-1,1),tag3),'}'}; if ctime(0, 0) == ctime(0, 1) then _G.table.remove(t, 3); elseif ctime(0,0) == 0 then _G.table.remove(t, 2); t[2] = tag2; end; return _G.table.concat(t); end;
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function line_fx(tag1, tag2, tag3) return ("%s%s%s"):format(tag1, ln.tag.t(0, 227, tag2), ln.tag.t(line.duration-227, line.duration, tag3)); end
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_scale() return line_fx("\\fscy0", "\\fscy100", "\\fscy0"); end
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_clip() local w, h = w - 2*(1.125 + .25), h - 2*(1.125 + .25); local x, y = line.center, line.middle; local x1, y1, x2, y2 = x-w/2, y-h/2, x+w/2, y+h/2; return line_fx(clip(x1, y, x2, y), clip(x1, y1, x2, y2), clip(x1, y, x2, y)); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function shad(c, a) return ("\\1c%s\\3c%s\\4c%s\\1a&HFE&\\3a&HFE&\\4a%s\\shad0.01"):format(c, c, c, a); end
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,prev_line, next_line = subs[line.i-1], subs[line.i+1]
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,fxgroup.leadout = (next_line.start_time ~= line.end_time); fxgroup.noleadout = (not fxgroup.leadout)
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,fxgroup.leadin = (prev_line.end_time ~= line.start_time); fxgroup.noleadin = (not fxgroup.leadin);
-Comment: 10,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,!set('w', $width+16)!!set('h', $height+8)!{!bar()!\bord0\p1!shad("&H00004F&", "&H9F&")!\blur3!ln.tag.pos(5,5)!}m 0 0 l !w! 0 !w! !h! 0 !h!
-Comment: 13,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,!set('w', $width+16)!!set('h', $height+8)!{!bar()!\bord2.5\p1!shad("&H007FFF&", "&H5F&")!\blur2!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
-Comment: 14,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!bar()!\bord1.125\p1!shad("&HEEFFFF&", "&H00&")!!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
-Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line glow,{!baz()!\q2\bord2!shad("&H007FFF&", "&H5F&")!\be8\an5\pos($center,$middle)!""--[[what the hell?]]!}
-Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar glow,!foo(char.text, '\\bord1.5', '\\bord3', '\\bord2')!
-Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line fill,{!baz()!\q2\c&HEEFFFF&!ln.tag.pos(5,5)!}
-Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar fill,!foo(char.text, '\\1a&H4F&', '\\1a&H00&', '\\1a&H07&')!
+Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line,w, h = line.width + 16, line.height + 8
+Comment: 10,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!inout_scale()!\bord0\p1!shad("&H00004F&", "&H9F&")!\blur3!ln.tag.pos(5,5)!}m 0 0 l !w! 0 !w! !h! 0 !h!
+Comment: 13,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!inout_scale()!\bord2.5\p1!shad("&H007FFF&", "&H5F&")!\blur2!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
+Comment: 14,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!inout_scale()!\bord1.125\p1!shad("&HEEFFFF&", "&H00&")!!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
+Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line glow,{!inout_clip()!\q2\bord2!shad("&H007FFF&", "&H5F&")!\be8\an5\pos($center,$middle)!""--[[what the hell?]]!}
+Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar glow,!syl_fx(char.text, '\\bord1.5', '\\bord3', '\\bord2')!
+Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line fill,{!inout_clip()!\q2\c&HEEFFFF&!ln.tag.pos(5,5)!}
+Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar fill,!syl_fx(char.text, '\\1a&H4F&', '\\1a&H00&', '\\1a&H07&')!
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -227 * (1-J(j, maxj))) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,430)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 227)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,430,!meta.res_x * (1-J(j, maxj))!,530)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -227 * J(j, maxj) ) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,465)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
