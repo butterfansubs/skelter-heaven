@@ -14,10 +14,10 @@ Audio File: ../../../../Desktop/skelterheaven.mkv
 Video File: ../../../../Desktop/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 73
-Video Position: 25059
+Video Zoom Percent: 1.000000
+Scroll Position: 133
+Active Line: 135
+Video Position: 20120
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +114,7 @@ Dialogue: 0,0:08:03.70,0:08:05.46,Default,,0,0,0,,You have a problem with my ord
 Dialogue: 0,0:08:06.48,0:08:07.07,Default,,0,0,0,,I do.
 Dialogue: 0,0:08:07.97,0:08:09.90,Default,,0,0,0,,Rin, you go on.
 Dialogue: 0,0:08:16.90,0:08:19.21,Default,,0,0,0,,Are you fine sending her out there?
-Dialogue: 0,0:08:19.21,0:08:20.43,Default,,0,0,0,,What's that supposed to mean?
+Dialogue: 0,0:08:19.21,0:08:20.43,Default,,0,0,0,,What are you implying?
 Dialogue: 0,0:08:20.43,0:08:23.18,Default,,0,0,0,,I don't let my personal feelings \Nget in the way of work!
 Dialogue: 0,0:08:23.84,0:08:25.85,Default,,0,0,0,,Then put me on point!
 Dialogue: 0,0:08:25.85,0:08:28.28,Default,,0,0,0,,I'm superior to Rin in all areas.
@@ -160,8 +160,8 @@ Dialogue: 0,0:10:54.83,0:10:56.40,Default,,0,0,0,,Follow your orders!
 Dialogue: 0,0:10:57.60,0:10:59.84,Default,,0,0,0,,Analyzing.
 Dialogue: 0,0:10:59.84,0:11:01.57,Default,,0,0,0,,Core detected in center of object.
 Dialogue: 0,0:11:01.57,0:11:05.12,Default,,0,0,0,,The entity's carapace is heavily armored,\Nso enter from underneath.
-Dialogue: 0,0:11:08.78,0:11:09.73,Default,,0,0,0,,Are you listening, Rin?
-Dialogue: 0,0:11:09.73,0:11:11.35,Default,,0,0,0,,Don't let your emotions get the best of you.
+Dialogue: 0,0:11:08.78,0:11:09.73,Default,,0,0,0,,Do you hear me, Rin?
+Dialogue: 0,0:11:09.73,0:11:11.35,Default,,0,0,0,,There's no time to get all emotional.
 Dialogue: 0,0:11:19.72,0:11:21.63,Default,,0,0,0,,All units will provide cover while 02 attacks.
 Dialogue: 0,0:11:32.17,0:11:33.37,Default,,0,0,0,,Rin!
 Dialogue: 0,0:11:38.38,0:11:40.69,Default,,0,0,0,,This is a homunculus.
