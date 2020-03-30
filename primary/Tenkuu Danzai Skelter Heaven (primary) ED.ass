@@ -18,13 +18,14 @@ Style: ED-E,Roboto Condensed,30,&H3FFFFFFF,&H000000FF,&H00860000,&H66000000,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,code once,ln = _G.require("ln.kara"); ln.init(tenv)
+Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,code once,function noblank() if orgline.text_stripped == '' then maxloop(0); end; return ''; end
 Comment: 1,0:17:35.23,0:17:39.05,ED-E,,0,0,0,template line notext,!retime('preline', -280, 280)!{\p1\move(0,0,640,0)\an8\blur0.5\c!gc(3)!\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
-Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,template line noblank,!retime('preline', -280, 0)!{\clip(0,0,0,480)\t(0,280,\clip(0,0,320,480))\c&H838383&\1a&H7F&}
-Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,template line foo noblank,!retime('line', 0, 280)!{\clip(0,0,320,480)\t(0,280,\clip(0,0,640,480))\t(!$dur-280!,!$dur+280!,\clip(640,0,640,480))}
+Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,template line,!noblank()!!retime('preline', -280, 0)!{\clip(0,0,0,480)\t(0,280,\clip(0,0,320,480))\c&H838383&\1a&H7F&}
+Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,template line foo,!noblank()!!retime('line', 0, 280)!{\clip(0,0,320,480)\t(0,280,\clip(0,0,640,480))\t(!$dur-280!,!$dur+280!,\clip(640,0,640,480))}
 Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,template lsyl foo,{\c&H838383&\1a&H7F&\t(!$start-30!,!$start+30!,\c&HFCFCFC&\1a&H1F&)\t(!$end!,!$end+280!,\c&HC8C8C8&\1a&H3F&)}
 Comment: 1,0:17:35.23,0:17:39.05,ED-E,,0,0,0,template line notext,!retime('preline', -280, 280)!{\p1\move(640,0,0,0)\an8\blur0.5\c!gc(3)!\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Comment: 0,0:17:35.23,0:17:39.05,ED-E,,0,0,0,template line noblank,!retime('preline', -280, 0)!{\clip(640,0,640,480)\t(0,280,\clip(320,0,640,480))}
-Comment: 0,0:17:35.23,0:17:39.05,ED-E,,0,0,0,template line noblank,!retime('line', 0, 280)!{\clip(320,0,640,480)\t(0,280,\clip(0,0,640,480))\t(!$dur-280!,!$dur+280!,\clip(0,0,0,480))}
+Comment: 0,0:17:35.23,0:17:39.05,ED-E,,0,0,0,template line,!noblank()!!retime('preline', -280, 0)!{\clip(640,0,640,480)\t(0,280,\clip(320,0,640,480))}
+Comment: 0,0:17:35.23,0:17:39.05,ED-E,,0,0,0,template line,!noblank()!!retime('line', 0, 280)!{\clip(320,0,640,480)\t(0,280,\clip(0,0,640,480))\t(!$dur-280!,!$dur+280!,\clip(0,0,0,480))}
 Comment: 0,0:17:35.23,0:17:39.05,ED-R,,0,0,0,karaoke,{\kf23}{\kf24}a{\kf24}ya{\kf24}tsu{\kf25}ra{\kf24}re{\kf24}te{\kf45}ku {\kf50}{\kf48}un{\kf24}me{\kf25}i {\kf22}ga
 Comment: 0,0:17:39.05,0:17:42.93,ED-R,,0,0,0,karaoke,{\kf25}{\kf25}ka{\kf24}na{\kf25}shi{\kf24}mi {\kf24}no {\kf24}so{\kf24}ko {\kf37}de {\kf36}ka{\kf24}ma{\kf37}wa{\kf37}na{\kf22}i
 Comment: 0,0:17:42.93,0:17:46.80,ED-R,,0,0,0,karaoke,{\kf25}{\kf13}tsu{\kf12}na{\kf24}ga{\kf25}re{\kf36}ta {\kf36}i{\kf22}to {\kf25}{\kf24}a{\kf24}na{\kf24}ta {\kf12}e {\kf24}to {\kf25}tsu{\kf13}zu{\kf23}ku
@@ -95,8 +96,6 @@ Dialogue: 0,0:18:32.29,0:18:32.57,ED-R,,0,0,0,fx,{\clip(0,0,0,480)\t(0,280,\clip
 Dialogue: 0,0:18:32.57,0:18:38.09,ED-R,,0,0,0,fx,{\clip(0,0,320,480)\t(0,280,\clip(0,0,640,480))\t(4960,5520,\clip(640,0,640,480))}{\c&H838383&\1a&H7F&\t(-30,30,\c&HFCFCFC&\1a&H1F&)\t(500,780,\c&HC8C8C8&\1a&H3F&)}{\c&H838383&\1a&H7F&\t(470,530,\c&HFCFCFC&\1a&H1F&)\t(1460,1740,\c&HC8C8C8&\1a&H3F&)}wa{\c&H838383&\1a&H7F&\t(1430,1490,\c&HFCFCFC&\1a&H1F&)\t(1820,2100,\c&HC8C8C8&\1a&H3F&)}ta{\c&H838383&\1a&H7F&\t(1790,1850,\c&HFCFCFC&\1a&H1F&)\t(2170,2450,\c&HC8C8C8&\1a&H3F&)}shi {\c&H838383&\1a&H7F&\t(2140,2200,\c&HFCFCFC&\1a&H1F&)\t(2410,2690,\c&HC8C8C8&\1a&H3F&)}no {\c&H838383&\1a&H7F&\t(2380,2440,\c&HFCFCFC&\1a&H1F&)\t(3130,3410,\c&HC8C8C8&\1a&H3F&)}su{\c&H838383&\1a&H7F&\t(3100,3160,\c&HFCFCFC&\1a&H1F&)\t(3370,3650,\c&HC8C8C8&\1a&H3F&)}be{\c&H838383&\1a&H7F&\t(3340,3400,\c&HFCFCFC&\1a&H1F&)\t(3730,4010,\c&HC8C8C8&\1a&H3F&)}te {\c&H838383&\1a&H7F&\t(3700,3760,\c&HFCFCFC&\1a&H1F&)\t(4090,4370,\c&HC8C8C8&\1a&H3F&)}wa {\c&H838383&\1a&H7F&\t(4060,4120,\c&HFCFCFC&\1a&H1F&)\t(4340,4620,\c&HC8C8C8&\1a&H3F&)}so{\c&H838383&\1a&H7F&\t(4310,4370,\c&HFCFCFC&\1a&H1F&)\t(5240,5520,\c&HC8C8C8&\1a&H3F&)}u
 Dialogue: 0,0:18:37.53,0:18:37.81,ED-R,,0,0,0,fx,{\clip(0,0,0,480)\t(0,280,\clip(0,0,320,480))\c&H838383&\1a&H7F&}anata kara hajimaru
 Dialogue: 0,0:18:37.81,0:18:41.95,ED-R,,0,0,0,fx,{\clip(0,0,320,480)\t(0,280,\clip(0,0,640,480))\t(3580,4140,\clip(640,0,640,480))}{\c&H838383&\1a&H7F&\t(-30,30,\c&HFCFCFC&\1a&H1F&)\t(280,560,\c&HC8C8C8&\1a&H3F&)}{\c&H838383&\1a&H7F&\t(250,310,\c&HFCFCFC&\1a&H1F&)\t(530,810,\c&HC8C8C8&\1a&H3F&)}a{\c&H838383&\1a&H7F&\t(500,560,\c&HFCFCFC&\1a&H1F&)\t(770,1050,\c&HC8C8C8&\1a&H3F&)}na{\c&H838383&\1a&H7F&\t(740,800,\c&HFCFCFC&\1a&H1F&)\t(1010,1290,\c&HC8C8C8&\1a&H3F&)}ta {\c&H838383&\1a&H7F&\t(980,1040,\c&HFCFCFC&\1a&H1F&)\t(1380,1660,\c&HC8C8C8&\1a&H3F&)}ka{\c&H838383&\1a&H7F&\t(1350,1410,\c&HFCFCFC&\1a&H1F&)\t(1750,2030,\c&HC8C8C8&\1a&H3F&)}ra {\c&H838383&\1a&H7F&\t(1720,1780,\c&HFCFCFC&\1a&H1F&)\t(1990,2270,\c&HC8C8C8&\1a&H3F&)}ha{\c&H838383&\1a&H7F&\t(1960,2020,\c&HFCFCFC&\1a&H1F&)\t(2350,2630,\c&HC8C8C8&\1a&H3F&)}ji{\c&H838383&\1a&H7F&\t(2320,2380,\c&HFCFCFC&\1a&H1F&)\t(2720,3000,\c&HC8C8C8&\1a&H3F&)}ma{\c&H838383&\1a&H7F&\t(2690,2750,\c&HFCFCFC&\1a&H1F&)\t(3860,4140,\c&HC8C8C8&\1a&H3F&)}ru
-Dialogue: 0,0:18:41.39,0:18:41.67,ED-R,,0,0,0,fx,{\clip(0,0,0,480)\t(0,280,\clip(0,0,320,480))\c&H838383&\1a&H7F&}
-Dialogue: 0,0:18:41.67,0:18:41.95,ED-R,,0,0,0,fx,{\clip(0,0,320,480)\t(0,280,\clip(0,0,640,480))\t(-280,280,\clip(640,0,640,480))}{\c&H838383&\1a&H7F&\t(-30,30,\c&HFCFCFC&\1a&H1F&)\t(0,280,\c&HC8C8C8&\1a&H3F&)}
 Dialogue: 1,0:17:34.95,0:17:35.51,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:17:34.95,0:17:35.51,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
 Dialogue: 0,0:17:34.95,0:17:35.23,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,280,\clip(320,0,640,480))}I leave my life up to fate. What can I do?
@@ -167,5 +166,3 @@ Dialogue: 0,0:18:37.53,0:18:37.81,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,280,\
 Dialogue: 0,0:18:37.81,0:18:41.95,ED-E,,0,0,0,fx,{\clip(320,0,640,480)\t(0,280,\clip(0,0,640,480))\t(3580,4140,\clip(0,0,0,480))}All that I am is because of you
 Dialogue: 1,0:18:41.39,0:18:41.95,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:41.39,0:18:41.95,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:18:41.39,0:18:41.67,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,280,\clip(320,0,640,480))}
-Dialogue: 0,0:18:41.67,0:18:41.95,ED-E,,0,0,0,fx,{\clip(320,0,640,480)\t(0,280,\clip(0,0,640,480))\t(-280,280,\clip(0,0,0,480))}
