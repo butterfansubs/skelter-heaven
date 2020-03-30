@@ -15,9 +15,9 @@ Video File: ../../../../Desktop/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 133
-Active Line: 135
-Video Position: 20120
+Scroll Position: 168
+Active Line: 178
+Video Position: 25653
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,14 +28,14 @@ Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
-Dialogue: 0,0:01:09.68,0:01:13.25,Default,edit,0,0,0,,The unknown entity which appeared without warning in Tokyo airspace—{edit: make these two lines complete sentences? cps is tricky}{Na: I don't see a real reason to change these lines.}
-Dialogue: 0,0:01:13.25,0:01:15.41,Default,edit,0,0,0,,has yet to show signs of activity.{edit: make these two lines complete sentences? cps is tricky}
+Dialogue: 0,0:01:09.68,0:01:13.25,Default,,0,0,0,,The unknown entity which appeared without warning in Tokyo airspace—
+Dialogue: 0,0:01:13.25,0:01:15.41,Default,,0,0,0,,has yet to show signs of activity.
 Dialogue: 0,0:01:15.41,0:01:17.70,Default,,0,0,0,,Discontent towards the government is building among the citizens,
 Dialogue: 0,0:01:17.70,0:01:20.46,Default,,0,0,0,,who are confined to evacuation shelters.
 Dialogue: 0,0:01:21.19,0:01:22.66,Default,,0,0,0,,The JSDF—{For the—}
 Dialogue: 0,0:01:23.00,0:01:25.84,Default,,0,0,0,,The JSDF has been mobilized \Nfor the first time since the war.{For the first time since the war, the JSDF has been mobilized as part of a public security operation.}{Na: CPS here is way too wild, so we kinda have to make a judgment call on what info is necessary.}
 Dialogue: 0,0:01:25.84,0:01:27.65,Default,,0,0,0,,How this will affect—
-Dialogue: 0,0:01:27.65,0:01:30.34,Default,,0,0,0,,...will affect international relations is uncertain.{it is believed that this will affect relations with neighbouring countries}
+Dialogue: 0,0:01:27.65,0:01:30.34,Default,,0,0,0,,...will affect international relations is uncertain.
 Comment: 0,0:01:31.00,0:01:31.00,Default,chptr,0,0,0,,{OP}OP
 Comment: 0,0:03:19.21,0:03:19.21,Default,chptr,0,0,0,,{Part A}Part A
 Dialogue: 0,0:03:20.24,0:03:23.64,Default,,0,0,0,,This just in: We've received an update.
@@ -47,7 +47,7 @@ Dialogue: 0,0:03:35.78,0:03:39.25,Default,,0,0,0,,{\i1\an8}It appears the object
 Dialogue: 0,0:03:39.25,0:03:41.40,Default,,0,0,0,,{\i1\an8}Once more:
 Dialogue: 0,0:03:41.40,0:03:44.60,Default,,0,0,0,,{\i1\an8}It appears the object has begun to move.
 Dialogue: 0,0:03:44.60,0:03:47.04,Default,,0,0,0,,The target is maintaining its speed and trajectory.
-Dialogue: 0,0:03:47.04,0:03:49.00,Default,,0,0,0,,0520 intercepting.{接触？？0520（まる・ご・ふた・まる）です (can't figure out if that's supposed to be an extra word in there or just a に or something)}
+Dialogue: 0,0:03:47.04,0:03:49.00,Default,,0,0,0,,0520 intercepting.
 Dialogue: 0,0:04:04.80,0:04:06.31,Default,,0,0,0,,We've sounded red alert.
 Dialogue: 0,0:04:06.31,0:04:07.56,Default,,0,0,0,,Have you gone deaf?
 Dialogue: 0,0:04:08.16,0:04:10.06,Default,,0,0,0,,No, I haven't.
@@ -57,7 +57,7 @@ Comment: 0,0:04:17.07,0:04:19.54,Default,,0,0,0,,???
 Dialogue: 0,0:04:21.57,0:04:23.07,Default,,0,0,0,,That's one huge sucker.
 Dialogue: 0,0:04:23.07,0:04:24.78,Default,,0,0,0,,'Round three hundred meters, I'd wager.
 Dialogue: 0,0:04:25.25,0:04:28.05,Default,,0,0,0,,The target's energy readings are rising.
-Dialogue: 0,0:04:29.28,0:04:30.83,Default,,0,0,0,,Funagai, reporting for duty.{lit. arrived}
+Dialogue: 0,0:04:29.28,0:04:30.83,Default,,0,0,0,,Funagai, reporting for duty.
 Dialogue: 0,0:04:31.69,0:04:32.62,Default,,0,0,0,,What took you?
 Dialogue: 0,0:04:33.28,0:04:35.12,Default,,0,0,0,,Looks like it's tired of waiting.
 Dialogue: 0,0:04:35.74,0:04:37.80,Default,,0,0,0,,Are we ready for contact?
@@ -67,7 +67,7 @@ Comment: 0,0:04:44.00,0:04:50.04,Default,,0,0,0,,... phase three... require... s
 Dialogue: 0,0:05:06.40,0:05:09.15,Default,,0,0,0,,We've received an emergency summons, Midori.
 Dialogue: 0,0:05:10.70,0:05:11.96,Default,,0,0,0,,Almost thought they'd never call.
 Dialogue: 0,0:05:24.74,0:05:25.99,Default,,0,0,0,,Here I come!
-Dialogue: 0,0:05:27.11,0:05:29.27,Default,,0,0,0,,You're so aggressive, Misaki.{I thought I was imagining it at first but she really uses "nari" as her gobi... jesus christ}
+Dialogue: 0,0:05:27.11,0:05:29.27,Default,,0,0,0,,You're so aggressive, Misaki.
 Dialogue: 0,0:05:29.27,0:05:30.31,Default,,0,0,0,,You're one to talk!
 Dialogue: 0,0:05:31.08,0:05:32.71,Default,,0,0,0,,Try this on for size!
 Dialogue: 0,0:05:37.69,0:05:41.29,Default,,0,0,0,,Look at what you've done—\NI'm all muddy now!
@@ -89,7 +89,7 @@ Dialogue: 0,0:06:34.40,0:06:36.45,Default,,0,0,0,,Just look at the size of that 
 Dialogue: 0,0:06:36.45,0:06:40.85,Default,,0,0,0,,I doubt it can fire in rapid succession \Nonce it blows its energy.
 Dialogue: 0,0:06:40.85,0:06:43.35,Default,,0,0,0,,It must need time to recharge.
 Dialogue: 0,0:06:44.52,0:06:46.89,Default,,0,0,0,,{\i1}That's what we're up against?
-Dialogue: 0,0:06:46.89,0:06:48.89,Default,joined,0,0,0,,Make no mistake. \NFailure is not an option.
+Dialogue: 0,0:06:46.89,0:06:48.89,Default,,0,0,0,,Make no mistake. \NFailure is not an option.
 Dialogue: 0,0:06:48.89,0:06:51.42,Default,,0,0,0,,Take it from here, Funagai.
 Dialogue: 0,0:06:52.63,0:06:56.80,Default,,0,0,0,,There are two steps required \Nto neutralize our opponent.
 Dialogue: 0,0:06:56.80,0:06:59.91,Default,,0,0,0,,We must locate its weak spot{discover its weakness} \Nand then destroy the target.
@@ -164,7 +164,7 @@ Dialogue: 0,0:11:08.78,0:11:09.73,Default,,0,0,0,,Do you hear me, Rin?
 Dialogue: 0,0:11:09.73,0:11:11.35,Default,,0,0,0,,There's no time to get all emotional.
 Dialogue: 0,0:11:19.72,0:11:21.63,Default,,0,0,0,,All units will provide cover while 02 attacks.
 Dialogue: 0,0:11:32.17,0:11:33.37,Default,,0,0,0,,Rin!
-Dialogue: 0,0:11:38.38,0:11:40.69,Default,,0,0,0,,This is a homunculus.
+Dialogue: 0,0:11:38.38,0:11:40.69,Default,,0,0,0,,This is an artificial humanoid.
 Dialogue: 0,0:11:40.95,0:11:46.48,Default,,0,0,0,,As it develops, its intelligence \Nwill surpass that of a human.
 Dialogue: 0,0:11:46.48,0:11:48.38,Default,,0,0,0,,Its physical prowess will follow suit.
 Dialogue: 0,0:11:50.49,0:11:54.62,Default,,0,0,0,,However, its true latent capabilities are unknown.
@@ -174,14 +174,14 @@ Dialogue: 0,0:12:00.44,0:12:06.04,Default,,0,0,0,,But if one day it were to turn
 Dialogue: 0,0:12:12.83,0:12:17.05,Default,,0,0,0,,Captain, how long do I have to live?
 Dialogue: 0,0:12:17.56,0:12:19.88,Default,,0,0,0,,Are you afraid of dying?
 Dialogue: 0,0:12:22.17,0:12:23.38,Default,,0,0,0,,Not at all.
-Dialogue: 0,0:12:23.38,0:12:27.00,Default,,0,0,0,,It's just... I'm a homunculus.
+Dialogue: 0,0:12:23.38,0:12:27.00,Default,,0,0,0,,It's just... I'm not a real human.
 Dialogue: 0,0:12:27.00,0:12:29.23,Default,,0,0,0,,My lifespan is different than yours.
 Dialogue: 0,0:12:29.23,0:12:30.36,Default,,0,0,0,,So I...
 Dialogue: 0,0:12:31.00,0:12:34.26,Default,,0,0,0,,I want to understand my own life.
-Dialogue: 0,0:12:35.24,0:12:39.01,Default,,0,0,0,,The organization is responsible \Nfor all of your well-beings.
+Dialogue: 0,0:12:35.24,0:12:39.01,Default,,0,0,0,,The organization is responsible \Nfor all of your well-being.
 Dialogue: 0,0:12:39.01,0:12:40.49,Default,,0,0,0,,Don't stress about it.
 Dialogue: 0,0:12:41.77,0:12:45.46,Default,,0,0,0,,However, we won't know your lifespans \Nwithout more research.
-Dialogue: 0,0:12:46.75,0:12:50.50,Default,,0,0,0,,As first-generation homunculi, \Nyou girls are the prototypes.
+Dialogue: 0,0:12:46.75,0:12:50.50,Default,,0,0,0,,As first-generation artificial humanoids, \Nyou girls are the prototypes.
 Dialogue: 0,0:12:51.52,0:12:53.13,Default,,0,0,0,,That's enough pointless chitchat.
 Dialogue: 0,0:12:53.13,0:12:55.49,Default,,0,0,0,,You just need to follow orders.
 Dialogue: 0,0:12:55.49,0:12:56.79,Default,,0,0,0,,All right?
@@ -199,12 +199,12 @@ Dialogue: 0,0:13:33.16,0:13:35.17,Default,,0,0,0,,I'll finish it off.
 Dialogue: 0,0:13:35.17,0:13:38.77,Default,,0,0,0,,We know its weak spot now, \Nso all I've gotta do is ram into it with my unit!
 Dialogue: 0,0:13:38.77,0:13:40.73,Default,,0,0,0,,Funagai! Have you lost your mind?
 Dialogue: 0,0:13:42.17,0:13:43.90,Default,,0,0,0,,I told myself I was just doing my job.
-Dialogue: 0,0:13:45.61,0:13:48.71,Default,,0,0,0,,I coped with everything by convincing \Nmyself that was true.
+Dialogue: 0,0:13:45.61,0:13:48.71,Default,,0,0,0,,I coped with it all by convincing myself of that.
 Dialogue: 0,0:13:49.37,0:13:52.71,Default,,0,0,0,,But thinking back on it...
-Dialogue: 0,0:13:53.21,0:13:54.40,Default,,0,0,0,,all I can see is their smiles.
-Dialogue: 0,0:13:56.11,0:13:58.30,Default,,0,0,0,,So, I... I—{Na: For some reason I get the feeling he's trying to say that he loves these robochicks, so making this a little more vague.}
+Dialogue: 0,0:13:53.21,0:13:54.40,Default,TM,0,0,0,,all I can see is their smiles.
+Dialogue: 0,0:13:56.11,0:13:58.30,Default,,0,0,0,,That's why... Why I...
 Dialogue: 0,0:14:13.50,0:14:15.93,Default,,0,0,0,,Rin! What are you doing?
-Dialogue: 0,0:14:15.93,0:14:20.34,Default,,0,0,0,,I haven't followed your orders just \Nbecause I was created to do so!
+Dialogue: 0,0:14:15.93,0:14:20.34,Default,,0,0,0,,I haven't been following your orders \Njust because I was created to do so!
 Dialogue: 0,0:14:20.72,0:14:23.94,Default,,0,0,0,,I've done it because I love you!
 Dialogue: 0,0:14:26.71,0:14:27.95,Default,,0,0,0,,That's right.
 Dialogue: 0,0:14:28.91,0:14:30.92,Default,,0,0,0,,I'm going in first!
@@ -213,14 +213,14 @@ Dialogue: 0,0:14:37.86,0:14:39.65,Default,,0,0,0,,Stop it!
 Dialogue: 0,0:14:58.01,0:14:59.23,Default,,0,0,0,,I got through!
 Dialogue: 0,0:15:01.13,0:15:03.18,Default,,0,0,0,,Here we go, Rin!
 Dialogue: 0,0:15:06.22,0:15:09.96,Default,,0,0,0,,Skelter Titan and Skelter Heaven \Nhave penetrated the target.
-Dialogue: 0,0:15:11.72,0:15:14.34,Default,joined,0,0,0,,{\i1}What on earth... {Line 2: What is this?}
+Dialogue: 0,0:15:11.72,0:15:14.34,Default,,0,0,0,,{\i1}What on earth...
 Dialogue: 0,0:15:21.98,0:15:24.14,Default,,0,0,0,,This is its logic{master} core.
 Dialogue: 0,0:15:24.95,0:15:28.03,Default,,0,0,0,,It's speaking directly into my mind.
 Dialogue: 0,0:15:31.44,0:15:35.38,Default,,0,0,0,,It's true some humans are slaves \Nto their emotions.
 Dialogue: 0,0:15:35.38,0:15:39.04,Default,,0,0,0,,Yes, their history is an endless chain of destruction.
 Dialogue: 0,0:15:40.22,0:15:44.46,Default,,0,0,0,,But that's only one side of humanity.
 Dialogue: 0,0:15:45.55,0:15:47.51,Default,,0,0,0,,We have to defeat you.
-Dialogue: 0,0:15:50.78,0:15:52.96,Default,,0,0,0,,Not for the sake of mankind as a whole,
+Dialogue: 0,0:15:49.30,0:15:52.96,Default,,0,0,0,,No, not for the sake of mankind as a whole,
 Dialogue: 0,0:15:52.96,0:15:55.62,Default,,0,0,0,,but for the one person I care about most!
 Dialogue: 0,0:15:55.62,0:15:57.44,Default,,0,0,0,,I fight for that one man!
 Dialogue: 0,0:16:31.44,0:16:33.53,Default,,0,0,0,,Yes, that's exactly right.
