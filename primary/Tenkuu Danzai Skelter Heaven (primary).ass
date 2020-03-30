@@ -619,9 +619,73 @@ Comment: 0,0:03:23.72,0:03:33.19,Signs,,0,0,0,,## Text
 Dialogue: 2,0:03:23.72,0:03:33.19,Signs,,0,0,0,,{\fnGentium Basic\fs20\bord1.5\blur0.8\3c&H080200&\1c&H080200&\b1\pos(320,357.047)}Mysterious airborne entity begins moving over Tokyo airspace
 Dialogue: 3,0:03:23.72,0:03:33.19,Signs,,0,0,0,,{\fnGentium Basic\fs20\b1\blur0.5\c&HFFFFFF&\pos(320,357.047)}Mysterious airborne entity begins moving over Tokyo airspace
 Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,# News headline top left
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\pos(64,178.286)}Mysterious airborne entity begins moving over Tokyo airspace
+Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Background
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H86&\pos(204,134.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H79&\pos(204,135.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H6C&\pos(204,136.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H5F&\pos(204,137.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H52&\pos(204,138.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H44&\pos(204,139.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H37&\pos(204,140.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H2A&\pos(204,141.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H1D&\pos(204,142.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,143.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,144.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,145.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,146.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H22&\pos(204,147.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H35&\pos(204,148.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H47&\pos(204,149.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H5A&\pos(204,150.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H6C&\pos(204,151.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H7E&\pos(204,152.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H91&\pos(204,153.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HA3&\pos(204,154.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HB5&\pos(204,155.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HC8&\pos(204,156.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HDA&\pos(204,157.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HED&\pos(204,158.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HFF&\pos(204,159.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
+Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Text
+Dialogue: 2,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord1.24\blur0.9\xshad0.01\4c&H4B564E&\c&HF5FCF8&\1a&HFE&\3a&HFE&\4a&H29&\frz0.32\fscx103\iclip(201,111.2,253.6,170.4)\pos(5.809,145.729)\t(1291,4995,\4c&H0D1413&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
+Dialogue: 3,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur1\c&HF5FCF8&\frz0.32\fscx103\iclip(201,111.2,253.6,170.4)\pos(5.809,145.729)\t(1291,4995,\1c&H585C5E&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
+Dialogue: 4,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur0.8\c&HF5FCF8&\1a&H80&\frz0.32\fscx103\iclip(201,111.2,253.6,170.4)\pos(5.809,145.729)\t(1291,4995,\1c&H585C5E&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
 Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,# News headline top right
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\pos(449.143,183.429)}Mysterious airborne entity begins moving over Tokyo airspace
+Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Background
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H86&\pos(257.5,134.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H79&\pos(257.5,135.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H6C&\pos(257.5,136.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H5F&\pos(257.5,137.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H52&\pos(257.5,138.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H44&\pos(257.5,139.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H37&\pos(257.5,140.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H2A&\pos(257.5,141.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H1D&\pos(257.5,142.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,143.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,144.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,145.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,146.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H22&\pos(257.5,147.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H35&\pos(257.5,148.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H47&\pos(257.5,149.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H5A&\pos(257.5,150.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H6C&\pos(257.5,151.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H7E&\pos(257.5,152.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H91&\pos(257.5,153.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HA3&\pos(257.5,154.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HB5&\pos(257.5,155.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HC8&\pos(257.5,156.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HDA&\pos(257.5,157.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HED&\pos(257.5,158.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HFF&\pos(257.5,159.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
+Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Text
+Dialogue: 2,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord1.24\blur1\xshad0.01\4c&H1F2725&\c&HEFF5F3&\1a&HFE&\3a&HFE&\4a&H60&\frz0.32\fscx103\pos(445.809,146.229)\iclip(201.5,111.2,253,170.4)\t(1858,5010,\4c&H090A0A&\blur0.5)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
+Dialogue: 3,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur0.9\c&HEFF5F3&\frz0.32\fscx103\pos(445.809,146.229)\iclip(201.5,111.2,253,170.4)\t(1858,5010,\1c&H5B5759&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
+Dialogue: 4,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur0.9\c&HD6F5EB&\1a&H80&\frz0.32\fscx103\pos(445.809,146.229)\iclip(201.5,111.2,253,170.4)\t(1858,5010,\1c&H5B5759&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
+Comment: 1,0:03:33.19,0:03:38.20,Signs,,0,0,0,,# Shadow
+Dialogue: 1,0:03:34.33,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
+Dialogue: 1,0:03:34.69,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
+Dialogue: 1,0:03:35.05,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
 Comment: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,# One year later
 Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One year later...
 Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,# News headline reprise
