@@ -35,12 +35,13 @@ Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function foo(text, tag
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,prev_line, next_line = subs[line.i-1], subs[line.i+1]
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,fxgroup.leadout = (next_line.start_time ~= line.end_time); fxgroup.noleadout = (not fxgroup.leadout)
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,fxgroup.leadin = (prev_line.end_time ~= line.start_time); fxgroup.noleadin = (not fxgroup.leadin);
-Comment: 10,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,!set('w', $width+16)!!set('h', $height+8)!{\bord2.5\p1\1c&HFFFFFF&\3c&HFFFFFF&\1a&HFE&\3a&HFE&\shad0.01\4c&H007FFF&\4a&H5F&\blur3!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
+Comment: 9,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,!set('w', $width+16)!!set('h', $height+8)!{\bord0\p1\1c&HFFFFFF&\3c&HFFFFFF&\1a&HFE&\3a&HFE&\shad0.01\4c&H00004F&\4a&H9F&\blur3!ln.tag.pos(5,5)!}m 0 0 l !w! 0 !w! !h! 0 !h!
+Comment: 10,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,!set('w', $width+16)!!set('h', $height+8)!{\bord2.5\p1\1c&HFFFFFF&\3c&HFFFFFF&\1a&HFE&\3a&HFE&\shad0.01\4c&H007FFF&\4a&H5F&\blur2!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
 Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{\bord1.125\p1\1c&HFFFFFF&\3c&HFFFFFF&\1a&HFE&\3a&HFE&\shad0.01\4c&HEEFFFF&\4a&H00&!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
 Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line glow,{\q2\1c&HFFFFFF&\3c&HFFFFFF&\1a&HFE&\3a&HFE&\bord2\shad0.01\4c&H007FFF&\4a&H5F&\be8}
 Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar glow,!foo(line.text, '\\bord1.5', '\\bord3', '\\bord2')!
 Comment: 13,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line fill,{\q2\c&HEEFFFF&!ln.tag.pos()!}
-Comment: 13,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar fill,!foo(line.text, '\\1a&H6F&', '\\1a&H00&', '\\1a&H07&')!
+Comment: 13,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar fill,!foo(line.text, '\\1a&H4F&', '\\1a&H00&', '\\1a&H07&')!
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -227 * (1-J(j, maxj))) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,430)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 227)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,430,!meta.res_x * (1-J(j, maxj))!,530)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -227 * J(j, maxj) ) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,465)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 4 0 4
