@@ -10,14 +10,14 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: skelter-heaven-pri-tlc-fixes/skelterheaven.mkv
-Video File: skelter-heaven-pri-tlc-fixes/skelterheaven.mkv
+Audio File: ../../../../Desktop/skelterheaven.mkv
+Video File: ../../../../Desktop/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 122
-Active Line: 165
-Video Position: 31349
+Scroll Position: 198
+Active Line: 176
+Video Position: 25059
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,15 +38,15 @@ Dialogue: 0,0:01:25.84,0:01:27.65,Default,,0,0,0,,How this will affect—
 Dialogue: 0,0:01:27.65,0:01:30.34,Default,,0,0,0,,...will affect international relations is uncertain.{it is believed that this will affect relations with neighbouring countries}
 Comment: 0,0:01:31.00,0:01:31.00,Default,chptr,0,0,0,,{OP}OP
 Comment: 0,0:03:19.21,0:03:19.21,Default,chptr,0,0,0,,{Part A}Part A
-Dialogue: 0,0:03:20.24,0:03:23.64,Default,,0,0,0,,This just in: We've received an update.{this is repeated later without たった今 at the start and it's still a complete sentence, hence why "Just now," is at the start}
+Dialogue: 0,0:03:20.24,0:03:23.64,Default,,0,0,0,,This just in: We've received an update.
 Dialogue: 0,0:03:23.64,0:03:27.08,Default,,0,0,0,,It appears the object has begun to move.
-Dialogue: 0,0:03:27.08,0:03:29.24,Default,,0,0,0,,Allow me to repeat:
+Dialogue: 0,0:03:27.08,0:03:29.24,Default,,0,0,0,,Once more:
 Dialogue: 0,0:03:29.24,0:03:32.16,Default,,0,0,0,,It appears the object has begun to move.
 Dialogue: 0,0:03:33.19,0:03:35.78,Default,,0,0,0,,{\i1\an8}We've received an update.
 Dialogue: 0,0:03:35.78,0:03:39.25,Default,,0,0,0,,{\i1\an8}It appears the object has begun to move.
-Dialogue: 0,0:03:39.25,0:03:41.40,Default,,0,0,0,,{\i1\an8}Allow me to repeat:
+Dialogue: 0,0:03:39.25,0:03:41.40,Default,,0,0,0,,{\i1\an8}Once more:
 Dialogue: 0,0:03:41.40,0:03:44.60,Default,,0,0,0,,{\i1\an8}It appears the object has begun to move.
-Dialogue: 0,0:03:44.60,0:03:47.04,Default,,0,0,0,,The target is maintaining its speed and trajectory.{目標、速度及び進路変わらず}
+Dialogue: 0,0:03:44.60,0:03:47.04,Default,,0,0,0,,The target is maintaining its speed and trajectory.
 Dialogue: 0,0:03:47.04,0:03:49.00,Default,,0,0,0,,0520 intercepting.{接触？？0520（まる・ご・ふた・まる）です (can't figure out if that's supposed to be an extra word in there or just a に or something)}
 Dialogue: 0,0:04:04.80,0:04:06.31,Default,,0,0,0,,We've sounded red alert.
 Dialogue: 0,0:04:06.31,0:04:07.56,Default,,0,0,0,,Have you gone deaf?
@@ -70,7 +70,7 @@ Dialogue: 0,0:05:24.74,0:05:25.99,Default,,0,0,0,,Here I come!
 Dialogue: 0,0:05:27.11,0:05:29.27,Default,,0,0,0,,You're so aggressive, Misaki.{I thought I was imagining it at first but she really uses "nari" as her gobi... jesus christ}
 Dialogue: 0,0:05:29.27,0:05:30.31,Default,,0,0,0,,You're one to talk!
 Dialogue: 0,0:05:31.08,0:05:32.71,Default,,0,0,0,,Try this on for size!
-Dialogue: 0,0:05:37.69,0:05:41.29,Default,,0,0,0,,Look at what you've done—\NI'm all muddy now!{Now look what you've done— it's <\i1>covered<\i0> in mud!}{m - not subbing the "mou" before?}{j missed it it timing, but I don't think the line works without a "jeez" or whatever to represent it}{Na: I think this is Rin talking saying that she's covered in mud.}
+Dialogue: 0,0:05:37.69,0:05:41.29,Default,,0,0,0,,Look at what you've done—\NI'm all muddy now!
 Dialogue: 0,0:05:41.29,0:05:42.56,Default,,0,0,0,,What's up, Rin?
 Dialogue: 0,0:05:43.52,0:05:44.93,Default,,0,0,0,,Oh, right. We're being called-up.
 Dialogue: 0,0:05:44.93,0:05:47.13,Default,,0,0,0,,Finally time for action, is it?
@@ -86,20 +86,20 @@ Dialogue: 0,0:06:24.83,0:06:27.57,Default,,0,0,0,,Take it out whatever the cost.
 Dialogue: 0,0:06:28.23,0:06:29.81,Default,,0,0,0,,What you see is our enemy.
 Dialogue: 0,0:06:30.54,0:06:33.32,Default,,0,0,0,,The JSDF will go in before you and act as bait.
 Dialogue: 0,0:06:34.40,0:06:36.45,Default,,0,0,0,,Just look at the size of that behemoth.
-Dialogue: 0,0:06:36.45,0:06:40.85,Default,,0,0,0,,I doubt it can fire in rapid succession \Nonce it blows its energy.{m - just trying to better incorporate the 〜はずだ}
+Dialogue: 0,0:06:36.45,0:06:40.85,Default,,0,0,0,,I doubt it can fire in rapid succession \Nonce it blows its energy.
 Dialogue: 0,0:06:40.85,0:06:43.35,Default,,0,0,0,,It must need time to recharge.
 Dialogue: 0,0:06:44.52,0:06:46.89,Default,,0,0,0,,{\i1}That's what we're up against?
 Dialogue: 0,0:06:46.89,0:06:48.89,Default,joined,0,0,0,,Make no mistake. \NFailure is not an option.
 Dialogue: 0,0:06:48.89,0:06:51.42,Default,,0,0,0,,Take it from here, Funagai.
 Dialogue: 0,0:06:52.63,0:06:56.80,Default,,0,0,0,,There are two steps required \Nto neutralize our opponent.
 Dialogue: 0,0:06:56.80,0:06:59.91,Default,,0,0,0,,We must locate its weak spot{discover its weakness} \Nand then destroy the target.
-Dialogue: 0,0:07:00.93,0:07:05.12,Default,,0,0,0,,We'll get into close range \Nand fire a probe into it with a bazooka,{バズーカで探査弾を至近距離から目標の体内に打ち込み}
+Dialogue: 0,0:07:00.93,0:07:05.12,Default,,0,0,0,,We'll get into close range \Nand fire a probe into it with a bazooka,
 Dialogue: 0,0:07:05.12,0:07:06.80,Default,edit,0,0,0,,verify the location of its logic{master} core,{j - edit: better-sounding term for controling core?}{制御コアを確定}{m - I'm not super sure on how to interpret 確定 here (but I'm sure it *is* 確定, that's what it is in the vn), but I guess it's probably something like finding/determining where the core is (using the probe)?}
-Dialogue: 0,0:07:06.80,0:07:10.28,Default,,0,0,0,,and focus our fire to destroy it.{一点集中... what?}{m - something something 叩く... this is probably good enough as a guesslation}
+Dialogue: 0,0:07:06.80,0:07:10.28,Default,,0,0,0,,and focus our fire to destroy it.
 Dialogue: 0,0:07:10.28,0:07:12.35,Default,,0,0,0,,W-With a bazooka?
 Dialogue: 0,0:07:14.81,0:07:18.75,Default,,0,0,0,,Once its energy readings drop, \Nyou will move out and engage the target.
 Dialogue: 0,0:07:18.75,0:07:20.32,Default,,0,0,0,,It is critical we act with haste.
-Dialogue: 0,0:07:20.32,0:07:23.89,Default,,0,0,0,,Consider this the only chance we've got.{think that if this does not succeed, there will be no next time}
+Dialogue: 0,0:07:20.32,0:07:23.89,Default,,0,0,0,,Consider this the only chance we've got.
 Dialogue: 0,0:07:24.20,0:07:24.72,Default,,0,0,0,,Rin Ichikawa.
 Dialogue: 0,0:07:24.72,0:07:25.72,Default,,0,0,0,,Y-Yes, sir!
 Dialogue: 0,0:07:25.72,0:07:26.84,Default,,0,0,0,,You'll take point.
@@ -126,7 +126,7 @@ Dialogue: 0,0:08:38.86,0:08:41.77,Default,,0,0,0,,That's why I'm inferior to Rin
 Dialogue: 0,0:08:42.57,0:08:43.57,Default,,0,0,0,,Misaki...
 Dialogue: 0,0:08:44.77,0:08:46.24,Default,,0,0,0,,{\i1}I'll show him.
 Dialogue: 0,0:08:47.07,0:08:49.22,Default,,0,0,0,,{\i1}I'll {\i0}prove{\i1} I'm superior to Rin.
-Dialogue: 0,0:08:53.61,0:08:58.34,Default,,0,0,0,,You're on point. Ensure you penetrate the target directly with the probe.{？？に装填された探査弾を？？確実に打ち込んで下さい - you can see the scene from the vn here: https://youtu.be/dkFsJWiJVQ8?t=1429  but the audio is almost as inaudible there as here}{j - I can definitely hear ファースト after a relisten}
+Dialogue: 0,0:08:53.61,0:08:58.34,Default,,0,0,0,,You're on point. Ensure you penetrate the target directly with the probe.
 Dialogue: 0,0:08:58.34,0:09:00.72,Default,,0,0,0,,With this improvised weapon?
 Dialogue: 0,0:09:00.72,0:09:02.99,Default,,0,0,0,,01 Skelter Wave, copy that.
 Dialogue: 0,0:09:21.37,0:09:23.85,Default,,0,0,0,,Skelter Wave, preparing for launch.
@@ -159,7 +159,7 @@ Dialogue: 0,0:10:53.97,0:10:54.83,Default,,0,0,0,,And Midori!
 Dialogue: 0,0:10:54.83,0:10:56.40,Default,,0,0,0,,Follow your orders!
 Dialogue: 0,0:10:57.60,0:10:59.84,Default,,0,0,0,,Analyzing.
 Dialogue: 0,0:10:59.84,0:11:01.57,Default,,0,0,0,,Core detected in center of object.
-Dialogue: 0,0:11:01.57,0:11:05.12,Default,,0,0,0,,The entity's carapace is heavily armored,\Nso enter from underneath.{上部の表皮は硬いので、脚部まわりから侵入してください}{m - lit. "the outer skin layer/epidermis is hard up top, so enter from the leg area"}
+Dialogue: 0,0:11:01.57,0:11:05.12,Default,,0,0,0,,The entity's carapace is heavily armored,\Nso enter from underneath.
 Dialogue: 0,0:11:08.78,0:11:09.73,Default,,0,0,0,,Are you listening, Rin?
 Dialogue: 0,0:11:09.73,0:11:11.35,Default,,0,0,0,,Don't let your emotions get the best of you.
 Dialogue: 0,0:11:19.72,0:11:21.63,Default,,0,0,0,,All units will provide cover while 02 attacks.
@@ -170,7 +170,7 @@ Dialogue: 0,0:11:46.48,0:11:48.38,Default,,0,0,0,,Its physical prowess will foll
 Dialogue: 0,0:11:50.49,0:11:54.62,Default,,0,0,0,,However, its true latent capabilities are unknown.
 Dialogue: 0,0:11:54.62,0:11:57.50,Default,,0,0,0,,Strict supervision will be required.
 Dialogue: 0,0:11:58.50,0:12:00.44,Default,,0,0,0,,It is currently docile.
-Dialogue: 0,0:12:00.44,0:12:06.04,Default,,0,0,0,,But if one day it were to turn against us...{lit bare fangs, which is of course an idiom in English, but I dunno if it sounds right for this character}
+Dialogue: 0,0:12:00.44,0:12:06.04,Default,,0,0,0,,But if one day it were to turn against us...
 Dialogue: 0,0:12:12.83,0:12:17.05,Default,,0,0,0,,Captain, how long do I have to live?
 Dialogue: 0,0:12:17.56,0:12:19.88,Default,,0,0,0,,Are you afraid of dying?
 Dialogue: 0,0:12:22.17,0:12:23.38,Default,,0,0,0,,Not at all.
@@ -181,14 +181,14 @@ Dialogue: 0,0:12:31.00,0:12:34.26,Default,,0,0,0,,I want to understand my own li
 Dialogue: 0,0:12:35.24,0:12:39.01,Default,,0,0,0,,The organization is responsible \Nfor all of your well-beings.
 Dialogue: 0,0:12:39.01,0:12:40.49,Default,,0,0,0,,Don't stress about it.
 Dialogue: 0,0:12:41.77,0:12:45.46,Default,,0,0,0,,However, we won't know your lifespans \Nwithout more research.
-Dialogue: 0,0:12:46.75,0:12:50.50,Default,,0,0,0,,As the first generation of homunculi, \Nyou girls are the prototypes.
+Dialogue: 0,0:12:46.75,0:12:50.50,Default,,0,0,0,,As first-generation homunculi, \Nyou girls are the prototypes.
 Dialogue: 0,0:12:51.52,0:12:53.13,Default,,0,0,0,,That's enough pointless chitchat.
 Dialogue: 0,0:12:53.13,0:12:55.49,Default,,0,0,0,,You just need to follow orders.
 Dialogue: 0,0:12:55.49,0:12:56.79,Default,,0,0,0,,All right?
 Dialogue: 0,0:12:56.79,0:12:57.98,Default,,0,0,0,,Understood.
 Dialogue: 0,0:12:59.78,0:13:00.99,Default,,0,0,0,,That's good.
 Dialogue: 0,0:13:00.99,0:13:03.35,Default,,0,0,0,,Your orders are absolute.
-Dialogue: 0,0:13:03.35,0:13:06.46,Default,edit,0,0,0,,You don't have an insubordinate \Nbone in your body, do you?{You're as dutiful as they come, aren't you?}{like the impulse to question his orders would never enter her mind}
+Dialogue: 0,0:13:03.35,0:13:06.46,Default,,0,0,0,,You don't have an insubordinate \Nbone in your body, do you?
 Dialogue: 0,0:13:07.01,0:13:07.89,Default,,0,0,0,,What's that?
 Dialogue: 0,0:13:19.44,0:13:21.78,Default,,0,0,0,,Rin, focus!
 Dialogue: 0,0:13:25.38,0:13:27.04,Default,,0,0,0,,I'm good! I'm good.
@@ -196,7 +196,7 @@ Dialogue: 0,0:13:27.04,0:13:28.15,Default,,0,0,0,,I can still fight!
 Dialogue: 0,0:13:28.15,0:13:30.40,Default,,0,0,0,,Rin—No.
 Dialogue: 0,0:13:30.40,0:13:31.68,Default,,0,0,0,,All units, retreat.
 Dialogue: 0,0:13:33.16,0:13:35.17,Default,,0,0,0,,I'll finish it off.
-Dialogue: 0,0:13:35.17,0:13:38.77,Default,,0,0,0,,We know its weak spot now, \Nso all I've gotta do is ram into it with my unit!{弱点さえ分かれば、こいつで突っ込むのもわけないさ}{pretty sure he means as a suicide attack, with the alternative in his mind being one of the girls doing the same thing}
+Dialogue: 0,0:13:35.17,0:13:38.77,Default,,0,0,0,,We know its weak spot now, \Nso all I've gotta do is ram into it with my unit!
 Dialogue: 0,0:13:38.77,0:13:40.73,Default,,0,0,0,,Funagai! Have you lost your mind?
 Dialogue: 0,0:13:42.17,0:13:43.90,Default,,0,0,0,,I told myself I was just doing my job.
 Dialogue: 0,0:13:45.61,0:13:48.71,Default,,0,0,0,,I coped with everything by convincing \Nmyself that was true.
