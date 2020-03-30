@@ -15,9 +15,9 @@ Video File: ../../../../Desktop/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 168
-Active Line: 178
-Video Position: 25653
+Scroll Position: 100
+Active Line: 101
+Video Position: 16135
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -127,7 +127,7 @@ Dialogue: 0,0:08:42.57,0:08:43.57,Default,,0,0,0,,Misaki...
 Dialogue: 0,0:08:44.77,0:08:46.24,Default,,0,0,0,,{\i1}I'll show him.
 Dialogue: 0,0:08:47.07,0:08:49.22,Default,,0,0,0,,{\i1}I'll {\i0}prove{\i1} I'm superior to Rin.
 Dialogue: 0,0:08:53.61,0:08:58.34,Default,,0,0,0,,You're on point. Ensure you penetrate the target directly with the probe.
-Dialogue: 0,0:08:58.34,0:09:00.72,Default,,0,0,0,,With this improvised weapon?
+Dialogue: 0,0:08:58.34,0:09:00.72,Default,,0,0,0,,With this makeshift weapon?
 Dialogue: 0,0:09:00.72,0:09:02.99,Default,,0,0,0,,01 Skelter Wave, copy that.
 Dialogue: 0,0:09:21.37,0:09:23.85,Default,,0,0,0,,Skelter Wave, preparing for launch.
 Dialogue: 0,0:09:23.85,0:09:24.78,Default,,0,0,0,,Roger!
