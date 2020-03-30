@@ -229,7 +229,7 @@ Dialogue: 0,0:16:37.87,0:16:40.32,Default,,0,0,0,,They weren't defective in and 
 Dialogue: 0,0:16:40.94,0:16:43.60,Default,,0,0,0,,The problem lies in how we humans used them.
 Dialogue: 0,0:16:44.39,0:16:47.02,Default,,0,0,0,,It always does.
 Dialogue: 0,0:17:00.80,0:17:02.17,Default,,0,0,0,,Breaking news.
-Dialogue: 0,0:17:02.17,0:17:06.55,Default,,0,0,0,,Multiple mysterious entities have appeared in Tokyo's airspace.
+Dialogue: 0,0:17:02.17,0:17:06.55,Default,,0,0,0,,Multiple mysterious entities \Nhave appeared in Tokyo's airspace.
 Dialogue: 0,0:17:07.31,0:17:09.56,Default,,0,0,0,,A similar entity was destroyed
 Dialogue: 0,0:17:09.56,0:17:12.58,Default,,0,0,0,,by the JSDF one year ago.
 Comment: 0,0:17:25.99,0:17:25.99,Default,chptr,0,0,0,,{ED}ED
