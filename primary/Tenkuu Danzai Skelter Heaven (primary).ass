@@ -15,9 +15,9 @@ Video File: ../../../../Desktop/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 100
-Active Line: 101
-Video Position: 16135
+Scroll Position: 150
+Active Line: 154
+Video Position: 22831
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,7 +65,7 @@ Dialogue: 0,0:04:37.80,0:04:38.94,Default,,0,0,0,,At the ready.
 Dialogue: 0,0:04:39.78,0:04:40.68,Default,,0,0,0,,Good.
 Comment: 0,0:04:44.00,0:04:50.04,Default,,0,0,0,,... phase three... require... structure
 Dialogue: 0,0:05:06.40,0:05:09.15,Default,,0,0,0,,We've received an emergency summons, Midori.
-Dialogue: 0,0:05:10.70,0:05:11.96,Default,,0,0,0,,Almost thought they'd never call.
+Dialogue: 0,0:05:10.70,0:05:11.96,Default,,0,0,0,,I thought they'd never call.
 Dialogue: 0,0:05:24.74,0:05:25.99,Default,,0,0,0,,Here I come!
 Dialogue: 0,0:05:27.11,0:05:29.27,Default,,0,0,0,,You're so aggressive, Misaki.
 Dialogue: 0,0:05:29.27,0:05:30.31,Default,,0,0,0,,You're one to talk!
@@ -135,7 +135,7 @@ Dialogue: 0,0:09:25.05,0:09:27.58,Default,,0,0,0,,{\i1}Misaki's completely right
 Dialogue: 0,0:09:27.58,0:09:30.31,Default,,0,0,0,,{\i1}She'd do a better job for sure.
 Dialogue: 0,0:09:30.31,0:09:33.72,Default,,0,0,0,,{\i1}But I want to live up \Nto Captain Funagai's expectations.
 Dialogue: 0,0:09:33.72,0:09:35.99,Default,,0,0,0,,{\i1}No one's going to listen to excuses.
-Dialogue: 0,0:09:35.99,0:09:38.63,Default,,0,0,0,,{\i1}I won't give in to the enemy \Nor my own weakness.
+Dialogue: 0,0:09:35.99,0:09:38.63,Default,,0,0,0,,{\i1}I won't give in. Not to the enemy \Nnor my own weakness.
 Dialogue: 0,0:09:38.63,0:09:41.16,Default,,0,0,0,,{\i1}And once this is over, \NI'll tell him how I feel.
 Comment: 0,0:09:58.74,0:09:58.74,Default,chptr,0,0,0,,{Part B}Part B
 Dialogue: 0,0:09:59.66,0:10:01.55,Default,,0,0,0,,Energy readings increasing.
@@ -178,16 +178,16 @@ Dialogue: 0,0:12:23.38,0:12:27.00,Default,,0,0,0,,It's just... I'm not a real hu
 Dialogue: 0,0:12:27.00,0:12:29.23,Default,,0,0,0,,My lifespan is different than yours.
 Dialogue: 0,0:12:29.23,0:12:30.36,Default,,0,0,0,,So I...
 Dialogue: 0,0:12:31.00,0:12:34.26,Default,,0,0,0,,I want to understand my own life.
-Dialogue: 0,0:12:35.24,0:12:39.01,Default,,0,0,0,,The organization is responsible \Nfor all of your well-being.
-Dialogue: 0,0:12:39.01,0:12:40.49,Default,,0,0,0,,Don't stress about it.
+Dialogue: 0,0:12:35.24,0:12:39.01,Default,,0,0,0,,The organization is responsible \Nfor you girls' well-being.
+Dialogue: 0,0:12:39.01,0:12:40.49,Default,,0,0,0,,Don't stress yourself about it.
 Dialogue: 0,0:12:41.77,0:12:45.46,Default,,0,0,0,,However, we won't know your lifespans \Nwithout more research.
 Dialogue: 0,0:12:46.75,0:12:50.50,Default,,0,0,0,,As first-generation artificial humanoids, \Nyou girls are the prototypes.
-Dialogue: 0,0:12:51.52,0:12:53.13,Default,,0,0,0,,That's enough pointless chitchat.
+Dialogue: 0,0:12:51.52,0:12:53.13,Default,,0,0,0,,Enough of the pointless chitchat.
 Dialogue: 0,0:12:53.13,0:12:55.49,Default,,0,0,0,,You just need to follow orders.
 Dialogue: 0,0:12:55.49,0:12:56.79,Default,,0,0,0,,All right?
 Dialogue: 0,0:12:56.79,0:12:57.98,Default,,0,0,0,,Understood.
 Dialogue: 0,0:12:59.78,0:13:00.99,Default,,0,0,0,,That's good.
-Dialogue: 0,0:13:00.99,0:13:03.35,Default,,0,0,0,,Your orders are absolute.
+Dialogue: 0,0:13:00.99,0:13:03.35,Default,,0,0,0,,Your orders are final.
 Dialogue: 0,0:13:03.35,0:13:06.46,Default,,0,0,0,,You don't have an insubordinate \Nbone in your body, do you?
 Dialogue: 0,0:13:07.01,0:13:07.89,Default,,0,0,0,,What's that?
 Dialogue: 0,0:13:19.44,0:13:21.78,Default,,0,0,0,,Rin, focus!
@@ -205,7 +205,7 @@ Dialogue: 0,0:13:53.21,0:13:54.40,Default,TM,0,0,0,,all I can see is their smile
 Dialogue: 0,0:13:56.11,0:13:58.30,Default,,0,0,0,,That's why... Why I...
 Dialogue: 0,0:14:13.50,0:14:15.93,Default,,0,0,0,,Rin! What are you doing?
 Dialogue: 0,0:14:15.93,0:14:20.34,Default,,0,0,0,,I haven't been following your orders \Njust because I was created to do so!
-Dialogue: 0,0:14:20.72,0:14:23.94,Default,,0,0,0,,I've done it because I love you!
+Dialogue: 0,0:14:20.72,0:14:23.94,Default,,0,0,0,,I've been doing it because I love you!
 Dialogue: 0,0:14:26.71,0:14:27.95,Default,,0,0,0,,That's right.
 Dialogue: 0,0:14:28.91,0:14:30.92,Default,,0,0,0,,I'm going in first!
 Dialogue: 0,0:14:36.15,0:14:37.18,Default,,0,0,0,,Don't!
