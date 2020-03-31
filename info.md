@@ -32,3 +32,7 @@ congratulations and thanks
 
 watch tamayura
 -- Myaamori
+
+whatever I did to you, I'm sorry
+might this fill the void in my heart?
+-- The0x539
