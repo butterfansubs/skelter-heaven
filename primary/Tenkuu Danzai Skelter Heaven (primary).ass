@@ -1447,8 +1447,8 @@ Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\an7\pos(69.212,197.635)\c&H790
 Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\an7\pos(69.212,197.635)\c&H7A0000&\blur1\clip(40,467,93,472)\p1}m -23 -198 l 18 -198 18 281 -23 281
 Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\an7\pos(69.212,197.635)\c&H7B0000&\blur1\clip(40,472,93,477)\p1}m -23 -198 l 18 -198 18 281 -23 281
 Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\an7\pos(69.212,197.635)\c&H7B0000&\blur1\clip(40,477,93,482)\p1}m -23 -198 l 18 -198 18 281 -23 281
-Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\frz90\an4\move(64.848,72.635,64.848,438.857,16,183)\fs18\fnSwenson\bord0.3\blur0.6\3c&HFFFFFF&}They were given the name "Weattprhopet."All of them were programmed identically, but their abilities had differentiated from each other over time.
-Dialogue: 1,0:02:07.56,0:02:07.59,Signs,,0,0,0,,{\frz90\an4\fs18\fnSwenson\bord0.3\blur0.6\3c&HFFFFFF&\pos(22.181,438.857)}They were given the name "Weattprhopet."All of them were programmed identically, but their abilities had differentiated from each other over time.
+Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\frz90\an4\move(64.848,72.635,64.848,438.857,16,183)\fs18\fnSwenson\bord0.3\blur0.6\3c&HFFFFFF&}They were given the name “Weattprhopet.”All of them were programmed identically, but their abilities had differentiated from each other over time.
+Dialogue: 1,0:02:07.56,0:02:07.59,Signs,,0,0,0,,{\frz90\an4\fs18\fnSwenson\bord0.3\blur0.6\3c&HFFFFFF&\pos(22.181,438.857)}They were given the name “Weattprhopet.”All of them were programmed identically, but their abilities had differentiated from each other over time.
 Comment: 0,0:02:07.56,0:02:07.59,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H300000&}m 4 0 l 45 0 45 479 4 479
 Comment: 0,0:02:07.56,0:02:07.59,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H790000&}m 4 0 l 45 0 45 479 4 479
 Dialogue: 0,0:02:07.56,0:02:07.59,Signs,,0,0,0,,{\clip(-2,-3,51,2)\pos(0,0)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&H300000&}m 4 0 l 45 0 45 479 4 479
