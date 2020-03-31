@@ -6,7 +6,7 @@ Tenkuu Danzai Skelter+Heaven
 - [Anilist](https://anilist.co/anime/3287/Tenkuu-Danzato-Skelter-Heaven/)
 
 This release is brought to you by the following groups:
- - [ButterFS](https://twitter.com/butterfs)
+ - [ButterFS](https://twitter.com/butterfs) 
  - [SMC-Subs](https://nyaa.si/user/jymmy)
  - [LCE](https://nyaa.si/user/LCE)
  - [0x539](https://nyaa.si/user/The0x539)
