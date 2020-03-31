@@ -35,7 +35,7 @@ Dialogue: 0,0:01:18.62,0:01:21.10,Default,,0,0,0,,who is stuck in the evacuation
 Dialogue: 0,0:01:21.16,0:01:22.98,Default,,0,0,0,,For--
 Dialogue: 0,0:01:23.06,0:01:25.83,Default,,0,0,0,,It's first time since the war, the JSDF has been mobilized for a public security operation.
 Dialogue: 0,0:01:25.90,0:01:27.73,Default,,0,0,0,,Internation--
-Dialogue: 0,0:01:27.80,0:01:31.27,Default,TLCed,0,0,0,,international relationships may be influenced.{it is believed that this will affect relations with neighbouring countries}{This sounds complicated... Can you think of a mistranslation here? - Lann}
+Dialogue: 0,0:01:27.80,0:01:31.27,Default,TLCed,0,0,0,,international relationships could be influenced.{it is believed that this will affect relations with neighbouring countries}{This sounds complicated... Can you think of a mistranslation here? - Lann}
 Comment: 0,0:01:28.73,0:01:28.73,Default,chptr,0,0,0,,{OP}OP
 Comment: 0,0:03:16.92,0:03:16.92,Default,chptr,0,0,0,,{Part A}Part A
 Dialogue: 0,0:03:18.89,0:03:23.32,Default,,0,0,0,,We just got some news.{this is repeated later without たった今 at the start and it's still a complete sentence, hence why "Just now," is at the start}
@@ -108,7 +108,7 @@ Dialogue: 0,0:07:25.09,0:07:25.72,Default,,0,0,0,,Y-Yes?
 Dialogue: 0,0:07:25.82,0:07:26.79,Default,,0,0,0,,You're fast.{I love this}
 Dialogue: 0,0:07:26.91,0:07:28.25,Default,,0,0,0,,Attack the core.
 Dialogue: 0,0:07:29.60,0:07:30.60,Default,,0,0,0,,Yes.
-Dialogue: 0,0:07:30.66,0:07:31.43,Default,,0,0,0,,{\an8}TL:note 隊長 means commanding officer
+Dialogue: 0,0:07:30.66,0:07:31.43,Default,,0,0,0,,{\an8}TL:note Taichou means commanding officer
 Dialogue: 0,0:07:30.66,0:07:31.43,Default,,0,0,0,,Taichou!
 Dialogue: 0,0:07:31.51,0:07:34.33,Default,,0,0,0,,{\an8}TL:Note Japan Self-Defense Forces is the JSDF
 Dialogue: 0,0:07:31.51,0:07:34.33,Default,,0,0,0,,The JSDF is attacking the target.
@@ -142,7 +142,7 @@ Dialogue: 0,0:09:27.75,0:09:30.58,Default,,0,0,0,,I'm sure Misaki would do bette
 Dialogue: 0,0:09:30.65,0:09:33.85,Default,,0,0,0,,But I want to meet Taichou's expectations.
 Dialogue: 0,0:09:33.91,0:09:36.15,Default,,0,0,0,,No ones doing the favour of listening to excuses.
 Dialogue: 0,0:09:36.26,0:09:38.76,Default,,0,0,0,,I don't want to loose... To me or the enemy.
-Dialogue: 0,0:09:38.84,0:09:41.70,Default,,0,0,0,,And I have to tell 隊長!
+Dialogue: 0,0:09:38.84,0:09:41.70,Default,,0,0,0,,And I have to tell Taichou!
 Comment: 0,0:09:56.49,0:09:56.49,Default,chptr,0,0,0,,{Part B}Part B
 Dialogue: 0,0:09:59.71,0:10:01.58,Default,,0,0,0,,Energy reading is getting bigger.
 Dialogue: 0,0:10:01.58,0:10:03.18,Default,,0,0,0,,Everyone, get ready to attack.
@@ -194,7 +194,7 @@ Dialogue: 0,0:12:53.25,0:12:55.45,Default,,0,0,0,,It's okay for you to follow or
 Dialogue: 0,0:12:55.45,0:12:56.89,Default,,0,0,0,,Good?
 Dialogue: 0,0:12:56.89,0:12:58.66,Default,,0,0,0,,I understand.
 Dialogue: 0,0:12:59.76,0:13:01.06,Default,,0,0,0,,That's good.
-Dialogue: 0,0:13:01.06,0:13:03.43,Default,,0,0,0,,体調's order is absolute.
+Dialogue: 0,0:13:01.06,0:13:03.43,Default,,0,0,0,,Taichou's order is absolute.
 Dialogue: 0,0:13:03.43,0:13:06.43,Default,,0,0,0,,You really are always honest, huh?
 Dialogue: 0,0:13:07.03,0:13:07.70,Default,,0,0,0,,Eh?
 Dialogue: 0,0:13:19.41,0:13:21.75,Default,,0,0,0,,Rin, get a hold of yourself!
