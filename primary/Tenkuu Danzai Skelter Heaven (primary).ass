@@ -10,14 +10,14 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: ../skelterheaven.mkv
-Video File: ../skelterheaven.mkv
+Audio File: E:/Downloads/skelterheaven.mkv
+Video File: E:/Downloads/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 343
-Active Line: 350
-Video Position: 3990
+Video Zoom Percent: 1.125000
+Scroll Position: 211
+Active Line: 220
+Video Position: 3011
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -237,7 +237,7 @@ Dialogue: 0,0:17:07.31,0:17:09.56,Default,,0,0,0,,A similar entity was destroyed
 Dialogue: 0,0:17:09.56,0:17:12.58,Default,,0,0,0,,by the JSDF one year ago.
 Comment: 0,0:17:25.99,0:17:25.99,Default,chptr,0,0,0,,{ED}ED
 Comment: 0,0:00:02.25,0:00:02.25,Default,,0,0,0,,== Signs ===============================
-Comment: 0,0:01:34.97,0:01:38.08,Signs,,0,0,0,,# Heavenly Arbiter OP start
+Comment: 0,0:01:34.97,0:01:38.08,Signs,,0,0,0,,# Heavenly Arbiter OP start [Bucket or someone else]
 Dialogue: 0,0:01:34.97,0:01:38.08,Signs,,0,0,0,,{\pos(320.571,164)}Heavenly Arbiter
 Comment: 0,0:01:38.68,0:01:40.48,Signs,,0,0,0,,# Subtitle
 Comment: 0,0:01:38.68,0:01:40.48,Signs,,0,0,0,,{\an4\fs10\pos(56.457,251.886)}{\c&H2E3996&\fnConthrax Sb\b1}You hold the power to save her soul from\Nher body's pre-programmed fate.
@@ -252,26 +252,135 @@ Dialogue: 0,0:01:40.46,0:01:40.50,Signs,,0,0,0,,{\an7\c&HE4E4E4&\blur25\bord0\sh
 Comment: 0,0:01:43.35,0:01:47.89,Signs,,0,0,0,,# SDPC AA
 Comment: 0,0:01:43.35,0:01:47.89,Signs,,0,0,0,,{\pos(342.545,73.636)}Specially Designated Public Corporation Altamira Agency{There's a typo in "Designated" in the original (there's no 'a'), but it might not be noticeable enough to be worth rewriting.}
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,# Engineered humans
-Dialogue: 0,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an7\pos(0,0)\c&H703736&\blur10\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 500 500 500
-Dialogue: 0,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 255 l 700 255 700 800 500 800
+Dialogue: 0,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an7\pos(0,-15)\c&H6C393A&\blur20\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
+Dialogue: 0,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4B1A19&\blur26\clip(548.36,-0.73,607.27,480)\p1}m 500 255 l 700 255 700 800 500 800
+Dialogue: 1,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
 Dialogue: 0,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 170 l 700 170 700 800 500 800
-Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,0)\c&H3B1112&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 70 l 700 70 700 800 500 800
-Dialogue: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H220000&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
-Dialogue: 0,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an4\pos(578.212,392.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans\N to follow all orders as soon as they are born.
-Dialogue: 0,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an4\pos(578.212,300.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans\N to follow all orders as soon as they are born.
-Dialogue: 0,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an4\pos(578.212,208.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans\N to follow all orders as soon as they are born.
-Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an4\pos(578.212,118.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans\N to follow all orders as soon as they are born.
-Dialogue: 1,0:01:43.50,0:01:47.87,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans\N to follow all orders as soon as they are born.
-Dialogue: 1,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\clip(554.4,210.4,600.8,380)}Work was being done to engineer humans\N to follow all orders as soon as they are born.
-Dialogue: 0,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H220000&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
-Dialogue: 0,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur3\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
-Dialogue: 0,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur1\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
-Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,0)\1c&H280808&\blur2\p1}m 607 172 l 548 212 548 508 607 508
-Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,97)\1c&H280808&\blur2\p1}m 607 172 l 548 212 548 508 607 508
+Dialogue: 0,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
+Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,0)\c&H210808&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 70 l 700 70 700 800 500 800
+Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 170 l 700 170 700 800 500 800
+Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
+Comment: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H0F0000&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
+Comment: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H200505&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
+Comment: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H451414&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
+Comment: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H683738&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H0F0000&\blur25\clip(548,-1,607,4)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H100000&\blur25\clip(548,4,607,9)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H100000&\blur25\clip(548,9,607,14)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H110000&\blur25\clip(548,14,607,19)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H110101&\blur25\clip(548,19,607,24)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H120101&\blur25\clip(548,24,607,29)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H120101&\blur25\clip(548,29,607,34)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H130101&\blur25\clip(548,34,607,39)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H130101&\blur25\clip(548,39,607,44)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H140101&\blur25\clip(548,44,607,49)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H140202&\blur25\clip(548,49,607,54)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H150202&\blur25\clip(548,54,607,59)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H150202&\blur25\clip(548,59,607,64)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H160202&\blur25\clip(548,64,607,69)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H160202&\blur25\clip(548,69,607,74)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H170202&\blur25\clip(548,74,607,79)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H180202&\blur25\clip(548,79,607,84)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H180303&\blur25\clip(548,84,607,89)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H190303&\blur25\clip(548,89,607,94)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H190303&\blur25\clip(548,94,607,99)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1A0303&\blur25\clip(548,99,607,104)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1A0303&\blur25\clip(548,104,607,109)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1B0303&\blur25\clip(548,109,607,114)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1B0404&\blur25\clip(548,114,607,119)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1C0404&\blur25\clip(548,119,607,124)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1C0404&\blur25\clip(548,124,607,129)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1D0404&\blur25\clip(548,129,607,134)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1D0404&\blur25\clip(548,134,607,139)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1E0404&\blur25\clip(548,139,607,144)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1E0505&\blur25\clip(548,144,607,149)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1F0505&\blur25\clip(548,149,607,154)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H1F0505&\blur25\clip(548,154,607,159)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H200505&\blur25\clip(548,159,607,164)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H200505&\blur25\clip(548,164,607,169)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H210505&\blur25\clip(548,169,607,174)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H220606&\blur25\clip(548,174,607,179)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H240606&\blur25\clip(548,179,607,184)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H250707&\blur25\clip(548,184,607,189)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H260707&\blur25\clip(548,189,607,194)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H270808&\blur25\clip(548,194,607,199)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H280808&\blur25\clip(548,199,607,204)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H2A0909&\blur25\clip(548,204,607,209)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H2B0909&\blur25\clip(548,209,607,214)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H2C0A0A&\blur25\clip(548,214,607,219)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H2D0A0A&\blur25\clip(548,219,607,224)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H2E0B0B&\blur25\clip(548,224,607,229)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H300B0B&\blur25\clip(548,229,607,234)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H310C0C&\blur25\clip(548,234,607,239)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H320C0C&\blur25\clip(548,239,607,244)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H330D0D&\blur25\clip(548,244,607,249)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H340D0D&\blur25\clip(548,249,607,254)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H350E0E&\blur25\clip(548,254,607,259)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H370E0E&\blur25\clip(548,259,607,264)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H380F0F&\blur25\clip(548,264,607,269)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H390F0F&\blur25\clip(548,269,607,274)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H3A1010&\blur25\clip(548,274,607,279)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H3B1010&\blur25\clip(548,279,607,284)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H3D1111&\blur25\clip(548,284,607,289)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H3E1111&\blur25\clip(548,289,607,294)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H3F1212&\blur25\clip(548,294,607,299)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H401212&\blur25\clip(548,299,607,304)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H411313&\blur25\clip(548,304,607,309)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H431313&\blur25\clip(548,309,607,314)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H441414&\blur25\clip(548,314,607,319)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H451414&\blur25\clip(548,319,607,324)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H451414&\blur25\clip(548,324,607,329)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H461515&\blur25\clip(548,329,607,334)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H471616&\blur25\clip(548,334,607,339)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H481717&\blur25\clip(548,339,607,344)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1919&\blur25\clip(548,344,607,349)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4B1A1A&\blur25\clip(548,349,607,354)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4C1B1B&\blur25\clip(548,354,607,359)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4D1C1C&\blur25\clip(548,359,607,364)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4E1D1D&\blur25\clip(548,364,607,369)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4F1E1E&\blur25\clip(548,369,607,374)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H501F20&\blur25\clip(548,374,607,379)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H512021&\blur25\clip(548,379,607,384)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H532222&\blur25\clip(548,384,607,389)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H542323&\blur25\clip(548,389,607,394)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H552424&\blur25\clip(548,394,607,399)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H562525&\blur25\clip(548,399,607,404)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H572627&\blur25\clip(548,404,607,409)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H582728&\blur25\clip(548,409,607,414)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H592829&\blur25\clip(548,414,607,419)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H5A292A&\blur25\clip(548,419,607,424)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H5C2B2B&\blur25\clip(548,424,607,429)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H5D2C2C&\blur25\clip(548,429,607,434)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H5E2D2E&\blur25\clip(548,434,607,439)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H5F2E2F&\blur25\clip(548,439,607,444)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H602F30&\blur25\clip(548,444,607,449)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H613031&\blur25\clip(548,449,607,454)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H623132&\blur25\clip(548,454,607,459)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H633233&\blur25\clip(548,459,607,464)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H653435&\blur25\clip(548,464,607,469)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H663536&\blur25\clip(548,469,607,474)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H673637&\blur25\clip(548,474,607,479)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H683738&\blur25\clip(548,479,607,484)\p1}m 500 -50 l 700 -50 700 800 500 800
+Dialogue: 1,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,392.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,300.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,208.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,118.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.50,0:01:47.87,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\clip(554.4,210.4,596.795,448)}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur3\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
+Dialogue: 1,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur1\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
+Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,0)\1c&H280808&\blur2\p1}m 607 172 l 548 215 548 508 607 508
+Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\p1\clip(m 548 214 l 607 171 607 480 548 480)}m 500 170 l 700 170 700 800 500 800
+Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
+Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\1c&H280808&\blur2\p1\pos(0,100.636)}m 607 172 l 548 212 548 508 607 508
+Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur50\p1\clip(m 548 311 l 607 269 607 480 548 480)}m 500 170 l 700 170 700 800 500 800
+Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
 Dialogue: 0,0:01:47.90,0:01:47.94,Signs,,0,0,0,,{\an7\pos(0,195.222)\1c&H280808&\blur1.5\p1}m 607 172 l 548 215 548 508 607 508
+Dialogue: 0,0:01:47.90,0:01:47.94,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\p1\clip(m 548 409 l 607 366 607 480 548 480)}m 500 374 l 700 374 700 700 500 700
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,{\pos(581.212,290.969)}Work was being done to engineer humans to follow all orders as soon as they are born.
-Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,# First generation
+Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,# First generation [Bucket or someone else]
 Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,{\pos(322.545,320.302)}AA, after many years of development, had succeeded in producing the first generation of such beings.
+Dialogue: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,{\pos(322.545,320.302)}AA, after many years of development, had succeeded in producing the first generation of such beings.
 Comment: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,# To prepare
 Dialogue: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H505050&\t(526,800,\1c&HC1C1C1&)}m 105 399 l 640 399 640 429 105 429
 Dialogue: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,{\fs15\blur50\fade(200,0)\t(0,200,\blur0)\t(200,400,\1a&HFF&)\t(400,401,\1a&H00&)\t(401,600,\1a&HFF&)\t(600,601,\1a&H00&)\t(626,800,\blur10)\clip(0,388.364,639,432.455)\fnConthrax Sb\b0\move(465.178,420,480.178,420,25,526)}To prepare for when that day comes...
@@ -616,115 +725,16 @@ Dialogue: 0,0:03:23.72,0:03:33.19,Signs,,0,0,0,,{\an7\pos(0,373)\blur1\p1\c&HC34
 Dialogue: 0,0:03:23.72,0:03:33.19,Signs,,0,0,0,,{\an7\pos(0,374)\blur1\p1\c&HC34B00&\1a&HED&}m -4 0 l 644 0 644 2 -4 2
 Dialogue: 0,0:03:23.72,0:03:33.19,Signs,,0,0,0,,{\an7\pos(0,375)\blur1\p1\c&HC34B00&\1a&HFF&}m -4 0 l 644 0 644 2 -4 2
 Comment: 0,0:03:23.72,0:03:33.19,Signs,,0,0,0,,## Text
-Dialogue: 2,0:03:23.72,0:03:33.19,Signs,,0,0,0,,{\fnGentium Basic\fs20\bord1.5\blur0.8\3c&H080200&\1c&H080200&\b1\pos(320,357.047)}Mysterious airborne entity begins moving over Tokyo airspace
-Dialogue: 3,0:03:23.72,0:03:33.19,Signs,,0,0,0,,{\fnGentium Basic\fs20\b1\blur0.5\c&HFFFFFF&\pos(320,357.047)}Mysterious airborne entity begins moving over Tokyo airspace
+Comment: 2,0:03:23.72,0:03:33.19,Signs,*bord,0,0,0,,{\fnGentium Book Basic\bord1.5\blur0.5\pos(318,357.047)\3c&H080200&\c&HFFFFFF&}Mysterious airborne entity begins moving over Tokyo airspace
+Dialogue: 2,0:03:23.72,0:03:33.19,Signs,bord,0,0,0,done,{\fnGentium Basic\\bord1.5\blur0.8\3c&H080200&\1c&H080200&\b1\pos(320,357.047)}Mysterious airborne entity begins moving over Tokyo airspace
+Dialogue: 3,0:03:23.72,0:03:33.19,Signs,bord,0,0,0,done,{\fnGentium Basic\b1\blur0.5\c&HFFFFFF&\pos(320,357.047)}Mysterious airborne entity begins moving over Tokyo airspace
 Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,# News headline top left
-Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Background
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H86&\pos(204,134.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H79&\pos(204,135.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H6C&\pos(204,136.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H5F&\pos(204,137.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H52&\pos(204,138.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H44&\pos(204,139.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H37&\pos(204,140.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H2A&\pos(204,141.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H1D&\pos(204,142.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,143.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,144.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,145.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H10&\pos(204,146.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H22&\pos(204,147.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H35&\pos(204,148.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H47&\pos(204,149.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H5A&\pos(204,150.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H6C&\pos(204,151.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H7E&\pos(204,152.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&H91&\pos(204,153.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HA3&\pos(204,154.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HB5&\pos(204,155.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HC8&\pos(204,156.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HDA&\pos(204,157.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HED&\pos(204,158.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an9\blur1\p1\c&HED7147&\1a&HFF&\pos(204,159.333)\t(1291,4995,\1c&H562413&)}m -4 0 l 644 0 644 2 -4 2
-Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Text
-Dialogue: 2,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord1.24\blur0.9\xshad0.01\4c&H4B564E&\c&HF5FCF8&\1a&HFE&\3a&HFE&\4a&H29&\frz0.32\fscx103\iclip(201,111.2,253.6,170.4)\pos(5.809,145.729)\t(1291,4995,\4c&H0D1413&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
-Dialogue: 3,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur1\c&HF5FCF8&\frz0.32\fscx103\iclip(201,111.2,253.6,170.4)\pos(5.809,145.729)\t(1291,4995,\1c&H585C5E&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
-Dialogue: 4,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur0.8\c&HF5FCF8&\1a&H80&\frz0.32\fscx103\iclip(201,111.2,253.6,170.4)\pos(5.809,145.729)\t(1291,4995,\1c&H585C5E&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\pos(64,178.286)}Mysterious airborne entity begins moving over Tokyo airspace
 Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,# News headline top right
-Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Background
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H86&\pos(257.5,134.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H79&\pos(257.5,135.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H6C&\pos(257.5,136.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H5F&\pos(257.5,137.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H52&\pos(257.5,138.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H44&\pos(257.5,139.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H37&\pos(257.5,140.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H2A&\pos(257.5,141.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H1D&\pos(257.5,142.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,143.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,144.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,145.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H10&\pos(257.5,146.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H22&\pos(257.5,147.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H35&\pos(257.5,148.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H47&\pos(257.5,149.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H5A&\pos(257.5,150.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H6C&\pos(257.5,151.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H7E&\pos(257.5,152.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&H91&\pos(257.5,153.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HA3&\pos(257.5,154.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HB5&\pos(257.5,155.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HC8&\pos(257.5,156.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HDA&\pos(257.5,157.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HED&\pos(257.5,158.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\an7\blur1\p1\c&HEA6834&\1a&HFF&\pos(257.5,159.333)\t(2692,5010,\1c&H521D0A&}m -4 0 l 644 0 644 2 -4 2
-Comment: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,## Text
-Dialogue: 2,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord1.24\blur1\xshad0.01\4c&H1F2725&\c&HEFF5F3&\1a&HFE&\3a&HFE&\4a&H60&\frz0.32\fscx103\pos(445.809,146.229)\iclip(201.5,111.2,253,170.4)\t(1858,5010,\4c&H090A0A&\blur0.5)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
-Dialogue: 3,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur0.9\c&HEFF5F3&\frz0.32\fscx103\pos(445.809,146.229)\iclip(201.5,111.2,253,170.4)\t(1858,5010,\1c&H5B5759&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
-Dialogue: 4,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\fnGentium Basic\fs16\b1\bord0\blur0.9\c&HD6F5EB&\1a&H80&\frz0.32\fscx103\pos(445.809,146.229)\iclip(201.5,111.2,253,170.4)\t(1858,5010,\1c&H5B5759&)}M{\frz0.31}y{\frz0.3}s{\frz0.29}t{\frz0.28}e{\frz0.28}r{\frz0.27}i{\frz0.26}o{\frz0.25}u{\frz0.24}s{\frz0.23} {\frz0.22}a{\frz0.21}i{\frz0.21}r{\frz0.2}b{\frz0.19}o{\frz0.18}r{\frz0.17}n{\frz0.16}e{\frz0.15} {\frz0.14}e{\frz0.13}n{\frz0.13}t{\frz0.12}i{\frz0.11}t{\frz0.1}y{\frz0.09} {\frz0.08}b{\frz0.07}e{\frz0.06}g{\frz0.06}i{\frz0.05}n{\frz0.04}s{\frz0.03} {\frz0.02}m{\frz0.01}o{\frz0}v{\frz-0.01}i{\frz-0.01}n{\frz-0.02}g{\frz-0.03} {\frz-0.04}o{\frz-0.05}v{\frz-0.06}e{\frz-0.07}r{\frz-0.08} {\frz-0.09}T{\frz-0.09}o{\frz-0.1}k{\frz-0.11}y{\frz-0.12}o{\frz-0.13} {\frz-0.14}a{\frz-0.15}i{\frz-0.16}r{\frz-0.16}s{\frz-0.17}p{\frz-0.18}a{\frz-0.19}c{\frz-0.2}e
-Comment: 1,0:03:33.19,0:03:38.20,Signs,,0,0,0,,# Shadow
-Dialogue: 1,0:03:34.33,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
-Dialogue: 1,0:03:34.69,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
-Dialogue: 1,0:03:35.05,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
+Dialogue: 0,0:03:33.19,0:03:38.20,Signs,,0,0,0,,{\pos(449.143,183.429)}Mysterious airborne entity begins moving over Tokyo airspace
 Comment: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,# One year later
-Dialogue: 0,0:16:55.06,0:16:59.73,Signs,,0,0,0,,{\pos(0,0)\an7\p1\c&H000000&}m 237 209 l 392 209 393 274 237 274
-Dialogue: 0,0:16:55.06,0:16:59.73,Signs,,0,0,0,,{\pos(320,240)\fnMonotype Corsiva\fs36\i1\fad(1222,1212)}One year later...
-Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,# News headline reprise
-Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,## Background
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,344)\blur1\p1\c&HC34B00&\1a&H73&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,345)\blur1\p1\c&HC34B00&\1a&H69&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,346)\blur1\p1\c&HC34B00&\1a&H60&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,347)\blur1\p1\c&HC34B00&\1a&H56&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,348)\blur1\p1\c&HC34B00&\1a&H4C&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,349)\blur1\p1\c&HC34B00&\1a&H43&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,350)\blur1\p1\c&HC34B00&\1a&H38&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,351)\blur1\p1\c&HC34B00&\1a&H2E&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,352)\blur1\p1\c&HC34B00&\1a&H23&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,353)\blur1\p1\c&HC34B00&\1a&H18&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,354)\blur1\p1\c&HC34B00&\1a&H0D&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,355)\blur1\p1\c&HC34B00&\1a&H0A&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,356)\blur1\p1\c&HC34B00&\1a&H0A&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,357)\blur1\p1\c&HC34B00&\1a&H0A&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,358)\blur1\p1\c&HC34B00&\1a&H0A&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,359)\blur1\p1\c&HC34B00&\1a&H0A&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,360)\blur1\p1\c&HC34B00&\1a&H0A&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,361)\blur1\p1\c&HC34B00&\1a&H18&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,362)\blur1\p1\c&HC34B00&\1a&H27&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,363)\blur1\p1\c&HC34B00&\1a&H37&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,364)\blur1\p1\c&HC34B00&\1a&H46&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,365)\blur1\p1\c&HC34B00&\1a&H55&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,366)\blur1\p1\c&HC34B00&\1a&H65&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,367)\blur1\p1\c&HC34B00&\1a&H75&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,368)\blur1\p1\c&HC34B00&\1a&H86&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,369)\blur1\p1\c&HC34B00&\1a&H96&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,370)\blur1\p1\c&HC34B00&\1a&HA7&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,371)\blur1\p1\c&HC34B00&\1a&HB8&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,372)\blur1\p1\c&HC34B00&\1a&HC9&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,373)\blur1\p1\c&HC34B00&\1a&HDB&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,374)\blur1\p1\c&HC34B00&\1a&HED&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,375)\blur1\p1\c&HC34B00&\1a&HFF&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
-Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,## Text
-Dialogue: 2,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,1684)\fnGentium Basic\fs20\bord1.5\blur0.8\3c&H080200&\c&H080200&\t(6424,9494,\c&HFFFFFF&\3c&HB4BCBA&)\b1\pos(320,357.047)}Mysterious airborne entity appears over Tokyo once more
-Dialogue: 3,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,1684)\fnGentium Basic\fs20\b1\blur0.5\c&HFFFFFF&\pos(320,357.047)}Mysterious airborne entity appears over Tokyo once more
+Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One year later...
+Comment: 0,0:17:02.37,0:17:11.98,Signs,,0,0,0,,# News headline reprise
+Dialogue: 0,0:17:02.37,0:17:11.98,Signs,,0,0,0,,{\pos(283.429,408.571)}Mysterious airborne entity appears over Tokyo once more
 Comment: 0,0:00:02.25,0:00:02.25,Default,,0,0,0,,== OP ==================================
 Comment: 0,0:00:20.53,0:00:23.47,Default,,0,0,0,,== ED ==================================
