@@ -41,20 +41,21 @@ Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function line_fx(tag1,
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_fscx(do_start, do_end) if not (do_start or do_end) then return ""; end; return line_fx(fscx(do_start and (1+pw/w)/2 or 1), fscx(1), fscx(do_end and (1+nw/w)/2 or 1)); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_fscy(do_start, do_end) if not (do_start or do_end) then return ""; end; return line_fx(fscy(do_start and 0 or 1), fscy(1), fscy(do_end and 0 or 1)); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_clip(leadin, leadout); local pb, b, nb = bounds(prev_line), bounds(line), bounds(next_line); return line_fx(leadin and clip(b.x1, b.y, b.x2, b.y) or clip((pb.x1+b.x1)/2, b.y1, (pb.x2+b.x2)/2, b.y2), clip(b.x1, b.y1, b.x2, b.y2), leadout and clip(b.x1, b.y, b.x2, b.y) or clip((nb.x1+b.x1)/2, b.y1, (nb.x2+b.x2)/2, b.y2)); end
-Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_fad(do_start, do_end) if not (do_start or do_end) then return ""; end; return ("\\fad(%d,%d)"):format(do_start and 227 or 0, do_end and 227 or 0); end
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_fad(do_start, do_end) if prev_line.duration == 0 then do_start = false; end; if not (do_start or do_end) then return ""; end; return ("\\fad(%d,%d)"):format(do_start and 227 or 0, do_end and 227 or 0); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_rect() return inout_fscy(fxgroup.leadin, fxgroup.leadout) .. inout_fscx(fxgroup.noleadin, fxgroup.noleadout); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function inout_text() return inout_clip(fxgroup.leadin, fxgroup.leadout) .. inout_fad(fxgroup.noleadin, fxgroup.noleadout); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function shad(c, a) return ("\\1c%s\\3c%s\\4c%s\\1a&HFE&\\3a&HFE&\\4a%s\\shad0.01"):format(c, c, c, a); end
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function no_zero() if line.duration == 0 then maxloop(0); end; return ""; end
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,prev_line, next_line = subs[line.i-1], subs[line.i+1]; _G.karaskel.preproc_line(subs, meta, styles, prev_line); _G.karaskel.preproc_line(subs, meta, styles, next_line)
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,fxgroup.leadout = (next_line.start_time ~= line.end_time); fxgroup.noleadout = (not fxgroup.leadout)
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,fxgroup.leadin = (prev_line.end_time ~= line.start_time); fxgroup.noleadin = (not fxgroup.leadin);
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line,pw, ph = w or 0, h or 0; w, h = line.width + 16, line.height + 8; if next_line then nw, nh = next_line.width + 16, next_line.height + 8; end
-Comment: 10,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!inout_rect()!\p1!shad("&H00004F&", "&H9F&")!\blur3!ln.tag.pos(5,5)!}m 0 0 l !w! 0 !w! !h! 0 !h!
-Comment: 13,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!inout_rect()!\bord2.5\p1!shad("&H007FFF&", "&H5F&")!\blur2!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
-Comment: 14,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!inout_rect()!\bord1.125\p1!shad("&HEEFFFF&", "&H00&")!!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
-Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line glow,{!inout_text()!\q2\bord2!shad("&H007FFF&", "&H5F&")!\be8\an5\pos($center,$middle)!""--[[what the hell?]]!}
+Comment: 10,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!no_zero()!!inout_rect()!\p1!shad("&H00004F&", "&H9F&")!\blur3!ln.tag.pos(5,5)!}m 0 0 l !w! 0 !w! !h! 0 !h!
+Comment: 13,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!no_zero()!!inout_rect()!\bord2.5\p1!shad("&H007FFF&", "&H5F&")!\blur2!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
+Comment: 14,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line notext,{!no_zero()!!inout_rect()!\bord1.125\p1!shad("&HEEFFFF&", "&H00&")!!ln.tag.pos(5,5)!}m .25 .25 l !w-.25! .25 !w-.25! !h-.25! .25 !h-.25! m 0 0 l 0 !h! !w! !h! !w! 0
+Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line glow,{!no_zero()!!inout_text()!\q2\bord2!shad("&H007FFF&", "&H5F&")!\be8\an5\pos($center,$middle)!""--[[what the hell?]]!}
 Comment: 11,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar glow,!syl_fx(char.text, '\\bord1.5', '\\bord3', '\\bord2')!
-Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line fill,{!inout_text()!\q2\c&HEEFFFF&!ln.tag.pos(5,5)!}
+Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line fill,{!no_zero()!!inout_text()!\q2\c&HEEFFFF&!ln.tag.pos(5,5)!}
 Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar fill,!syl_fx(char.text, '\\1a&H4F&', '\\1a&H00&', '\\1a&H07&')!
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,!fxgroup.leadin and retime('line', -227 * (1-J(j, maxj))) or ''!{\p1\an7\pos(!meta.res_x * (1-J(j, maxj))!,430)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgroup leadout,!retime('postline', 0, 227)!{\p1\an7\move(!meta.res_x * (1-J(j, maxj))!,430,!meta.res_x * (1-J(j, maxj))!,530)\c!_G.interpolate_color(1-J(j, maxj), '&H7B0000&', '&H330000&')!\blur0.5}m 0 0 l 5 0 5 30 0 30
@@ -63,7 +64,8 @@ Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160 fxgr
 Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!ln.tag.move(meta.res_x, 0, 0, 0, 0, 227)!\q2}
 Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup leadout,!retime('postline', 0, 227)!{!ln.tag.move(0, 0, 0, 100)!\q2}
 Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line fxgroup noleadout,!retime('postline', 0, 227)!{!ln.tag.move(0, 0, -meta.res_x, 0)!\q2}
-Comment: 0,0:01:49.32,0:01:55.78,OP-R,,0,0,0,karaoke,{\k22}to{\k22}za{\k23}sa{\k23}re{\k23}te{\k23}ku {\k22}ta{\k45}i{\k23}yo{\k22}u {\k23}{\k23}sa{\k23}ga{\k67}shi {\k45}ni {\k23}ta{\k23}bi{\k23}da{\k148}tou
+Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,karaoke,tozasareteku taiyou sagashi ni tabidatou
+Comment: 0,0:01:49.46,0:01:55.78,OP-R,,0,0,0,karaoke,{\k8}to{\k22}za{\k23}sa{\k23}re{\k23}te{\k23}ku {\k22}ta{\k45}i{\k23}yo{\k22}u {\k23}{\k23}sa{\k23}ga{\k67}shi {\k45}ni {\k23}ta{\k23}bi{\k23}da{\k148}tou
 Comment: 0,0:01:56.29,0:02:01.76,OP-R,,0,0,0,karaoke,{\k25}{\k22}na{\k23}ku{\k23}shi{\k23}ta {\k24}yu{\k22}me {\k23}wo {\k45}to{\k46}ri{\k45}mo{\k23}do{\k45}su {\k23}ta{\k135}me
 Comment: 0,0:02:03.46,0:02:10.35,OP-R,,0,0,0,karaoke,{\k31}{\k23}mi{\k23}e{\k23}na{\k23}i {\k23}chi{\k23}ka{\k23}ra {\k45}ni {\k23}i{\k21}ma {\k24}{\k22}mi{\k23}chi{\k68}bi{\k45}ka{\k23}re{\k23}ru {\k23}ma{\k157}ma
 Comment: 0,0:02:10.77,0:02:16.54,OP-R,,0,0,0,karaoke,{\k24}{\k23}ha{\k24}ru{\k23}ka {\k45}too{\k23}ku {\k23}no {\k45}goo{\k23}ru {\k45}me{\k23}za{\k22}shi{\k234}te
@@ -80,7 +82,7 @@ Comment: 0,0:02:51.73,0:02:55.59,OP-R,,0,0,0,karaoke,{\k25}{\k46}da{\k67}re {\k2
 Comment: 0,0:02:55.59,0:03:06.29,OP-R,,0,0,0,karaoke,{\k24}{\k12}me {\k12}no {\k34}ma{\k34}e {\k24}no {\k34}u{\k35}n{\k23}me{\k35}i {\k34}ki{\k23}ri{\k34}hi{\k34}ra{\k22}ke {\k34}o{\k33}wa{\k23}ru {\k33}ko{\k34}to {\k23}na{\k42}i {\k47}{\k34}mi{\k34}ra{\k22}i {\k297}e
 Comment: 0,0:03:06.88,0:03:10.61,OP-R,,0,0,0,karaoke,{\k47}{\k68}up {\k23}to {\k22}the {\k213}sky
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,,
-Comment: 0,0:01:49.32,0:01:55.78,OP-E,,0,0,0,karaoke,You'll always find us chasing in pursuit of a sun that's hiding away
+Comment: 0,0:01:49.46,0:01:55.78,OP-E,,0,0,0,karaoke,You'll always find us chasing in pursuit of a sun that's hiding away
 Comment: 0,0:01:56.29,0:02:01.76,OP-E,,0,0,0,karaoke,'Cause there's a dream that we have lost and want to find again
 Comment: 0,0:02:03.46,0:02:10.35,OP-E,,0,0,0,karaoke,There is a hidden power deep inside and it's always guiding our way
 Comment: 0,0:02:10.77,0:02:16.54,OP-E,,0,0,0,karaoke,Out in the distance, our goal is there to attain
