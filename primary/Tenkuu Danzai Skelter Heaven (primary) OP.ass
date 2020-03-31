@@ -47,6 +47,7 @@ Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function shad(c, a) re
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function eng_bg_fadein(delay) if not leadin then return ""; end; retime('line', delay, 0); return ('\\fade(255,255,0,0,0,%d,%d)'):format(227*(1 - j/maxj) - 28, 227*(1 - j/maxj) + 29); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function eng_bg_grad() return ("\\clip(%d,0,%d,%d)\\c%s\\blur0.5"):format(meta.res_x * (1 - j/maxj), meta.res_x * (1 - (j-1)/maxj), meta.res_y, _G.interpolate_color(1- j/maxj, '&H7B0000&', '&H330000&')); end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function eng_bg_moveout(y) if not leadout then return ('\\pos(%d,%d)'):format(0, y); end; retime('line', 0, 227); return ('\\move(0,%d,0,%d,%d,%d)'):format(y, y+100, line.duration - 227, line.duration); end
+Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function eng_fscx_hack() if line.width > meta.res_x then return '\\fscx90'; else return ''; end; end
 Comment: 0,0:01:49.46,0:01:49.46,Default,,0,0,0,code once,function no_zero() if line.duration == 0 then maxloop(0); end; return ""; end
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,prev_line, next_line = subs[line.i-1], subs[line.i+1]; _G.karaskel.preproc_line(subs, meta, styles, prev_line); _G.karaskel.preproc_line(subs, meta, styles, next_line)
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,code line all,leadin, leadout = (prev_line.end_time ~= line.start_time), (next_line.start_time ~= line.end_time)
@@ -60,8 +61,8 @@ Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template line fill,{!no_zero()!!ln
 Comment: 12,0:01:49.46,0:01:49.46,OP-R,,0,0,0,template lchar fill,!syl_fx(char.text, '\\1a&H4F&', '\\1a&H00&', '\\1a&H07&')!
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,{!eng_bg_fadein(-227)!\p1\an7!eng_bg_moveout(430)!!eng_bg_grad()!}m 0 0 l !meta.res_x! 0 !meta.res_x! 30 0 30
 Comment: 10,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line notext loop 160,{!eng_bg_fadein(0)!\p1\an7!eng_bg_moveout(465)!!eng_bg_grad()!}m 0 0 l !meta.res_x! 0 !meta.res_x! 4 0 4
-Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!ln.tag.move(meta.res_x, 0, 0, 0, 0, 227)!\q2}
-Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!retime('postline', 0, 227)!!ln.tag.move(0, 0, leadout and 0 or -meta.res_x, leadout and 100 or 0)!\q2}
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!ln.tag.move(meta.res_x, 0, 0, 0, 0, 227)!\q2!eng_fscx_hack()!}
+Comment: 11,0:01:49.46,0:01:49.46,OP-E,,0,0,0,template line,{!retime('postline', 0, 227)!!ln.tag.move(0, 0, leadout and 0 or -meta.res_x, leadout and 100 or 0)!\q2!eng_fscx_hack()!}
 Comment: 0,0:01:49.46,0:01:49.46,OP-R,,0,0,0,karaoke,tozasareteku taiyou sagashi ni tabidatou
 Comment: 0,0:01:49.46,0:01:55.78,OP-R,,0,0,0,karaoke,{\k8}to{\k22}za{\k23}sa{\k23}re{\k23}te{\k23}ku {\k22}ta{\k45}i{\k23}yo{\k22}u {\k23}{\k23}sa{\k23}ga{\k67}shi {\k45}ni {\k23}ta{\k23}bi{\k23}da{\k148}tou
 Comment: 0,0:01:56.29,0:02:01.76,OP-R,,0,0,0,karaoke,{\k25}{\k22}na{\k23}ku{\k23}shi{\k23}ta {\k24}yu{\k22}me {\k23}wo {\k45}to{\k46}ri{\k45}mo{\k23}do{\k45}su {\k23}ta{\k135}me
@@ -5005,8 +5006,8 @@ Dialogue: 10,0:02:55.59,0:03:06.51,OP-E,,0,0,0,fx,{\p1\an7\move(0,465,0,565,1070
 Dialogue: 10,0:02:55.59,0:03:06.51,OP-E,,0,0,0,fx,{\p1\an7\move(0,465,0,565,10700,10927)\clip(8,0,12,480)\c&H7A0000&\blur0.5}m 0 0 l 640 0 640 4 0 4
 Dialogue: 10,0:02:55.59,0:03:06.51,OP-E,,0,0,0,fx,{\p1\an7\move(0,465,0,565,10700,10927)\clip(4,0,8,480)\c&H7B0000&\blur0.5}m 0 0 l 640 0 640 4 0 4
 Dialogue: 10,0:02:55.59,0:03:06.51,OP-E,,0,0,0,fx,{\p1\an7\move(0,465,0,565,10700,10927)\clip(0,0,4,480)\c&H7B0000&\blur0.5}m 0 0 l 640 0 640 4 0 4
-Dialogue: 11,0:02:55.59,0:03:06.29,OP-E,,0,0,0,fx,{\an2\move(960.00,456.00,320.00,456.00,0,227)\q2}And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
-Dialogue: 11,0:03:06.29,0:03:06.51,OP-E,,0,0,0,fx,{\an2\move(320.00,456.00,320.00,556.00)\q2}And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
+Dialogue: 11,0:02:55.59,0:03:06.29,OP-E,,0,0,0,fx,{\an2\move(960.00,456.00,320.00,456.00,0,227)\q2\fscx90}And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
+Dialogue: 11,0:03:06.29,0:03:06.51,OP-E,,0,0,0,fx,{\an2\move(320.00,456.00,320.00,556.00)\q2\fscx90}And now here right in front of our eyes stretching out to the skies, here our destiny lies for us to claim
 Dialogue: 10,0:03:06.65,0:03:10.83,OP-E,,0,0,0,fx,{\fade(255,255,0,0,0,198,255)\p1\an7\move(0,430,0,530,3957,4184)\clip(636,0,640,480)\c&H330000&\blur0.5}m 0 0 l 640 0 640 30 0 30
 Dialogue: 10,0:03:06.65,0:03:10.83,OP-E,,0,0,0,fx,{\fade(255,255,0,0,0,196,253)\p1\an7\move(0,430,0,530,3957,4184)\clip(632,0,636,480)\c&H340000&\blur0.5}m 0 0 l 640 0 640 30 0 30
 Dialogue: 10,0:03:06.65,0:03:10.83,OP-E,,0,0,0,fx,{\fade(255,255,0,0,0,195,252)\p1\an7\move(0,430,0,530,3957,4184)\clip(628,0,632,480)\c&H340000&\blur0.5}m 0 0 l 640 0 640 30 0 30
