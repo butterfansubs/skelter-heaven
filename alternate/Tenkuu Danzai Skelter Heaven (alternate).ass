@@ -158,7 +158,7 @@ Dialogue: 0,0:10:25.10,0:10:27.64,Default,,0,0,0,,02, when the scan's done, atta
 Dialogue: 0,0:10:27.64,0:10:28.34,Default,,0,0,0,,Roger!
 Dialogue: 0,0:10:43.62,0:10:44.86,Default,,0,0,0,,Misaki!
 Dialogue: 0,0:10:44.86,0:10:46.06,Default,,0,0,0,,Behind!
-Dialogue: 0,0:10:47.98,0:10:49.06,Default,TM,0,0,0,,Ah!{Badden it up - Lann}
+Dialogue: 0,0:10:47.98,0:10:49.06,Default,TM,0,0,0,,Aaaaaaahhhh!{Badden it up - Lann}
 Dialogue: 0,0:10:49.16,0:10:50.33,Default,,0,0,0,,Midori!
 Dialogue: 0,0:10:50.33,0:10:52.43,Default,,0,0,0,,Don't stop! You aim for the target!
 Dialogue: 0,0:10:52.43,0:10:54.03,Default,,0,0,0,,But Misaki is...
@@ -170,6 +170,7 @@ Dialogue: 0,0:11:01.57,0:11:05.24,Default,TLC,0,0,0,,The object's outside is har
 Dialogue: 0,0:11:08.81,0:11:09.78,Default,,0,0,0,,Did you hear that, Rin?
 Dialogue: 0,0:11:09.78,0:11:11.32,Default,,0,0,0,,No free time for crying.
 Dialogue: 0,0:11:19.69,0:11:21.79,Default,,0,0,0,,02 will attack to cover.
+Dialogue: 0,0:11:27.68,0:11:31.52,Default,,0,0,0,,AAAAAAAAAAHHHHHH!
 Dialogue: 0,0:11:32.14,0:11:33.34,Default,,0,0,0,,Rin!
 Dialogue: 0,0:11:38.34,0:11:40.28,Default,,0,0,0,,This is a created existance.
 Dialogue: 0,0:11:41.01,0:11:46.45,Default,TLC,0,0,0,,As it is growing, it will get smarter than a human,{More Engrish I'm hearing? - Lann}{ihear no engrish what}
@@ -208,8 +209,8 @@ Dialogue: 0,0:13:38.80,0:13:40.73,Default,,0,0,0,,Funagai! Are you crazy?
 Dialogue: 0,0:13:42.23,0:13:43.90,Default,,0,0,0,,This was just work.
 Dialogue: 0,0:13:45.67,0:13:48.71,Default,,0,0,0,,Thinking that, I somehow did it.
 Dialogue: 0,0:13:49.47,0:13:50.28,Default,,0,0,0,,But...
-Dialogue: 0,0:13:51.54,0:13:52.68,Default,,0,0,0,,They...
-Dialogue: 0,0:13:53.31,0:13:54.41,Default,,0,0,0,,were laughing.
+Dialogue: 0,0:13:51.54,0:13:52.68,Default,,0,0,0,,... They...
+Dialogue: 0,0:13:53.31,0:13:54.41,Default,,0,0,0,,... were laughing.
 Dialogue: 0,0:13:56.11,0:13:58.38,Default,,0,0,0,,I am... I am...
 Dialogue: 0,0:14:08.29,0:14:09.26,Default,TM,0,0,0,,Ah!
 Dialogue: 0,0:14:13.47,0:14:15.93,Default,,0,0,0,,What are you doing, Rin?
@@ -231,7 +232,7 @@ Dialogue: 0,0:15:40.32,0:15:44.42,Default,,0,0,0,,But that's just one side of hu
 Dialogue: 0,0:15:45.62,0:15:47.56,Default,,0,0,0,,We need to beat you.
 Dialogue: 0,0:15:49.60,0:15:50.08,Default,TM,0,0,0,,No. 
 Dialogue: 0,0:15:50.86,0:15:52.93,Default,,0,0,0,,It's  not for humanity's sake.
-Dialogue: 0,0:15:53.26,0:15:55.70,Default,,0,0,0,,Its to protect one person who needs be protect!
+Dialogue: 0,0:15:53.26,0:15:55.70,Default,,0,0,0,,Its to protect just one person who needs to be protected!
 Dialogue: 0,0:15:55.70,0:15:57.44,Default,,0,0,0,,I'm fighting!
 Dialogue: 0,0:16:31.30,0:16:33.57,Default,,0,0,0,,Yes, that's true.
 Dialogue: 0,0:16:33.57,0:16:34.84,Default,,0,0,0,,Understood.
