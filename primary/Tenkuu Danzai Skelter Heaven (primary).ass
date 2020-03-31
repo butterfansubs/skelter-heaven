@@ -687,7 +687,8 @@ Dialogue: 1,0:03:34.33,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15
 Dialogue: 1,0:03:34.69,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
 Dialogue: 1,0:03:35.05,0:03:38.20,Signs,,0,0,0,,{\fnFansub Block\fs16\an6\blur15\c&H000000&\1a&HC0&\move(0,145.462,640,145.462,0,2587)\fad(1186,0)\p1}m 0 0 l 640 0 631 16 0 16
 Comment: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,# One year later
-Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\pos(325.143,254.286)}One year later...
+Dialogue: 0,0:16:55.06,0:16:59.73,Signs,,0,0,0,,{\pos(0,0)\an7\p1\c&H000000&}m 237 209 l 392 209 393 274 237 274
+Dialogue: 0,0:16:55.06,0:16:59.73,Signs,,0,0,0,,{\pos(320,240)\fnMonotype Corsiva\fs36\i1\fad(1222,1212)}One year later...
 Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,# News headline reprise
 Comment: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,## Background
 Dialogue: 0,0:17:02.37,0:17:11.88,Signs,,0,0,0,,{\fad(0,3252)\an7\pos(0,344)\blur1\p1\c&HC34B00&\1a&H73&\t(6424,9494,\c&HD0B1A5&)}m -4 0 l 644 0 644 2 -4 2
