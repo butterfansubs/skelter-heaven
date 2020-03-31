@@ -15,9 +15,9 @@ Video File: E:/Downloads/skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
-Scroll Position: 211
-Active Line: 220
-Video Position: 3011
+Scroll Position: 343
+Active Line: 354
+Video Position: 3284
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -254,12 +254,10 @@ Comment: 0,0:01:43.35,0:01:47.89,Signs,,0,0,0,,{\pos(342.545,73.636)}Specially D
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,# Engineered humans
 Dialogue: 0,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an7\pos(0,-15)\c&H6C393A&\blur20\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
 Dialogue: 0,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4B1A19&\blur26\clip(548.36,-0.73,607.27,480)\p1}m 500 255 l 700 255 700 800 500 800
-Dialogue: 1,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
+Dialogue: 1,0:01:43.40,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
 Dialogue: 0,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 170 l 700 170 700 800 500 800
-Dialogue: 0,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
 Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,0)\c&H210808&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 70 l 700 70 700 800 500 800
 Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 170 l 700 170 700 800 500 800
-Dialogue: 0,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
 Comment: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H0F0000&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
 Comment: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H200505&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
 Comment: 0,0:01:43.50,0:01:47.80,Signs,,0,0,0,,{\an7\pos(0,0)\c&H451414&\blur25\clip(548.36,-0.73,607.27,480)\p1}m 500 -50 l 700 -50 700 800 500 800
@@ -361,29 +359,31 @@ Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H653435&\blur25
 Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H663536&\blur25\clip(548,469,607,474)\p1}m 500 -50 l 700 -50 700 800 500 800
 Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H673637&\blur25\clip(548,474,607,479)\p1}m 500 -50 l 700 -50 700 800 500 800
 Dialogue: 0,0:01:43.50,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\c&H683738&\blur25\clip(548,479,607,484)\p1}m 500 -50 l 700 -50 700 800 500 800
-Dialogue: 1,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,392.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
-Dialogue: 1,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,300.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
-Dialogue: 1,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,208.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
-Dialogue: 1,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,118.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
-Dialogue: 1,0:01:43.50,0:01:47.87,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
-Dialogue: 1,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an4\blur0.6\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\clip(554.4,210.4,596.795,448)}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an4\pos(578.212,392.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an4\pos(578.212,300.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an4\pos(578.212,208.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an4\pos(578.212,118.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.50,0:01:47.87,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\blur0.6\clip(554.4,210.4,596.79,448)}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
 Dialogue: 1,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur3\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
 Dialogue: 1,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur1\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
 Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,0)\1c&H280808&\blur2\p1}m 607 172 l 548 215 548 508 607 508
-Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\p1\clip(m 548 214 l 607 171 607 480 548 480)}m 500 170 l 700 170 700 800 500 800
+Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur25\clip(m 548 214 l 607 171 607 480 548 480)\p1}m 500 170 l 700 170 700 800 500 800
 Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
-Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\1c&H280808&\blur2\p1\pos(0,100.636)}m 607 172 l 548 212 548 508 607 508
-Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur50\p1\clip(m 548 311 l 607 269 607 480 548 480)}m 500 170 l 700 170 700 800 500 800
+Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,100.636)\1c&H280808&\blur2\p1}m 607 172 l 548 212 548 508 607 508
+Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4A1819&\blur50\clip(m 548 311 l 607 269 607 480 548 480)\p1}m 500 170 l 700 170 700 800 500 800
 Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(548.36,298.91,607.27,480)\p1}m 500 374 l 700 374 700 700 500 700
 Dialogue: 0,0:01:47.90,0:01:47.94,Signs,,0,0,0,,{\an7\pos(0,195.222)\1c&H280808&\blur1.5\p1}m 607 172 l 548 215 548 508 607 508
-Dialogue: 0,0:01:47.90,0:01:47.94,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\p1\clip(m 548 409 l 607 366 607 480 548 480)}m 500 374 l 700 374 700 700 500 700
+Dialogue: 0,0:01:47.90,0:01:47.94,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(m 548 409 l 607 366 607 480 548 480)\p1}m 500 374 l 700 374 700 700 500 700
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,{\pos(581.212,290.969)}Work was being done to engineer humans to follow all orders as soon as they are born.
 Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,# First generation [Bucket or someone else]
 Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,{\pos(322.545,320.302)}AA, after many years of development, had succeeded in producing the first generation of such beings.
 Dialogue: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,{\pos(322.545,320.302)}AA, after many years of development, had succeeded in producing the first generation of such beings.
 Comment: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,# To prepare
 Dialogue: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H505050&\t(526,800,\1c&HC1C1C1&)}m 105 399 l 640 399 640 429 105 429
-Dialogue: 0,0:01:48.45,0:01:49.25,Signs,,0,0,0,,{\fs15\blur50\fade(200,0)\t(0,200,\blur0)\t(200,400,\1a&HFF&)\t(400,401,\1a&H00&)\t(401,600,\1a&HFF&)\t(600,601,\1a&H00&)\t(626,800,\blur10)\clip(0,388.364,639,432.455)\fnConthrax Sb\b0\move(465.178,420,480.178,420,25,526)}To prepare for when that day comes...
+Dialogue: 0,0:01:48.50,0:01:48.64,Signs,,0,0,0,,{\fs15\blur5\t(0,142,\blur0.5)\clip(0,388.364,639,432.455)\fnConthrax Sb\b0\c&HFFFFFF&\1a&H30&\move(280.032,420,433.001,420,8,109)}To prepare for when that day comes...
+Dialogue: 0,0:01:48.64,0:01:49.14,Signs,,0,0,0,,{\fnConthrax Sb\blur0.6\b0\c&HFFFFFF&\fs15\1a&H30&\t(0,135,\1a&HFF&)\t(135,136,\1a&H00&)\t(169,302,\1a&HFF&)\t(302,303,\1a&H00&)\t(336,469,\1a&HFF&)\t(470,471,\1a&H00&)\move(468.651,420,500.695,420,2,502)}To prepare for when that day comes...
+Dialogue: 0,0:01:49.14,0:01:49.36,Signs,,0,0,0,,{\fnConthrax Sb\blur0.6\t(0,136,\blur5)\clip(0,388.364,639,432.455)\b0\c&HFFFFFF&\fs15\move(500.695,420,801.558,420,2,136)}To prepare for when that day comes...
 Comment: 0,0:01:53.03,0:02:07.57,Signs,,0,0,0,,# Identical programming
 Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\an7\pos(69.212,197.635)\1c&H350000&\blur1\p1}m -23 -198 l 18 -198 18 281 -23 281
 Dialogue: 1,0:01:53.03,0:02:07.56,Signs,,0,0,0,,{\an7\pos(69.212,197.635)\1c&H7C0000&\blur1\p1}m -23 -198 l 18 -198 18 281 -23 281
