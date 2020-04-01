@@ -364,8 +364,9 @@ Dialogue: 1,0:01:43.37,0:01:43.40,Signs,,0,0,0,,{\an4\pos(578.212,392.969)\frz-9
 Dialogue: 1,0:01:43.40,0:01:43.43,Signs,,0,0,0,,{\an4\pos(578.212,300.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
 Dialogue: 1,0:01:43.43,0:01:43.47,Signs,,0,0,0,,{\an4\pos(578.212,208.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
 Dialogue: 1,0:01:43.47,0:01:43.50,Signs,,0,0,0,,{\an4\pos(578.212,118.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
-Dialogue: 1,0:01:43.50,0:01:47.87,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\blur0.6}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
-Dialogue: 1,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\blur0.6\clip(554.4,210.4,596.79,448)}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:43.50,0:01:47.87,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\blur0.6\clip(m 548 214 l 607 171 607 480 548 480)}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:47.87,0:01:47.89,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\blur0.6\clip(m 548 311 l 607 269 607 480 548 480)}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
+Dialogue: 1,0:01:47.89,0:01:47.92,Signs,,0,0,0,,{\an4\pos(578.212,27.969)\frz-90\fnConthrax Sb\fs13\blur0.6\clip(m 548 409 l 607 366 607 480 548 480)}Work was being done to engineer humans to follow\Nall orders as soon as they are born.
 Dialogue: 1,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur3\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
 Dialogue: 1,0:01:47.80,0:01:47.84,Signs,,0,0,0,,{\an7\pos(0,0)\blur1\clip(548.27,42.13,607.47,132.8)\p1}m 537 116 l 617 60 619 64 539 120
 Dialogue: 0,0:01:47.84,0:01:47.87,Signs,,0,0,0,,{\an7\pos(0,0)\1c&H280808&\blur2\p1}m 607 172 l 548 215 548 508 607 508
