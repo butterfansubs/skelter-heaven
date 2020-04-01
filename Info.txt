@@ -21,6 +21,8 @@ MyAnimeList: https://myanimelist.net/anime/3287/Tenkuu_Danzai_Skelter_Heaven
 AniDB:       https://anidb.net/anime/2698
 Anilist:     https://anilist.co/anime/3287/Tenkuu-Danzato-Skelter-Heaven/
 
+These subs on GitHub: https://github.com/butterfansubs/skelter-heaven
+
 /////////////////////////////////////////////////////////////////////
 // HOW TO ENJOY THIS RELEASE
 //
