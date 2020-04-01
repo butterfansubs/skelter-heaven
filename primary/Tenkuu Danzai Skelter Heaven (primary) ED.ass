@@ -45,21 +45,21 @@ Comment: 0,0:18:32.57,0:18:37.81,ED-R,,0,0,0,karaoke,{\kf50}{\kf96}wa{\kf36}ta{\
 Comment: 0,0:18:37.81,0:18:41.67,ED-R,,0,0,0,karaoke,{\kf28}{\kf25}a{\kf24}na{\kf24}ta {\kf37}ka{\kf37}ra {\kf24}ha{\kf36}ji{\kf37}ma{\kf114}ru
 Comment: 0,0:18:41.67,0:18:41.67,ED-R,,0,0,0,karaoke,
 Comment: 0,0:17:35.23,0:17:39.05,ED-E,,0,0,0,karaoke,I leave my life up to fate. What can I do?
-Comment: 0,0:17:39.05,0:17:42.93,ED-E,,0,0,0,karaoke,Perhaps I live in deep despair, I don't really care
-Comment: 0,0:17:42.93,0:17:46.80,ED-E,,0,0,0,karaoke,Here we are, it's me and you. We're tied by our two destinies
+Comment: 0,0:17:39.05,0:17:42.93,ED-E,,0,0,0,karaoke,Perhaps I live in deep despair, I don’t really care
+Comment: 0,0:17:42.93,0:17:46.80,ED-E,,0,0,0,karaoke,Here we are, it’s me and you. We’re tied by our two destinies
 Comment: 0,0:17:46.80,0:17:50.68,ED-E,,0,0,0,karaoke,But I know it might not be what you wish for in your
-Comment: 0,0:17:50.68,0:17:55.42,ED-E,,0,0,0,karaoke,Heart... The pain inside me grows much too strong
+Comment: 0,0:17:50.68,0:17:55.42,ED-E,,0,0,0,karaoke,Heart… The pain inside me grows much too strong
 Comment: 0,0:17:55.42,0:17:57.63,ED-E,,0,0,0,karaoke,It makes me get up and fight
-Comment: 0,0:17:57.63,0:18:02.21,ED-E,,0,0,0,karaoke,Endless... These feelings well up in my heart
+Comment: 0,0:17:57.63,0:18:02.21,ED-E,,0,0,0,karaoke,Endless… These feelings well up in my heart
 Comment: 0,0:18:02.21,0:18:06.10,ED-E,,0,0,0,karaoke,I am crushed under all my feelings
 Comment: 0,0:18:06.10,0:18:09.48,ED-E,,0,0,0,karaoke,What can I do to protect you? I cried
-Comment: 0,0:18:09.48,0:18:13.82,ED-E,,0,0,0,karaoke,I'd let myself break completely for you
-Comment: 0,0:18:13.82,0:18:17.14,ED-E,,0,0,0,karaoke,I have embraced all the love that's inside
-Comment: 0,0:18:17.14,0:18:20.97,ED-E,,0,0,0,karaoke,Hey, why don't you look my way?
+Comment: 0,0:18:09.48,0:18:13.82,ED-E,,0,0,0,karaoke,I’d let myself break completely for you
+Comment: 0,0:18:13.82,0:18:17.14,ED-E,,0,0,0,karaoke,I have embraced all the love that’s inside
+Comment: 0,0:18:17.14,0:18:20.97,ED-E,,0,0,0,karaoke,Hey, why don’t you look my way?
 Comment: 0,0:18:20.97,0:18:24.82,ED-E,,0,0,0,karaoke,Now lay your hand on this heart of my own
-Comment: 0,0:18:24.82,0:18:28.97,ED-E,,0,0,0,karaoke,Let's look for time everlasting, endless
-Comment: 0,0:18:28.97,0:18:32.57,ED-E,,0,0,0,karaoke,I'm begging you please, don't you leave me alone
-Comment: 0,0:18:32.57,0:18:37.81,ED-E,,0,0,0,karaoke,Life after won't mean a thing, don't you know?
+Comment: 0,0:18:24.82,0:18:28.97,ED-E,,0,0,0,karaoke,Let’s look for time everlasting, endless
+Comment: 0,0:18:28.97,0:18:32.57,ED-E,,0,0,0,karaoke,I’m begging you please, don’t you leave me alone
+Comment: 0,0:18:32.57,0:18:37.81,ED-E,,0,0,0,karaoke,Life after won’t mean a thing, don’t you know?
 Comment: 0,0:18:37.81,0:18:41.67,ED-E,,0,0,0,karaoke,All that I am is because of you
 Comment: 0,0:18:41.67,0:18:41.67,ED-E,,0,0,0,karaoke,
 Dialogue: 0,0:17:34.87,0:17:35.23,ED-R,,0,0,0,fx,{\clip(0,0,0,480)\t(0,360,\clip(0,0,480,480))\c&H838383&\1a&H7F&}ayatsurareteku unmei ga
@@ -102,28 +102,28 @@ Dialogue: 0,0:17:34.87,0:17:35.23,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\
 Dialogue: 0,0:17:35.23,0:17:39.17,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3460,3940,\clip(0,0,0,480))}I leave my life up to fate. What can I do?
 Dialogue: 1,0:17:38.69,0:17:39.17,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:17:38.69,0:17:39.17,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:17:38.69,0:17:39.05,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Perhaps I live in deep despair, I don't really care
-Dialogue: 0,0:17:39.05,0:17:43.05,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3520,4000,\clip(0,0,0,480))}Perhaps I live in deep despair, I don't really care
+Dialogue: 0,0:17:38.69,0:17:39.05,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Perhaps I live in deep despair, I don’t really care
+Dialogue: 0,0:17:39.05,0:17:43.05,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3520,4000,\clip(0,0,0,480))}Perhaps I live in deep despair, I don’t really care
 Dialogue: 1,0:17:42.57,0:17:43.05,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:17:42.57,0:17:43.05,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:17:42.57,0:17:42.93,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Here we are, it's me and you. We're tied by our two destinies
-Dialogue: 0,0:17:42.93,0:17:46.92,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3510,3990,\clip(0,0,0,480))}Here we are, it's me and you. We're tied by our two destinies
+Dialogue: 0,0:17:42.57,0:17:42.93,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Here we are, it’s me and you. We’re tied by our two destinies
+Dialogue: 0,0:17:42.93,0:17:46.92,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3510,3990,\clip(0,0,0,480))}Here we are, it’s me and you. We’re tied by our two destinies
 Dialogue: 1,0:17:46.44,0:17:46.92,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:17:46.44,0:17:46.92,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
 Dialogue: 0,0:17:46.44,0:17:46.80,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}But I know it might not be what you wish for in your
 Dialogue: 0,0:17:46.80,0:17:50.80,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3520,4000,\clip(0,0,0,480))}But I know it might not be what you wish for in your
 Dialogue: 1,0:17:50.32,0:17:50.80,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:17:50.32,0:17:50.80,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:17:50.32,0:17:50.68,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Heart... The pain inside me grows much too strong
-Dialogue: 0,0:17:50.68,0:17:55.54,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(4380,4860,\clip(0,0,0,480))}Heart... The pain inside me grows much too strong
+Dialogue: 0,0:17:50.32,0:17:50.68,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Heart… The pain inside me grows much too strong
+Dialogue: 0,0:17:50.68,0:17:55.54,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(4380,4860,\clip(0,0,0,480))}Heart… The pain inside me grows much too strong
 Dialogue: 1,0:17:55.06,0:17:55.54,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:17:55.06,0:17:55.54,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
 Dialogue: 0,0:17:55.06,0:17:55.42,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}It makes me get up and fight
 Dialogue: 0,0:17:55.42,0:17:57.75,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(1850,2330,\clip(0,0,0,480))}It makes me get up and fight
 Dialogue: 1,0:17:57.27,0:17:57.75,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:17:57.27,0:17:57.75,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:17:57.27,0:17:57.63,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Endless... These feelings well up in my heart
-Dialogue: 0,0:17:57.63,0:18:02.33,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(4220,4700,\clip(0,0,0,480))}Endless... These feelings well up in my heart
+Dialogue: 0,0:17:57.27,0:17:57.63,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Endless… These feelings well up in my heart
+Dialogue: 0,0:17:57.63,0:18:02.33,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(4220,4700,\clip(0,0,0,480))}Endless… These feelings well up in my heart
 Dialogue: 1,0:18:01.85,0:18:02.33,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:01.85,0:18:02.33,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
 Dialogue: 0,0:18:01.85,0:18:02.21,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}I am crushed under all my feelings
@@ -134,32 +134,32 @@ Dialogue: 0,0:18:05.74,0:18:06.10,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\
 Dialogue: 0,0:18:06.10,0:18:09.60,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3020,3500,\clip(0,0,0,480))}What can I do to protect you? I cried
 Dialogue: 1,0:18:09.12,0:18:09.60,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:09.12,0:18:09.60,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:18:09.12,0:18:09.48,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}I'd let myself break completely for you
-Dialogue: 0,0:18:09.48,0:18:13.94,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3980,4460,\clip(0,0,0,480))}I'd let myself break completely for you
+Dialogue: 0,0:18:09.12,0:18:09.48,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}I’d let myself break completely for you
+Dialogue: 0,0:18:09.48,0:18:13.94,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3980,4460,\clip(0,0,0,480))}I’d let myself break completely for you
 Dialogue: 1,0:18:13.46,0:18:13.94,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:13.46,0:18:13.94,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:18:13.46,0:18:13.82,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}I have embraced all the love that's inside
-Dialogue: 0,0:18:13.82,0:18:17.26,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(2960,3440,\clip(0,0,0,480))}I have embraced all the love that's inside
+Dialogue: 0,0:18:13.46,0:18:13.82,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}I have embraced all the love that’s inside
+Dialogue: 0,0:18:13.82,0:18:17.26,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(2960,3440,\clip(0,0,0,480))}I have embraced all the love that’s inside
 Dialogue: 1,0:18:16.78,0:18:17.26,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:16.78,0:18:17.26,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:18:16.78,0:18:17.14,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Hey, why don't you look my way?
-Dialogue: 0,0:18:17.14,0:18:21.09,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3470,3950,\clip(0,0,0,480))}Hey, why don't you look my way?
+Dialogue: 0,0:18:16.78,0:18:17.14,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Hey, why don’t you look my way?
+Dialogue: 0,0:18:17.14,0:18:21.09,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3470,3950,\clip(0,0,0,480))}Hey, why don’t you look my way?
 Dialogue: 1,0:18:20.61,0:18:21.09,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:20.61,0:18:21.09,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
 Dialogue: 0,0:18:20.61,0:18:20.97,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Now lay your hand on this heart of my own
 Dialogue: 0,0:18:20.97,0:18:24.94,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3490,3970,\clip(0,0,0,480))}Now lay your hand on this heart of my own
 Dialogue: 1,0:18:24.46,0:18:24.94,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:24.46,0:18:24.94,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:18:24.46,0:18:24.82,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Let's look for time everlasting, endless
-Dialogue: 0,0:18:24.82,0:18:29.09,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3790,4270,\clip(0,0,0,480))}Let's look for time everlasting, endless
+Dialogue: 0,0:18:24.46,0:18:24.82,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Let’s look for time everlasting, endless
+Dialogue: 0,0:18:24.82,0:18:29.09,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3790,4270,\clip(0,0,0,480))}Let’s look for time everlasting, endless
 Dialogue: 1,0:18:28.61,0:18:29.09,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:28.61,0:18:29.09,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:18:28.61,0:18:28.97,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}I'm begging you please, don't you leave me alone
-Dialogue: 0,0:18:28.97,0:18:32.69,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3240,3720,\clip(0,0,0,480))}I'm begging you please, don't you leave me alone
+Dialogue: 0,0:18:28.61,0:18:28.97,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}I’m begging you please, don’t you leave me alone
+Dialogue: 0,0:18:28.97,0:18:32.69,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(3240,3720,\clip(0,0,0,480))}I’m begging you please, don’t you leave me alone
 Dialogue: 1,0:18:32.21,0:18:32.69,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:32.21,0:18:32.69,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
-Dialogue: 0,0:18:32.21,0:18:32.57,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Life after won't mean a thing, don't you know?
-Dialogue: 0,0:18:32.57,0:18:37.93,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(4880,5360,\clip(0,0,0,480))}Life after won't mean a thing, don't you know?
+Dialogue: 0,0:18:32.21,0:18:32.57,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}Life after won’t mean a thing, don’t you know?
+Dialogue: 0,0:18:32.57,0:18:37.93,ED-E,,0,0,0,fx,{\clip(160,0,640,480)\t(0,120,\clip(0,0,640,480))\t(4880,5360,\clip(0,0,0,480))}Life after won’t mean a thing, don’t you know?
 Dialogue: 1,0:18:37.45,0:18:37.93,ED-E,,0,0,0,fx,{\p1\move(0,0,640,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 0 l 8 0 8 58 0 58
 Dialogue: 1,0:18:37.45,0:18:37.93,ED-E,,0,0,0,fx,{\p1\move(640,0,0,0)\an8\blur0.5\c&H860000&\bord0\1a&H00&}m 0 420 l 8 420 8 480 0 480
 Dialogue: 0,0:18:37.45,0:18:37.81,ED-E,,0,0,0,fx,{\clip(640,0,640,480)\t(0,360,\clip(160,0,640,480))}All that I am is because of you
