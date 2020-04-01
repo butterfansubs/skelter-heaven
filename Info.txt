@@ -43,7 +43,7 @@ this track amusing to watch. Watch this track second.
 
 Thank you to all the groups who participated:
 
-- ButterFS:  https://twitter.com/butterfs 
+- ButterFS:  https://twitter.com/butterfs
 - SMC-Subs:  https://nyaa.si/user/jymmy
 - LCE:       https://nyaa.si/user/LCE
 - 0x539:     https://nyaa.si/user/The0x539
@@ -71,145 +71,145 @@ Here are some comments from some of the people who worked on it:
 	wow, you really did it, amazing,
 	congratulations and thanks
 		-- jymmy
-	
+
 	watch tamayura
 		-- Myaamori
-	
+
 	whatever I did to you, I'm sorry
 	might this fill the void in my heart?
 		-- The0x539
-	
+
 	Kantai isn't actually named after Kantai Collection.
 		-- OblivionShadow
-	
+
 	I'm never going to get that month back.
 		-- bucket3432
 
 Of course, this relase would not have been possible without all the
 people who had worked on the original anime and game.
 
-Cast                    
-    Rin Ichikawa       Megumi Nasu    
-    Misaki Kashima     Nahoko Suzuki    
-    Konomi Tamura      Kaori Nazuka    
-    Midori Matsumura   Shizuka Itou    
-    Ayaka Matsumoto    Minori Chihara    
-    Makoto Hayakawa    Chiho Ookawa    
-    Otoya Funagai      Kouji Miyoshi    
-    Hiroaki Mishima    Hideyuki Tanaka    
-                    
-Staff                    
-    Planning & Production       Shingo Kuwana    
-    Character Design            Toshiyuki Ooshio    
+Cast
+    Rin Ichikawa       Megumi Nasu
+    Misaki Kashima     Nahoko Suzuki
+    Konomi Tamura      Kaori Nazuka
+    Midori Matsumura   Shizuka Itou
+    Ayaka Matsumoto    Minori Chihara
+    Makoto Hayakawa    Chiho Ookawa
+    Otoya Funagai      Kouji Miyoshi
+    Hiroaki Mishima    Hideyuki Tanaka
+
+Staff
+    Planning & Production       Shingo Kuwana
+    Character Design            Toshiyuki Ooshio
     Original Story Assistance   Shouhei Tomita (Yuumotto Co. Ltd)
                                 Yuuichi Morita (Studio EXIT)
                                 Tsunekiyo Fujisawa (Design Factory)
 
-    Original Game Director          Tomo Tsuchiya    
-    Original Game Main Programmer   Yuu Kezuka    
-                    
-    Animation Director        Ken'ichi Oonuki    
-                              Masanori Nishii    
-                    
-    Key Frame Animation & 3D Animation Production   Minamimachi Bugyousho    
-    Minamimachi Bugyousho Executive                 Osamu Yamasaki    
-                    
-    Key Frame Animation     Masayuki Yoshida    
-                            Usaku Myouchin    
-                    
-    CG Modeling             Kenta Amagasaki    
-                            Akimune Tanaka    
-                            Yoshiharu Wakamatsu    
-                    
-    CG Animation Director   Satoru Shimizu    
-                    
-    CG Animation Director   Satoru Shimizu    
-                            Kenta Amagasaki    
-                            Akimune Tanaka    
-                            Yoshiharu Wakamatsu    
-                    
-    In-Between Animation         Shanghai Xinyang Donghua    
-                    
-    In-Between Animation Check   Minamimachi Bugyousho    
-                    
-    Digital Effect               Atsuhiko Obata    
-                    
-    Animation Cinematography     Zunari Nishidaka    
-                    
-    Production Assistance        Tomohiro Sugiyama    
-                    
-    Background Art      Charles Munka    
-                        New Ocean Science and Technology    
-                    
-    Color Coordinator   Takahiro Shiina    
-                    
-    Digital Paint       Enzima International    
-                        Manuel Jiongco III    
-                        Maricel Asunicion    
-                        Ginger Uy    
-                        Blesilda Maniapaz    
-                        Cherry Lou Juntarciego    
-                        Kristian Obedson Cabebe    
-                        Joe Roo Leo    
-                    
-    Music               Kenji Kaneko    
-                    
+    Original Game Director          Tomo Tsuchiya
+    Original Game Main Programmer   Yuu Kezuka
+
+    Animation Director        Ken'ichi Oonuki
+                              Masanori Nishii
+
+    Key Frame Animation & 3D Animation Production   Minamimachi Bugyousho
+    Minamimachi Bugyousho Executive                 Osamu Yamasaki
+
+    Key Frame Animation     Masayuki Yoshida
+                            Usaku Myouchin
+
+    CG Modeling             Kenta Amagasaki
+                            Akimune Tanaka
+                            Yoshiharu Wakamatsu
+
+    CG Animation Director   Satoru Shimizu
+
+    CG Animation Director   Satoru Shimizu
+                            Kenta Amagasaki
+                            Akimune Tanaka
+                            Yoshiharu Wakamatsu
+
+    In-Between Animation         Shanghai Xinyang Donghua
+
+    In-Between Animation Check   Minamimachi Bugyousho
+
+    Digital Effect               Atsuhiko Obata
+
+    Animation Cinematography     Zunari Nishidaka
+
+    Production Assistance        Tomohiro Sugiyama
+
+    Background Art      Charles Munka
+                        New Ocean Science and Technology
+
+    Color Coordinator   Takahiro Shiina
+
+    Digital Paint       Enzima International
+                        Manuel Jiongco III
+                        Maricel Asunicion
+                        Ginger Uy
+                        Blesilda Maniapaz
+                        Cherry Lou Juntarciego
+                        Kristian Obedson Cabebe
+                        Joe Roo Leo
+
+    Music               Kenji Kaneko
+
 Theme Song "NAKED HEART"
-    Lyrics        Saki Nishina    
-    Composition   Miki Watanabe    
-    Arrangement   Miki Watanabe    
-    Vocals        Minori Chihara    
-                    
+    Lyrics        Saki Nishina
+    Composition   Miki Watanabe
+    Arrangement   Miki Watanabe
+    Vocals        Minori Chihara
+
 Ending Theme "Marionette"
-    Lyrics        Saki Nishina    
-    Composition   Yuuki Mizukami    
-    Arrangement   Yuuki Mizukami    
-    Vocals        Minori Chihara    
-                  King Record Co., Ltd    
-                    
-    Casting Assistance   Acsive Co. Ltd    
-                         Ken Production    
-                         Kekke Corporation    
-                         Carrot House    
-                    
-    Recording Assistance   Carrot House    
-                    
-    Sound Director         Hiro Ikeda    
-                    
-    Recording Manager      Isamu Ookawa    
-                    
-    Recording Director     Kazunari Nishidaka    
-                    
-    Sales Manager          Masaaki Yamada    
-                    
-    Public Relations       Konomi Mashita    
-                           Kumiko Iijima    
-                           Hirotaka Chiba    
-                    
-    Package Design         Nobuaki    Kobayashi    
-                    
-    Design Assistance      Yukiko    Abe    
-                    
-    Costume Supervision    Cospa    
-                    
-    Assistance             King Record Co., Ltd    
-                           Shigesao Iwase    
-                                   
-                           Tablier Inc.    
-                               
-                           Design Factory Co. Ltd    
-                           Makoto Higuchi    
-                           Hiroyuki Nakajima    
-                    
-    Original Game Development   Idea Factory Co.,Ltd.    
-                                Design Factory Co. Ltd    
-                    
-    Screenplay        Yoshiteru Satou    
-                      Tomohiro Sugiyama    
-                    
-    Director & Storyboard   Yoshiteru Satou    
-                    
-    Production Assistance   Idea Factory Co.,Ltd.    
+    Lyrics        Saki Nishina
+    Composition   Yuuki Mizukami
+    Arrangement   Yuuki Mizukami
+    Vocals        Minori Chihara
+                  King Record Co., Ltd
+
+    Casting Assistance   Acsive Co. Ltd
+                         Ken Production
+                         Kekke Corporation
+                         Carrot House
+
+    Recording Assistance   Carrot House
+
+    Sound Director         Hiro Ikeda
+
+    Recording Manager      Isamu Ookawa
+
+    Recording Director     Kazunari Nishidaka
+
+    Sales Manager          Masaaki Yamada
+
+    Public Relations       Konomi Mashita
+                           Kumiko Iijima
+                           Hirotaka Chiba
+
+    Package Design         Nobuaki    Kobayashi
+
+    Design Assistance      Yukiko Abe
+
+    Costume Supervision    Cospa
+
+    Assistance             King Record Co., Ltd
+                           Shigesao Iwase
+
+                           Tablier Inc.
+
+                           Design Factory Co. Ltd
+                           Makoto Higuchi
+                           Hiroyuki Nakajima
+
+    Original Game Development   Idea Factory Co.,Ltd.
+                                Design Factory Co. Ltd
+
+    Screenplay        Yoshiteru Satou
+                      Tomohiro Sugiyama
+
+    Director & Storyboard   Yoshiteru Satou
+
+    Production Assistance   Idea Factory Co.,Ltd.
 
 
 #####################################################################
