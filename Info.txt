@@ -41,22 +41,35 @@ this track amusing to watch. Watch this track second.
 // CREDITS
 //
 
+"Skelter" Track
+
+
+    Encoding:
+    Translation:
+    Translation Check:
+    Editing:
+    Timing:
+    Styling:
+    Typesetting:
+    Quality Checking:
+
+
 Thank you to all the groups who participated:
 
-- ButterFS:  https://twitter.com/butterfs
-- SMC-Subs:  https://nyaa.si/user/jymmy
-- LCE:       https://nyaa.si/user/LCE
-- 0x539:     https://nyaa.si/user/The0x539
-- Obelix:    https://nyaa.si/user/The0x539
-- HRI:       https://nyaa.si/user/Myaamori
-- Kaleido:   https://kaleido.kageru.moe/
-- Kantai:    https://kantai.subs.moe/
-- Sodra:     https://nyaa.si/user/sodra
-- Chyuu:     https://nyaa.si/user/Chyuu
-- TSCamp:    https://nyaa.si/?q=TSCamp
-- PAS:       https://pas.moe/
-- Nice-Boat: https://web.archive.org/web/20100501152101/http://nice-boat.info/
-- NotSoHorribleSubs: https://nyaa.si/user/Shirotsumekusa
+  - ButterFS:  https://twitter.com/butterfs
+  - SMC-Subs:  https://nyaa.si/user/jymmy
+  - LCE:       https://nyaa.si/user/LCE
+  - 0x539:     https://nyaa.si/user/The0x539
+  - Obelix:    https://nyaa.si/user/The0x539
+  - HRI:       https://nyaa.si/user/Myaamori
+  - Kaleido:   https://kaleido.kageru.moe/
+  - Kantai:    https://kantai.subs.moe/
+  - Sodra:     https://nyaa.si/user/sodra
+  - Chyuu:     https://nyaa.si/user/Chyuu
+  - TSCamp:    https://nyaa.si/?q=TSCamp
+  - PAS:       https://pas.moe/
+  - Nice-Boat: https://web.archive.org/web/20100501152101/http://nice-boat.info/
+  - NotSoHorribleSubs: https://nyaa.si/user/Shirotsumekusa
 
 Here are some comments from some of the people who worked on it:
 
