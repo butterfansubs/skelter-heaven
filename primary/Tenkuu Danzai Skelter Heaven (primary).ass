@@ -377,7 +377,7 @@ Dialogue: 0,0:01:47.87,0:01:47.90,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur5
 Dialogue: 0,0:01:47.90,0:01:47.94,Signs,,0,0,0,,{\an7\pos(0,195.222)\1c&H280808&\blur1.5\p1}m 607 172 l 548 215 548 508 607 508
 Dialogue: 0,0:01:47.90,0:01:47.94,Signs,,0,0,0,,{\an7\pos(0,50)\c&H6C393A&\blur50\clip(m 548 409 l 607 366 607 480 548 480)\p1}m 500 374 l 700 374 700 700 500 700
 Comment: 0,0:01:43.35,0:01:47.95,Signs,,0,0,0,,{\pos(581.212,290.969)}Work was being done to engineer humans to follow all orders as soon as they are born.
-Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,# First generation [Bucket or someone else]
+Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,# First generation
 Comment: 0,0:01:47.85,0:01:49.36,Signs,,0,0,0,,{\pos(322.545,320.302)}AA, after many years of development, had succeeded in producing the first generation of such beings.
 Comment: 0,0:01:48.12,0:01:49.36,Signs,,0,0,0,,{\c&HDBDBDB&\an7\blur1\pos(0,0)\p1}m 201 278 l 438 278 438 312 201 312
 Comment: 0,0:01:48.12,0:01:49.36,Signs,,0,0,0,,{\c&HFDFDFD&\an7\blur1\pos(0,0)\p1}m 201 278 l 438 278 438 312 201 312
