@@ -36,3 +36,6 @@ watch tamayura
 whatever I did to you, I'm sorry
 might this fill the void in my heart?
 -- The0x539
+
+Kantai isn't actually named after Kantai Collection.
+-- OblivionShadow
