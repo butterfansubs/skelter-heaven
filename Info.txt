@@ -43,9 +43,14 @@ this track amusing to watch. Watch this track second.
  // CREDITS
 //
 
-"Skelter" Track
+Video
+
+The video is an all-new encode from the DVD we bought.
 
   - Encoding:               Luceo
+
+"Skelter" Track
+
   - Translation:            jymmy
   - Translation checking:   Myaamori
   - Editing:                Nazaki, bucket3432, The0x539
@@ -56,7 +61,6 @@ this track amusing to watch. Watch this track second.
 
 "Weattprhopet" Track
 
-  - Encoding:               Luceo
   - Translation:            jymmy
   - Translation checking:   Melancholy
   - Editing:                Lann (dialogue), The0x539 (songs)
