@@ -59,8 +59,8 @@ this track amusing to watch. Watch this track second.
   - Encoding:               Luceo
   - Translation:            jymmy
   - Translation checking:   Melancholy
-  - Editing:                Lann
-  - Timing:                 Kuzu, Luceo
+  - Editing:                Lann (dialogue), The0x539 (songs)
+  - Timing:                 Kuzu (dialogue), Luceo (dialogue), Cocoa (songs)
   - Styling:                bucket3432 (dialogue), Cocoa (songs)
   - Typesetting:            Cocoa, Sodra
   - Quality checking:       bucket3432, jymmy, everyone else
