@@ -23,8 +23,8 @@ Anilist:     https://anilist.co/anime/3287/Tenkuu-Danzato-Skelter-Heaven/
 
 These subs on GitHub: https://github.com/butterfansubs/skelter-heaven
 
-/////////////////////////////////////////////////////////////////////
-// HOW TO ENJOY THIS RELEASE
+  ////////////////////////////////////////////////////////////////////
+ // HOW TO ENJOY THIS RELEASE
 //
 
 This video comes with two tracks: "Skelter" and "Weattprhopet."
@@ -39,8 +39,8 @@ The "Weattprhopet" track is a track fitting of the quality of the show,
 both in dialogue and in typesetting. It is our hope that you will find
 this track amusing to watch. Watch this track second.
 
-/////////////////////////////////////////////////////////////////////
-// CREDITS
+  ////////////////////////////////////////////////////////////////////
+ // CREDITS
 //
 
 "Skelter" Track
