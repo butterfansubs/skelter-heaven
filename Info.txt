@@ -46,7 +46,7 @@ this track amusing to watch. Watch this track second.
   - Encoding:               Luceo
   - Translation:            jymmy
   - Translation checking:   Myaamori
-  - Editing:                Nazaki, bucket3432
+  - Editing:                Nazaki, bucket3432, The0x539
   - Timing:                 OblivionShadow (dialogue), bucket3432 (songs)
   - Styling:                bucket3432 (dialogue), The0x539 (songs)
   - Typesetting:            bucket3432, Cocoa, The0x539
@@ -57,7 +57,7 @@ this track amusing to watch. Watch this track second.
   - Encoding:               Luceo
   - Translation:            jymmy
   - Translation checking:   Melancholy
-  - Editing:                Lann, The0x539
+  - Editing:                Lann
   - Timing:                 Kuzu, Luceo
   - Styling:                bucket3432 (dialogue), Cocoa (songs)
   - Typesetting:            Cocoa, Sodra
