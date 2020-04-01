@@ -6,6 +6,8 @@
 
 There are two subtitle tracks in this release. Read the `Info.txt` file for more details.
 
+The video is an all-new encode straight from the DVD.
+
 This release by SkelterSubs is a joint effort by the following groups:
 
 - [ButterFS](https://twitter.com/butterfs)
