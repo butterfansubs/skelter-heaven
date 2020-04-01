@@ -95,7 +95,7 @@ Dialogue: 0,0:06:30.59,0:06:33.28,Default,,0,0,0,,The JSDF will be our bait.
 Dialogue: 0,0:06:30.50,0:06:33.34,Default,,0,0,0,,{\an8}TL:Note Japan Self-Defense Forces is the JSDF
 Dialogue: 0,0:06:34.48,0:06:35.85,Default,TLC,0,0,0,,With just it's power,{Join below? - Lann}
 Dialogue: 0,0:06:36.57,0:06:36.76,Default,,0,0,0,,after using lots of energy, it can't fire again soon.
-Dialogue: 0,0:06:41.03,0:06:42.92,Default,TLC,0,0,0,,It needs time to recharge.{Am I hearing some Engrish in there that we have to keep literal? - Lann}
+Dialogue: 0,0:06:41.03,0:06:42.92,Default,TLC,0,0,0,,It has quite a time lag.{Am I hearing some Engrish in there that we have to keep literal? - Lann}
 Dialogue: 0,0:06:44.78,0:06:46.56,Default,,0,0,0,,Thats an enemy?
 Dialogue: 0,0:06:46.92,0:06:47.94,Default,,0,0,0,,Is that okay?
 Dialogue: 0,0:06:47.86,0:06:49.05,Default,,0,0,0,,Failure won't be forgiven.
@@ -231,7 +231,7 @@ Dialogue: 0,0:15:01.18,0:15:02.87,Default,,0,0,0,,Rin-san, I'm going!
 Dialogue: 0,0:15:06.08,0:15:09.77,Default,,0,0,0,,Skelter fighter Skelter wave has penetrated the target.
 Dialogue: 0,0:15:11.76,0:15:14.13,Default,,0,0,0,,What... what is this?
 Dialogue: 0,0:15:21.97,0:15:24.00,Default,,0,0,0,,This is the controlling core.
-Dialogue: 0,0:15:24.90,0:15:27.87,Default,,0,0,0,,The voice is entering into my head.
+Dialogue: 0,0:15:24.90,0:15:27.87,Default,,0,0,0,,The voice is directly entering into my head.
 Dialogue: 0,0:15:31.58,0:15:34.78,Default,,0,0,0,,It's true, there are humans that can't control emotions.
 Dialogue: 0,0:15:35.48,0:15:38.69,Default,,0,0,0,,And for the repeating breaking love, the end can't be seen.
 Dialogue: 0,0:15:40.22,0:15:44.17,Default,,0,0,0,,But that's just one side of humans.
@@ -260,7 +260,7 @@ Dialogue: 0,0:03:33.36,0:03:38.16,FanSubBlock,,0,0,0,,{\c&HF43835&\3c&HF43835&\b
 Dialogue: 0,0:03:33.23,0:03:38.16,Signs,,0,0,0,,{\bord1\fs15\pos(6,175.714)}Mysterious object in Air On Tokyo Airspace Is Moving
 Dialogue: 0,0:03:33.12,0:03:38.16,Signs,,0,0,0,,{\fs16\bord1\pos(486,175.714)}Mysterious object in Air On Tokyo Airspace Is Moving
 Dialogue: 0,0:16:55.38,0:16:59.52,FanSubBlock,,0,0,0,,{\be1\pos(318.597,240.467)\c&H000000&}AAA
-Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\be1\pos(318.597,240.467)\fnComic Sans MS\fs36}ONE YEARS AFT{\fnOpen Sans Semibold}ER…
+Dialogue: 0,0:16:54.86,0:16:59.76,Signs,,0,0,0,,{\be1\pos(318.597,240.467)\fnComic Sans MS\fs36}ONE YEAR AFT{\fnOpen Sans Semibold}ER…
 Dialogue: 0,0:17:02.55,0:17:10.71,FanSubBlock,,0,0,0,,{\pos(320,388.)\c&HFF0000&\3c&HFF0000&\bord1\be1\fscx200\fscy162}AAAAAAAAAAAA
 Dialogue: 0,0:17:02.18,0:17:10.79,Signs,,0,0,0,,{\pos(320,389.714)\bord2}Mysterious object in Air On Tokyo Airspace Is Moving
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ==================================
