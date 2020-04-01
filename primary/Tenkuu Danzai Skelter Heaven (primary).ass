@@ -8,14 +8,14 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: ../../../../Desktop/skelterheaven.mkv
-Video File: ../../../../Desktop/skelterheaven.mkv
+Audio File: skelterheaven.mkv
+Video File: skelterheaven.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 187
-Active Line: 204
-Video Position: 30789
+Scroll Position: 192
+Active Line: 203
+Video Position: 30641
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,8 +40,8 @@ Dialogue: 0,0:01:25.84,0:01:27.65,Default,,0,0,0,,How this will affect—
 Dialogue: 0,0:01:27.65,0:01:30.34,Default,,0,0,0,,…will affect international relations is uncertain.
 Comment: 0,0:01:31.00,0:01:31.00,Default,chptr,0,0,0,,{OP}OP
 Comment: 0,0:03:19.21,0:03:19.21,Default,chptr,0,0,0,,{Part A}Part A
-Dialogue: 0,0:03:20.24,0:03:23.64,Default,,0,0,0,,This just in: We’ve received an update.
-Dialogue: 0,0:03:23.64,0:03:27.08,Default,,0,0,0,,It appears the object has begun to move.
+Dialogue: 0,0:03:20.24,0:03:23.72,Default,,0,0,0,,This just in: We’ve received an update.
+Dialogue: 0,0:03:23.72,0:03:27.08,Default,,0,0,0,,It appears the object has begun to move.
 Dialogue: 0,0:03:27.08,0:03:29.24,Default,,0,0,0,,Once more:
 Dialogue: 0,0:03:29.24,0:03:32.16,Default,,0,0,0,,It appears the object has begun to move.
 Dialogue: 0,0:03:33.19,0:03:35.78,Default,,0,0,0,,{\i1\an8}We’ve received an update.
@@ -230,8 +230,8 @@ Dialogue: 0,0:16:33.53,0:16:34.75,Default,,0,0,0,,Understood.
 Dialogue: 0,0:16:37.87,0:16:40.32,Default,,0,0,0,,They weren’t defective in and of themselves.
 Dialogue: 0,0:16:40.94,0:16:43.60,Default,,0,0,0,,The problem lies in how we humans used them.
 Dialogue: 0,0:16:44.39,0:16:47.02,Default,,0,0,0,,It always does.
-Dialogue: 0,0:17:00.80,0:17:02.17,Default,,0,0,0,,Breaking news.
-Dialogue: 0,0:17:02.17,0:17:06.55,Default,,0,0,8,,Multiple mysterious entities \Nhave appeared in Tokyo’s airspace.
+Dialogue: 0,0:17:00.80,0:17:02.37,Default,,0,0,0,,Breaking news.
+Dialogue: 0,0:17:02.37,0:17:06.55,Default,,0,0,8,,Multiple mysterious entities \Nhave appeared in Tokyo’s airspace.
 Dialogue: 0,0:17:07.31,0:17:12.58,Default,,0,0,0,,A similar entity was destroyed by the JSDF one year ago.
 Comment: 0,0:17:25.99,0:17:25.99,Default,chptr,0,0,0,,{ED}ED
 Comment: 0,0:00:02.25,0:00:02.25,Default,,0,0,0,,== Signs ===============================
