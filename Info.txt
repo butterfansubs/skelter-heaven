@@ -216,7 +216,7 @@ Ending Theme "Marionette"
                            Kumiko Iijima
                            Hirotaka Chiba
 
-    Package Design         Nobuaki    Kobayashi
+    Package Design         Nobuaki Kobayashi
 
     Design Assistance      Yukiko Abe
 
