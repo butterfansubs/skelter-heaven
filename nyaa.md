@@ -27,7 +27,7 @@ This release by SkelterSubs is a joint effort by the following groups:
 
 More credits in `Info.txt`.
 
-To avoid playback issues, watching with [mpv](https://mpv.io/) is recommended.
+For best playback results, watching with [mpv](https://mpv.io/) (using `blend-subtitles=video`) is recommended.
 
 Video codec: H.264  
 Audio codec: AC3
