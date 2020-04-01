@@ -30,9 +30,9 @@ Style: ED-E,Roboto Condensed,30,&H3FFFFFFF,&H000000FF,&H00860000,&H66000000,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
-Dialogue: 0,0:01:09.68,0:01:13.25,Default,,0,0,0,,The unknown entity which appeared without warning in Tokyo airspace—
+Dialogue: 0,0:01:09.68,0:01:13.25,Default,,0,0,9,,The unknown entity which appeared \Nwithout warning in Tokyo airspace—
 Dialogue: 0,0:01:13.25,0:01:15.41,Default,,0,0,0,,has yet to show signs of activity.
-Dialogue: 0,0:01:15.41,0:01:17.70,Default,,0,0,0,,Discontent towards the government is building among the citizens,
+Dialogue: 0,0:01:15.41,0:01:17.70,Default,,0,0,9,,Discontent towards the government \Nis building among the citizens,
 Dialogue: 0,0:01:17.70,0:01:20.46,Default,,0,0,0,,who are confined to evacuation shelters.
 Dialogue: 0,0:01:21.19,0:01:22.66,Default,,0,0,0,,The JSDF—{For the—}
 Dialogue: 0,0:01:23.00,0:01:25.84,Default,,0,0,9,,The JSDF has been mobilized \Nfor the first time since the war.{For the first time since the war, the JSDF has been mobilized as part of a public security operation.}{Na: CPS here is way too wild, so we kinda have to make a judgment call on what info is necessary.}
@@ -128,7 +128,7 @@ Dialogue: 0,0:08:38.86,0:08:41.77,Default,,0,0,0,,That’s why I’m inferior to
 Dialogue: 0,0:08:42.57,0:08:43.57,Default,,0,0,0,,Misaki…
 Dialogue: 0,0:08:44.77,0:08:46.24,Default,,0,0,0,,{\i1}I’ll show him.
 Dialogue: 0,0:08:47.07,0:08:49.22,Default,,0,0,0,,{\i1}I’ll {\i0}prove{\i1} I’m superior to Rin.
-Dialogue: 0,0:08:53.61,0:08:58.34,Default,,0,0,0,,You’re on point. Ensure you penetrate the target directly with the probe.
+Dialogue: 0,0:08:53.61,0:08:58.34,Default,,0,0,9,,You’re on point. Ensure you penetrate\Nthe target directly with the probe.
 Dialogue: 0,0:08:58.34,0:09:00.72,Default,,0,0,0,,With this makeshift weapon?
 Dialogue: 0,0:09:00.72,0:09:02.99,Default,,0,0,0,,01 Skelter Wave, copy that.
 Dialogue: 0,0:09:21.37,0:09:23.85,Default,,0,0,0,,Skelter Wave, preparing for launch.
