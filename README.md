@@ -8,39 +8,8 @@ Fansubs for the anime "Tenkuu Danzai Skelter+Heaven".
 
 ## Status
 
-|      Ep | ENC | TL | TLC | ED | TM | TS | QC |
-|--------:|:---:|:--:|:---:|:--:|:--:|:--:|:--:|
-| 1 (Pri) |   ✓ |  ✓ |     |    |    |    |    |
-| 1 (Alt) |   ✓ |    |     |    |    |    |    |
-
-✓ = Completed
+See the [project boards](https://github.com/butterfansubs/skelter-heaven/projects).
 
 ## Credits
 
-This release is joint with the following groups: (TBA)
-
-### Primary track
-
-TBA.
-
-* **Encoding:**
-* **Translation:**
-* **Translation Check:**
-* **Editing:**
-* **Timing:**
-* **Styling:**
-* **Typesetting:**
-* **Quality Checking:**
-
-### Alternate track
-
-TBA.
-
-* **Encoding:**
-* **Translation:**
-* **Translation Check:**
-* **Editing:**
-* **Timing:**
-* **Styling:**
-* **Typesetting:**
-* **Quality Checking:**
+See [`Info.txt`](Info.txt).
